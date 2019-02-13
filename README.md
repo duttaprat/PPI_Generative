@@ -6,13 +6,12 @@ In the field of biomedical informatics, for tasks such as medical diagnosis or d
 - **Affiliation:**
 - **Submitted:**
 - **Accepted:**
- ## Motivation
-One of the crucial problems in the field of functional genomics is to understand the biological functionalities of the genes. Analyzing the gene expression values leads to the discovery of some biologically significant genes and also to understand the gene functions. In the field of bioinformatics, gene function prediction is often formalized as a classification problem. To accomplish this type of biological research, i.e., for classifying the disease genes, identifying the pathway markers, understanding the specificity of protein bindings, labeled biological data is more essential than unlabeled data. But collecting labeled data is very much expensive as that requires a lot of human effort and expertise. Moreover, collection of a huge amount of unlabeled data is relatively easy. In this paper we explore semi-supervised learning techniques to predict the label for the unlabeled genes using machine learning clustering algorithms and deep learning architecture.
+ 
  ## Getting Started 
  These instructions will allow you to emulate the results obtained from the code for development and testing purposes.
  ### Prerequisites
-* **[Python 2.7+](https://www.python.org/downloads/release/python-2713/)**{*MOO based Clustering done in Python older version.*}
-* **[Python 3.6](https://www.python.org/downloads/)** {*Label Prediction done in Python newer version.*}
+* **[Python 2.7+](https://www.python.org/downloads/release/python-2713/)**{*For MOO-based clustering. *}
+* **[Python 3.6](https://www.python.org/downloads/)** {*For developing generative model*}
 * **[sklearn](https://scikit-learn.org/stable/install.html)**
 * **[matplotlib 2.0+](https://matplotlib.org/users/installing.html)**
 * **[mpl_toolkits](https://matplotlib.org/2.0.2/mpl_toolkits/index.html)**
@@ -46,8 +45,8 @@ First, download and extract a copy of the Snorkel directory from a **[GitHub rel
 - [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (Ph.D, Indian Institute Of Technology Patna)
 - Sanket Pai (B.tech, Indian Institute Of Technology Patna)
 - Aviral Kumar (B.tech Indian Institute Of Technology Patna)
-## Acknowledgement
-This research work was completed under the guidance of [Dr. Sriparna Saha](http://www.iitp.ac.in/~sriparna/) of Computer Science and Technology Department at Indian Institute Of Technology Patna.
+- Dr. Sriparna Saha
+
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
