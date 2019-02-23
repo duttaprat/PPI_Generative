@@ -25,7 +25,8 @@ All our code is implemented in Python. The installation instructions are as foll
 > pip install numpy                                                                                                                     
 > pip install matplotlib                                                                                                                 
 > pip install numpy scipy scikit-learn                                                                                                   
-> If the above doesn't work try upgrading the setup tools as follows -                                                                   
+
+If the above doesn't work try upgrading the setup tools as follows -                                                                   
 > pip install --upgrade setuptools
 
 **NOTE:** To install Snorkel follow the given steps or refer **[here](https://github.com/HazyResearch/snorkel)** .
