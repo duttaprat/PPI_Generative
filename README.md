@@ -1,4 +1,8 @@
-# A Protein Interaction based Generative Model for Improving Gene Clustering
+# PPI_Generative
+
+## This is the readme file that contains the guidelines and information about the compilation the code of the following paper
+
+**Paper Name:-** A Protein Interaction based Generative Model for Improving Gene Clustering
 
  
 
