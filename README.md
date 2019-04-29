@@ -9,7 +9,7 @@
 - **Authors:**
 - **Affiliation:**
 - **Submitted:**
-- **Accepted:**
+
  
  ## Getting Started 
  These instructions will allow you to emulate the results obtained from the code for development and testing purposes.
