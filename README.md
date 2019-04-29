@@ -1,5 +1,5 @@
-# PPI_Generative
- **This repository contains the code for the paper-** *A Protein Interaction based Generative Model for Improving Gene Clustering*
+# A Protein Interaction based Generative Model for Improving Gene Clustering
+
  
 
 - **Authors:**
