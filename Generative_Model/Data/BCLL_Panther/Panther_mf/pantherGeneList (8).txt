@@ -1,0 +1,204 @@
+HUMAN|HGNC=11051|UniProtKB=Q9Y345	NET1	Sodium- and chloride-dependent glycine transporter 2;SLC6A5;ortholog	SODIUM- AND CHLORIDE-DEPENDENT GLYCINE TRANSPORTER 2 (PTHR11616:SF158)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=10483|UniProtKB=P21817	RYR1	Ryanodine receptor 1;RYR1;ortholog	RYANODINE RECEPTOR 1 (PTHR13715:SF15)	ligand-gated ion channel(PC00141)	Homo sapiens
+HUMAN|HGNC=14247|UniProtKB=O75964	ATP5L	ATP synthase subunit g, mitochondrial;ATP5L;ortholog	ATP SYNTHASE SUBUNIT G 2, MITOCHONDRIAL-RELATED (PTHR12386:SF26)		Homo sapiens
+HUMAN|HGNC=15781|UniProtKB=Q494W8	CHRFAM7A	CHRNA7-FAM7A fusion protein;CHRFAM7A;ortholog	CHRNA7-FAM7A FUSION PROTEIN-RELATED (PTHR18945:SF832)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=11186|UniProtKB=Q99523	SORT1	Sortilin;SORT1;ortholog	SORTILIN (PTHR12106:SF23)	receptor(PC00197);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=2023|UniProtKB=P51795	CLCN5	H(+)/Cl(-) exchange transporter 5;CLCN5;ortholog	H(+)/CL(-) EXCHANGE TRANSPORTER 5 (PTHR45711:SF7)	anion channel(PC00049)	Homo sapiens
+HUMAN|HGNC=4579|UniProtKB=P39086	GRIK1	Glutamate receptor ionotropic, kainate 1;GRIK1;ortholog	GLUTAMATE RECEPTOR IONOTROPIC, KAINATE 1 (PTHR18966:SF36)		Homo sapiens
+HUMAN|HGNC=10588|UniProtKB=Q99250	SCN2A	Sodium channel protein type 2 subunit alpha;SCN2A;ortholog	SODIUM CHANNEL PROTEIN TYPE 2 SUBUNIT ALPHA (PTHR10037:SF278)	voltage-gated calcium channel(PC00240);voltage-gated sodium channel(PC00243)	Homo sapiens
+HUMAN|HGNC=2150|UniProtKB=Q16281	CNGA3	Cyclic nucleotide-gated cation channel alpha-3;CNGA3;ortholog	CYCLIC NUCLEOTIDE-GATED CATION CHANNEL ALPHA-3 (PTHR45638:SF6)		Homo sapiens
+HUMAN|HGNC=4075|UniProtKB=P14867	GABRA1	Gamma-aminobutyric acid receptor subunit alpha-1;GABRA1;ortholog	GAMMA-AMINOBUTYRIC ACID RECEPTOR SUBUNIT ALPHA-1 (PTHR18945:SF514)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=9009|UniProtKB=Q13563	PKD2	Polycystin-2;PKD2;ortholog	POLYCYSTIN-2 (PTHR10877:SF114)	G-protein modulator(PC00022);ion channel(PC00133);membrane-bound signaling molecule(PC00152);protease(PC00190)	Homo sapiens
+HUMAN|HGNC=30904|UniProtKB=O60763	USO1	General vesicular transport factor p115;USO1;ortholog	GENERAL VESICULAR TRANSPORT FACTOR P115 (PTHR10013:SF0)	membrane traffic protein(PC00150)	Homo sapiens
+HUMAN|HGNC=2292|UniProtKB=P15954	COX7C	Cytochrome c oxidase subunit 7C, mitochondrial;COX7C;ortholog	CYTOCHROME C OXIDASE SUBUNIT 7C, MITOCHONDRIAL (PTHR13313:SF1)	oxidase(PC00175)	Homo sapiens
+HUMAN|HGNC=11052|UniProtKB=P31641	SLC6A6	Sodium- and chloride-dependent taurine transporter;SLC6A6;ortholog	SODIUM- AND CHLORIDE-DEPENDENT TAURINE TRANSPORTER (PTHR11616:SF141)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=4234|UniProtKB=P55040	GEM	GTP-binding protein GEM;GEM;ortholog	GTP-BINDING PROTEIN GEM (PTHR45775:SF4)		Homo sapiens
+HUMAN|HGNC=6292|UniProtKB=Q9UGI6	KCNN3	Small conductance calcium-activated potassium channel protein 3;KCNN3;ortholog	SMALL CONDUCTANCE CALCIUM-ACTIVATED POTASSIUM CHANNEL PROTEIN 3 (PTHR10153:SF40)	voltage-gated potassium channel(PC00242)	Homo sapiens
+HUMAN|HGNC=16495|UniProtKB=Q9NRY6	PLS3	Phospholipid scramblase 3;PLSCR3;ortholog	PHOSPHOLIPID SCRAMBLASE 3 (PTHR23248:SF37)	transfer/carrier protein(PC00219)	Homo sapiens
+HUMAN|HGNC=10959|UniProtKB=Q9Y6L6	SLCO1B1	Solute carrier organic anion transporter family member 1B1;SLCO1B1;ortholog	SOLUTE CARRIER ORGANIC ANION TRANSPORTER FAMILY MEMBER 1B1 (PTHR11388:SF82)	protease inhibitor(PC00191);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=13549|UniProtKB=Q9P241	ATP10D	Probable phospholipid-transporting ATPase VD;ATP10D;ortholog	PHOSPHOLIPID-TRANSPORTING ATPASE VD-RELATED (PTHR24092:SF84)	cation transporter(PC00068);hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=19425|UniProtKB=Q96P70	IPO9	Importin-9;IPO9;ortholog	IMPORTIN-9 (PTHR10997:SF9)	small GTPase(PC00208);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=7467|UniProtKB=P55157	MTTP	Microsomal triglyceride transfer protein large subunit;MTTP;ortholog	MICROSOMAL TRIGLYCERIDE TRANSFER PROTEIN LARGE SUBUNIT (PTHR13024:SF1)	apolipoprotein(PC00052);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=4586|UniProtKB=Q13224	GRIN2B	Glutamate receptor ionotropic, NMDA 2B;GRIN2B;ortholog	GLUTAMATE RECEPTOR IONOTROPIC, NMDA 2B (PTHR18966:SF382)		Homo sapiens
+HUMAN|HGNC=14540|UniProtKB=Q9H4A3	WNK1	Serine/threonine-protein kinase WNK1;WNK1;ortholog	SERINE/THREONINE-PROTEIN KINASE WNK1 (PTHR13902:SF46)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=14430|UniProtKB=Q8WWT9	SLC13A3	Solute carrier family 13 member 3;SLC13A3;ortholog	SOLUTE CARRIER FAMILY 13 MEMBER 3 (PTHR10283:SF62)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=4581|UniProtKB=Q13003	GRIK3	Glutamate receptor ionotropic, kainate 3;GRIK3;ortholog	GLUTAMATE RECEPTOR IONOTROPIC, KAINATE 3 (PTHR18966:SF174)		Homo sapiens
+HUMAN|HGNC=6261|UniProtKB=Q99712	KCNJ15	ATP-sensitive inward rectifier potassium channel 15;KCNJ15;ortholog	ATP-SENSITIVE INWARD RECTIFIER POTASSIUM CHANNEL 15 (PTHR11767:SF20)		Homo sapiens
+HUMAN|HGNC=17975|UniProtKB=Q9BRK0	REEP2	Receptor expression-enhancing protein 2;REEP2;ortholog	RECEPTOR EXPRESSION-ENHANCING PROTEIN 2 (PTHR12300:SF29)	receptor(PC00197);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=21082|UniProtKB=Q9UGP8	SEC63	Translocation protein SEC63 homolog;SEC63;ortholog	TRANSLOCATION PROTEIN SEC63 HOMOLOG (PTHR24075:SF0)	chaperone(PC00072)	Homo sapiens
+HUMAN|HGNC=18481|UniProtKB=Q9Y487	ATP6V0A2	V-type proton ATPase 116 kDa subunit a isoform 2;ATP6V0A2;ortholog	V-TYPE PROTON ATPASE 116 KDA SUBUNIT A ISOFORM 2 (PTHR11629:SF22)	ATP synthase(PC00002);hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=10939|UniProtKB=P43005	SLC1A1	Excitatory amino acid transporter 3;SLC1A1;ortholog	EXCITATORY AMINO ACID TRANSPORTER 3 (PTHR11958:SF63)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=10928|UniProtKB=O60669	SLC16A7	Monocarboxylate transporter 2;SLC16A7;ortholog	MONOCARBOXYLATE TRANSPORTER 2 (PTHR11360:SF25)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=6222|UniProtKB=P22459	KCNA4	Potassium voltage-gated channel subfamily A member 4;KCNA4;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY A MEMBER 4 (PTHR11537:SF45)		Homo sapiens
+HUMAN|HGNC=11066|UniProtKB=Q9UHI5	SLC7A8	Large neutral amino acids transporter small subunit 2;SLC7A8;ortholog	LARGE NEUTRAL AMINO ACIDS TRANSPORTER SMALL SUBUNIT 2 (PTHR11785:SF113)		Homo sapiens
+HUMAN|HGNC=10975|UniProtKB=O60721	SLC24A1	Sodium/potassium/calcium exchanger 1;SLC24A1;ortholog	SODIUM/POTASSIUM/CALCIUM EXCHANGER 1 (PTHR10846:SF36)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=851|UniProtKB=P38606	ATP6V1A	V-type proton ATPase catalytic subunit A;ATP6V1A;ortholog	V-TYPE PROTON ATPASE CATALYTIC SUBUNIT A (PTHR43607:SF1)	ATP synthase(PC00002);DNA binding protein(PC00009);anion channel(PC00049);ligand-gated ion channel(PC00141);protease(PC00190)	Homo sapiens
+HUMAN|HGNC=20728|UniProtKB=Q9Y2E8	SLC9A8	Sodium/hydrogen exchanger 8;SLC9A8;ortholog	SODIUM/HYDROGEN EXCHANGER 8 (PTHR10110:SF88)		Homo sapiens
+HUMAN|HGNC=6402|UniProtKB=O00410	IPO5	Importin-5;IPO5;ortholog	IMPORTIN-5 (PTHR10527:SF22)	G-protein modulator(PC00022);transfer/carrier protein(PC00219);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=13785|UniProtKB=Q9HD23	MRS2	Magnesium transporter MRS2 homolog, mitochondrial;MRS2;ortholog	MAGNESIUM TRANSPORTER MRS2 HOMOLOG, MITOCHONDRIAL (PTHR13890:SF0)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=11055|UniProtKB=P48029	SLC6A8	Sodium- and chloride-dependent creatine transporter 1;SLC6A8;ortholog	SODIUM- AND CHLORIDE-DEPENDENT CREATINE TRANSPORTER 1 (PTHR11616:SF96)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=801|UniProtKB=P13637	ATP1A3	Sodium/potassium-transporting ATPase subunit alpha-3;ATP1A3;ortholog	SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA-3 (PTHR43294:SF15)	cation transporter(PC00068);hydrolase(PC00121);ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=10913|UniProtKB=Q9UP95	SLC12A4	Solute carrier family 12 member 4;SLC12A4;ortholog	SOLUTE CARRIER FAMILY 12 MEMBER 4 (PTHR11827:SF46)		Homo sapiens
+HUMAN|HGNC=36|UniProtKB=Q8N139	ABCA6	ATP-binding cassette sub-family A member 6;ABCA6;ortholog	ATP-BINDING CASSETTE SUB-FAMILY A MEMBER 6 (PTHR19229:SF13)	ATP-binding cassette (ABC) transporter(PC00003)	Homo sapiens
+HUMAN|HGNC=11846|UniProtKB=Q99442	SEC62	Translocation protein SEC62;SEC62;ortholog	TRANSLOCATION PROTEIN SEC62 (PTHR12443:SF9)		Homo sapiens
+HUMAN|HGNC=9843|UniProtKB=O60894	RAMP1	Receptor activity-modifying protein 1;RAMP1;ortholog	RECEPTOR ACTIVITY-MODIFYING PROTEIN 1 (PTHR14076:SF3)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=17315|UniProtKB=Q99595	TIMM17A	Mitochondrial import inner membrane translocase subunit Tim17-A;TIMM17A;ortholog	MITOCHONDRIAL IMPORT INNER MEMBRANE TRANSLOCASE SUBUNIT TIM17-A (PTHR10485:SF1)	mitochondrial carrier protein(PC00158);transfer/carrier protein(PC00219)	Homo sapiens
+HUMAN|HGNC=4090|UniProtKB=P24046	GABRR1	Gamma-aminobutyric acid receptor subunit rho-1;GABRR1;ortholog	GAMMA-AMINOBUTYRIC ACID RECEPTOR SUBUNIT RHO-1 (PTHR18945:SF30)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=11185|UniProtKB=Q92673	SORL1	Sortilin-related receptor;SORL1;ortholog	SORTILIN-RELATED RECEPTOR (PTHR12106:SF20)	receptor(PC00197);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=6400|UniProtKB=Q14974	KPNB1	Importin subunit beta-1;KPNB1;ortholog	IMPORTIN SUBUNIT BETA-1 (PTHR10527:SF1)	transfer/carrier protein(PC00219);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=848|UniProtKB=P56134	ATP5J2	ATP synthase subunit f, mitochondrial;ATP5J2;ortholog	ATP SYNTHASE SUBUNIT F, MITOCHONDRIAL (PTHR13080:SF9)	ATP synthase(PC00002)	Homo sapiens
+HUMAN|HGNC=12519|UniProtKB=P55916	UCP3	Mitochondrial uncoupling protein 3;UCP3;ortholog	MITOCHONDRIAL UNCOUPLING PROTEIN 3 (PTHR45618:SF2)		Homo sapiens
+HUMAN|HGNC=19344|UniProtKB=Q6IQ26	DENND5A	DENN domain-containing protein 5A;DENND5A;ortholog	DENN DOMAIN-CONTAINING PROTEIN 5A (PTHR46070:SF2)		Homo sapiens
+HUMAN|HGNC=18451|UniProtKB=Q8NI22	MCFD2	Multiple coagulation factor deficiency protein 2;MCFD2;ortholog	MULTIPLE COAGULATION FACTOR DEFICIENCY PROTEIN 2 (PTHR23104:SF10)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=10600|UniProtKB=P51168	SCNN1B	Amiloride-sensitive sodium channel subunit beta;SCNN1B;ortholog	AMILORIDE-SENSITIVE SODIUM CHANNEL SUBUNIT BETA (PTHR11690:SF18)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=10941|UniProtKB=P43003	SLC1A3	Excitatory amino acid transporter 1;SLC1A3;ortholog	EXCITATORY AMINO ACID TRANSPORTER 1 (PTHR11958:SF24)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=10008|UniProtKB=P18577	RHCE	Blood group Rh(CE) polypeptide;RHCE;ortholog	BLOOD GROUP RH(CE) POLYPEPTIDE-RELATED (PTHR11730:SF43)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=6250|UniProtKB=O95259	KCNH1	Potassium voltage-gated channel subfamily H member 1;KCNH1;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY H MEMBER 1 (PTHR10217:SF530)		Homo sapiens
+HUMAN|HGNC=544|UniProtKB=P08133	ANXA6	Annexin A6;ANXA6;ortholog	ANNEXIN A6 (PTHR10502:SF19)		Homo sapiens
+HUMAN|HGNC=4087|UniProtKB=P18507	GABRG2	Gamma-aminobutyric acid receptor subunit gamma-2;GABRG2;ortholog	GAMMA-AMINOBUTYRIC ACID RECEPTOR SUBUNIT GAMMA-2 (PTHR18945:SF498)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=817|UniProtKB=P23634	ATP2B4	Plasma membrane calcium-transporting ATPase 4;ATP2B4;ortholog	PLASMA MEMBRANE CALCIUM-TRANSPORTING ATPASE 4 (PTHR24093:SF435)	cation transporter(PC00068);hydrolase(PC00121);ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=4076|UniProtKB=P47869	GABRA2	Gamma-aminobutyric acid receptor subunit alpha-2;GABRA2;ortholog	GAMMA-AMINOBUTYRIC ACID RECEPTOR SUBUNIT ALPHA-2 (PTHR18945:SF218)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=17103|UniProtKB=Q9Y5L0	TNPO3	Transportin-3;TNPO3;ortholog	TRANSPORTIN-3 (PTHR12363:SF42)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=11065|UniProtKB=Q9UM01	SLC7A7	Y+L amino acid transporter 1;SLC7A7;ortholog	Y+L AMINO ACID TRANSPORTER 1 (PTHR11785:SF303)		Homo sapiens
+HUMAN|HGNC=2269|UniProtKB=P10606	COX5B	Cytochrome c oxidase subunit 5B, mitochondrial;COX5B;ortholog	CYTOCHROME C OXIDASE SUBUNIT 5B, MITOCHONDRIAL (PTHR10122:SF0)	oxidase(PC00175)	Homo sapiens
+HUMAN|HGNC=2024|UniProtKB=P51797	CLCN6	Chloride transport protein 6;CLCN6;ortholog	CHLORIDE TRANSPORT PROTEIN 6 (PTHR11689:SF59)		Homo sapiens
+HUMAN|HGNC=1402|UniProtKB=Q08289	CACNB2	Voltage-dependent L-type calcium channel subunit beta-2;CACNB2;ortholog	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT BETA-2 (PTHR11824:SF9)	voltage-gated calcium channel(PC00240)	Homo sapiens
+HUMAN|HGNC=1392|UniProtKB=Q15878	CACNA1E	Voltage-dependent R-type calcium channel subunit alpha-1E;CACNA1E;ortholog	VOLTAGE-DEPENDENT R-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1E (PTHR45628:SF5)		Homo sapiens
+HUMAN|HGNC=19375|UniProtKB=Q9BV35	APC2	Calcium-binding mitochondrial carrier protein SCaMC-3;SLC25A23;ortholog	CALCIUM-BINDING MITOCHONDRIAL CARRIER PROTEIN SCAMC-3 (PTHR24089:SF196)	amino acid transporter(PC00046);calmodulin(PC00061);mitochondrial carrier protein(PC00158);transfer/carrier protein(PC00219)	Homo sapiens
+HUMAN|HGNC=4571|UniProtKB=P42261	GRIA1	Glutamate receptor 1;GRIA1;ortholog	GLUTAMATE RECEPTOR 1 (PTHR18966:SF157)		Homo sapiens
+HUMAN|HGNC=6300|UniProtKB=Q96KK3	KCNS1	Potassium voltage-gated channel subfamily S member 1;KCNS1;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY S MEMBER 1 (PTHR11537:SF61)		Homo sapiens
+HUMAN|HGNC=20862|UniProtKB=Q9C0K1	SLC39A8	Zinc transporter ZIP8;SLC39A8;ortholog	ZINC TRANSPORTER ZIP8 (PTHR12191:SF2)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=10905|UniProtKB=Q14973	SLC10A1	Sodium/bile acid cotransporter;SLC10A1;ortholog	SODIUM/BILE ACID COTRANSPORTER (PTHR10361:SF40)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=6278|UniProtKB=O14649	KCNK3	Potassium channel subfamily K member 3;KCNK3;ortholog	POTASSIUM CHANNEL SUBFAMILY K MEMBER 3 (PTHR11003:SF138)		Homo sapiens
+HUMAN|HGNC=638|UniProtKB=P55064	AQP5	Aquaporin-5;AQP5;ortholog	AQUAPORIN-5 (PTHR19139:SF38)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=7057|UniProtKB=O15320	CTAGE5	Endoplasmic reticulum export factor CTAGE5;CTAGE5;ortholog	ENDOPLASMIC RETICULUM EXPORT FACTOR CTAGE5 (PTHR23158:SF56)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=1965|UniProtKB=Q07001	CHRND	Acetylcholine receptor subunit delta;CHRND;ortholog	ACETYLCHOLINE RECEPTOR SUBUNIT DELTA (PTHR18945:SF61)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=9851|UniProtKB=O60518	RANBP6	Ran-binding protein 6;RANBP6;ortholog	RAN-BINDING PROTEIN 6 (PTHR10527:SF16)	G-protein modulator(PC00022);transfer/carrier protein(PC00219);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=1394|UniProtKB=O43497	CACNA1G	Voltage-dependent T-type calcium channel subunit alpha-1G;CACNA1G;ortholog	VOLTAGE-DEPENDENT T-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1G (PTHR10037:SF137)	voltage-gated calcium channel(PC00240);voltage-gated sodium channel(PC00243)	Homo sapiens
+HUMAN|HGNC=8599|UniProtKB=Q96RD7	PANX1	Pannexin-1;PANX1;ortholog	PANNEXIN-1 (PTHR15759:SF5)		Homo sapiens
+HUMAN|HGNC=6293|UniProtKB=O15554	KCNN4	Intermediate conductance calcium-activated potassium channel protein 4;KCNN4;ortholog	INTERMEDIATE CONDUCTANCE CALCIUM-ACTIVATED POTASSIUM CHANNEL PROTEIN 4 (PTHR10153:SF41)	voltage-gated potassium channel(PC00242)	Homo sapiens
+HUMAN|HGNC=640|UniProtKB=O14520	AQP9	Aquaporin-7;AQP7;ortholog	AQUAPORIN-7 (PTHR43829:SF15)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=2518|UniProtKB=O60931	CTNS	Cystinosin;CTNS;ortholog	CYSTINOSIN (PTHR13131:SF5)	amino acid transporter(PC00046)	Homo sapiens
+HUMAN|HGNC=12518|UniProtKB=P55851	UCP2	Mitochondrial uncoupling protein 2;UCP2;ortholog	MITOCHONDRIAL UNCOUPLING PROTEIN 2 (PTHR45618:SF1)		Homo sapiens
+HUMAN|HGNC=7225|UniProtKB=P25189	MPZ	Myelin protein P0;MPZ;ortholog	MYELIN PROTEIN P0 (PTHR13869:SF7)	cell adhesion molecule(PC00069);voltage-gated sodium channel(PC00243)	Homo sapiens
+HUMAN|HGNC=13724|UniProtKB=P61421	ATP6V0D1	V-type proton ATPase subunit d 1;ATP6V0D1;ortholog	V-TYPE PROTON ATPASE SUBUNIT D 1 (PTHR11028:SF3)	ATP synthase(PC00002);hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=6237|UniProtKB=Q9NSA2	KCND1	Potassium voltage-gated channel subfamily D member 1;KCND1;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY D MEMBER 1 (PTHR11537:SF174)		Homo sapiens
+HUMAN|HGNC=1955|UniProtKB=P02708	CHRNA1	Acetylcholine receptor subunit alpha;CHRNA1;ortholog	ACETYLCHOLINE RECEPTOR SUBUNIT ALPHA (PTHR18945:SF74)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=17494|UniProtKB=Q5T442	GJC2	Gap junction gamma-2 protein;GJC2;ortholog	GAP JUNCTION GAMMA-2 PROTEIN (PTHR11984:SF52)	gap junction(PC00105)	Homo sapiens
+HUMAN|HGNC=20798|UniProtKB=P78383	SLC35B1	Solute carrier family 35 member B1;SLC35B1;ortholog	SOLUTE CARRIER FAMILY 35 MEMBER B1 (PTHR10778:SF10)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=11446|UniProtKB=O00186	STXBP3	Syntaxin-binding protein 3;STXBP3;ortholog	SYNTAXIN-BINDING PROTEIN 3 (PTHR11679:SF33)	membrane trafficking regulatory protein(PC00151);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=19998|UniProtKB=O14787	TNPO2	Transportin-2;TNPO2;ortholog	TRANSPORTIN-2 (PTHR10527:SF17)	transfer/carrier protein(PC00219);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=800|UniProtKB=P50993	ATP1A2	Sodium/potassium-transporting ATPase subunit alpha-2;ATP1A2;ortholog	SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA-2 (PTHR43294:SF6)	cation transporter(PC00068);hydrolase(PC00121);ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=24008|UniProtKB=Q5JRA6	MIA3	Transport and Golgi organization protein 1 homolog;MIA3;ortholog	TRANSPORT AND GOLGI ORGANIZATION PROTEIN 1 HOMOLOG (PTHR23158:SF54)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=10945|UniProtKB=O00341	SLC1A7	Excitatory amino acid transporter 5;SLC1A7;ortholog	EXCITATORY AMINO ACID TRANSPORTER 5 (PTHR11958:SF22)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=9852|UniProtKB=O95373	IPO7	Importin-7;IPO7;ortholog	IMPORTIN-7 (PTHR10997:SF27)	small GTPase(PC00208);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=28237|UniProtKB=Q9HBR0	SLC38A10	Putative sodium-coupled neutral amino acid transporter 10;SLC38A10;ortholog	SODIUM-COUPLED NEUTRAL AMINO ACID TRANSPORTER 10-RELATED (PTHR22950:SF458)	amino acid transporter(PC00046)	Homo sapiens
+HUMAN|HGNC=29|UniProtKB=O95477	ABCA1	ATP-binding cassette sub-family A member 1;ABCA1;ortholog	ATP-BINDING CASSETTE SUB-FAMILY A MEMBER 1 (PTHR19229:SF34)	ATP-binding cassette (ABC) transporter(PC00003)	Homo sapiens
+HUMAN|HGNC=101|UniProtKB=Q9UHC3	ASIC3	Acid-sensing ion channel 3;ASIC3;ortholog	ACID-SENSING ION CHANNEL 3 (PTHR11690:SF228)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=10589|UniProtKB=O60939	SCN2B	Sodium channel subunit beta-2;SCN2B;ortholog	SODIUM CHANNEL SUBUNIT BETA-2 (PTHR13869:SF3)	cell adhesion molecule(PC00069);voltage-gated sodium channel(PC00243)	Homo sapiens
+HUMAN|HGNC=6221|UniProtKB=P22001	KCNA3	Potassium voltage-gated channel subfamily A member 3;KCNA3;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY A MEMBER 3 (PTHR11537:SF28)		Homo sapiens
+HUMAN|HGNC=10009|UniProtKB=Q02161	RHD	Blood group Rh(D) polypeptide;RHD;ortholog	BLOOD GROUP RH(CE) POLYPEPTIDE-RELATED (PTHR11730:SF43)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=11048|UniProtKB=P23975	NET1,SLC6A2	Sodium-dependent noradrenaline transporter;SLC6A2;ortholog	SODIUM-DEPENDENT NORADRENALINE TRANSPORTER (PTHR11616:SF245)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=11079|UniProtKB=Q92581	SLC9A6	Sodium/hydrogen exchanger 6;SLC9A6;ortholog	SODIUM/HYDROGEN EXCHANGER 6 (PTHR10110:SF94)		Homo sapiens
+HUMAN|HGNC=2063|UniProtKB=O15247	CLIC2	Chloride intracellular channel protein 2;CLIC2;ortholog	CHLORIDE INTRACELLULAR CHANNEL PROTEIN 2 (PTHR43920:SF4)		Homo sapiens
+HUMAN|HGNC=389|UniProtKB=O43488	AKR7A2	Aflatoxin B1 aldehyde reductase member 2;AKR7A2;ortholog	AFLATOXIN B1 ALDEHYDE REDUCTASE MEMBER 2 (PTHR43625:SF12)	reductase(PC00198)	Homo sapiens
+HUMAN|HGNC=19426|UniProtKB=Q8TEX9	IMP4	Importin-4;IPO4;ortholog	IMPORTIN-4 (PTHR10527:SF6)	transfer/carrier protein(PC00219);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=6225|UniProtKB=P17658	KCNA6	Potassium voltage-gated channel subfamily A member 6;KCNA6;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY A MEMBER 6 (PTHR11537:SF104)		Homo sapiens
+HUMAN|HGNC=29675|UniProtKB=Q96S66	CLCC1	Chloride channel CLIC-like protein 1;CLCC1;ortholog	CHLORIDE CHANNEL CLIC-LIKE PROTEIN 1 (PTHR34093:SF1)		Homo sapiens
+HUMAN|HGNC=6180|UniProtKB=Q14643	ITPR1	Inositol 1,4,5-trisphosphate receptor type 1;ITPR1;ortholog	INOSITOL 1,4,5-TRISPHOSPHATE RECEPTOR TYPE 1 (PTHR13715:SF52)	ligand-gated ion channel(PC00141)	Homo sapiens
+HUMAN|HGNC=10920|UniProtKB=P46059	SLC15A1	Solute carrier family 15 member 1;SLC15A1;ortholog	SOLUTE CARRIER FAMILY 15 MEMBER 1 (PTHR11654:SF89)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=18761|UniProtKB=Q7Z2H8	SLC36A1	Proton-coupled amino acid transporter 1;SLC36A1;ortholog	PROTON-COUPLED AMINO ACID TRANSPORTER 1 (PTHR22950:SF188)	amino acid transporter(PC00046)	Homo sapiens
+HUMAN|HGNC=24639|UniProtKB=Q96N28	SLMO1	PRELI domain containing protein 3A;PRELID3A;ortholog	PRELI DOMAIN CONTAINING PROTEIN 3A (PTHR11158:SF23)		Homo sapiens
+HUMAN|HGNC=16396|UniProtKB=Q9BZF1	OSBPL8	Oxysterol-binding protein-related protein 8;OSBPL8;ortholog	OXYSTEROL-BINDING PROTEIN-RELATED PROTEIN 8 (PTHR10972:SF98)		Homo sapiens
+HUMAN|HGNC=34|UniProtKB=P78363	ABCA4	Retinal-specific ATP-binding cassette transporter;ABCA4;ortholog	RETINAL-SPECIFIC ATP-BINDING CASSETTE TRANSPORTER (PTHR19229:SF190)	ATP-binding cassette (ABC) transporter(PC00003)	Homo sapiens
+HUMAN|HGNC=862|UniProtKB=O95670	ATP6V1G2	V-type proton ATPase subunit G 2;ATP6V1G2;ortholog	V-TYPE PROTON ATPASE SUBUNIT G-RELATED (PTHR12713:SF13)	ATP synthase(PC00002);hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=6231|UniProtKB=Q14721	KCNB1	Potassium voltage-gated channel subfamily B member 1;KCNB1;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY B MEMBER 1 (PTHR11537:SF63)		Homo sapiens
+HUMAN|HGNC=2016|UniProtKB=Q9UQC9	CLCA2	Calcium-activated chloride channel regulator 2;CLCA2;ortholog	CALCIUM-ACTIVATED CHLORIDE CHANNEL REGULATOR 2 (PTHR10579:SF66)	ion channel(PC00133);metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=870|UniProtKB=P35670	ATP7B	Copper-transporting ATPase 2;ATP7B;ortholog	COPPER-TRANSPORTING ATPASE 2 (PTHR43520:SF9)	cation transporter(PC00068);hydrolase(PC00121);ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=1963|UniProtKB=Q05901	CHRNB3	Neuronal acetylcholine receptor subunit beta-3;CHRNB3;ortholog	NEURONAL ACETYLCHOLINE RECEPTOR SUBUNIT BETA-3 (PTHR18945:SF75)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=1956|UniProtKB=Q15822	CHRNA2	Neuronal acetylcholine receptor subunit alpha-2;CHRNA2;ortholog	NEURONAL ACETYLCHOLINE RECEPTOR SUBUNIT ALPHA-2 (PTHR18945:SF757)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=11030|UniProtKB=Q9Y6R1	SLC4A4	Electrogenic sodium bicarbonate cotransporter 1;SLC4A4;ortholog	ELECTROGENIC SODIUM BICARBONATE COTRANSPORTER 1 (PTHR11453:SF10)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=10993|UniProtKB=Q9H2B4	SAT1	Sulfate anion transporter 1;SLC26A1;ortholog	SULFATE ANION TRANSPORTER 1 (PTHR11814:SF31)		Homo sapiens
+HUMAN|HGNC=4061|UniProtKB=O43826	SLC37A4	Glucose-6-phosphate exchanger SLC37A4;SLC37A4;ortholog	GLUCOSE-6-PHOSPHATE EXCHANGER SLC37A4 (PTHR43826:SF3)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=43|UniProtKB=Q03518	TAP1	Antigen peptide transporter 1;TAP1;ortholog	ANTIGEN PEPTIDE TRANSPORTER 1 (PTHR24221:SF249)	cysteine protease(PC00081);serine protease(PC00203)	Homo sapiens
+HUMAN|HGNC=20662|UniProtKB=Q6NUK1	SLC25A24	Calcium-binding mitochondrial carrier protein SCaMC-1;SLC25A24;ortholog	CALCIUM-BINDING MITOCHONDRIAL CARRIER PROTEIN SCAMC-1 (PTHR24089:SF262)	amino acid transporter(PC00046);calmodulin(PC00061);mitochondrial carrier protein(PC00158);transfer/carrier protein(PC00219)	Homo sapiens
+HUMAN|HGNC=4587|UniProtKB=Q14957	GRIN2C	Glutamate receptor ionotropic, NMDA 2C;GRIN2C;ortholog	GLUTAMATE RECEPTOR IONOTROPIC, NMDA 2C (PTHR18966:SF361)		Homo sapiens
+HUMAN|HGNC=812|UniProtKB=P16615	ATP2A2	Sarcoplasmic/endoplasmic reticulum calcium ATPase 2;ATP2A2;ortholog	SARCOPLASMIC/ENDOPLASMIC RETICULUM CALCIUM ATPASE 2 (PTHR42861:SF18)	cation transporter(PC00068);hydrolase(PC00121);ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=4576|UniProtKB=O43424	GLUD2	Glutamate receptor ionotropic, delta-2;GRID2;ortholog	GLUTAMATE RECEPTOR IONOTROPIC, DELTA-2 (PTHR18966:SF109)		Homo sapiens
+HUMAN|HGNC=816|UniProtKB=Q16720	ATP2B3	Plasma membrane calcium-transporting ATPase 3;ATP2B3;ortholog	PLASMA MEMBRANE CALCIUM-TRANSPORTING ATPASE 3 (PTHR24093:SF284)	cation transporter(PC00068);hydrolase(PC00121);ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=6263|UniProtKB=P63252	KCNJ2	Inward rectifier potassium channel 2;KCNJ2;ortholog	INWARD RECTIFIER POTASSIUM CHANNEL 2 (PTHR11767:SF43)		Homo sapiens
+HUMAN|HGNC=6284|UniProtKB=Q12791	KCNMA1	Calcium-activated potassium channel subunit alpha-1;KCNMA1;ortholog	CALCIUM-ACTIVATED POTASSIUM CHANNEL SUBUNIT ALPHA-1 (PTHR10027:SF28)		Homo sapiens
+HUMAN|HGNC=13447|UniProtKB=Q9H2H9	SAT1	Sodium-coupled neutral amino acid transporter 1;SLC38A1;ortholog	SODIUM-COUPLED NEUTRAL AMINO ACID TRANSPORTER 1 (PTHR22950:SF184)	amino acid transporter(PC00046)	Homo sapiens
+HUMAN|HGNC=10935|UniProtKB=Q05940	SLC18A2	Synaptic vesicular amine transporter;SLC18A2;ortholog	SYNAPTIC VESICULAR AMINE TRANSPORTER (PTHR23506:SF30)		Homo sapiens
+HUMAN|HGNC=11057|UniProtKB=P30825	SLC7A1	High affinity cationic amino acid transporter 1;SLC7A1;ortholog	HIGH AFFINITY CATIONIC AMINO ACID TRANSPORTER 1 (PTHR43243:SF28)	amino acid transporter(PC00046)	Homo sapiens
+HUMAN|HGNC=12333|UniProtKB=P48995	TRPC1	Short transient receptor potential channel 1;TRPC1;ortholog	SHORT TRANSIENT RECEPTOR POTENTIAL CHANNEL 1 (PTHR10117:SF56)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=16398|UniProtKB=Q9BXW6	OSBPL1A	Oxysterol-binding protein-related protein 1;OSBPL1A;ortholog	OXYSTEROL-BINDING PROTEIN-RELATED PROTEIN 1 (PTHR10972:SF53)		Homo sapiens
+HUMAN|HGNC=3569|UniProtKB=P33121	ACSL1	Long-chain-fatty-acid--CoA ligase 1;ACSL1;ortholog	LONG-CHAIN-FATTY-ACID--COA LIGASE 1 (PTHR43272:SF28)	ligase(PC00142)	Homo sapiens
+HUMAN|HGNC=1399|UniProtKB=P54289	CACNA2D1	Voltage-dependent calcium channel subunit alpha-2/delta-1;CACNA2D1;ortholog	VOLTAGE-DEPENDENT CALCIUM CHANNEL SUBUNIT ALPHA-2/DELTA-1 (PTHR10166:SF6)		Homo sapiens
+HUMAN|HGNC=2265|UniProtKB=P13073	COX4I1	Cytochrome c oxidase subunit 4 isoform 1, mitochondrial;COX4I1;ortholog	CYTOCHROME C OXIDASE SUBUNIT 4 ISOFORM 1, MITOCHONDRIAL (PTHR10707:SF12)		Homo sapiens
+HUMAN|HGNC=20661|UniProtKB=Q70HW3	SLC25A26	S-adenosylmethionine mitochondrial carrier protein;SLC25A26;ortholog	S-ADENOSYLMETHIONINE MITOCHONDRIAL CARRIER PROTEIN (PTHR45667:SF9)		Homo sapiens
+HUMAN|HGNC=6239|UniProtKB=Q9UK17	KCND3	Potassium voltage-gated channel subfamily D member 3;KCND3;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY D MEMBER 3 (PTHR11537:SF182)		Homo sapiens
+HUMAN|HGNC=643|UniProtKB=O43315	AQP9	Aquaporin-9;AQP9;ortholog	AQUAPORIN-9 (PTHR43829:SF6)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=12669|UniProtKB=P21796	VDAC1	Voltage-dependent anion-selective channel protein 1;VDAC1;ortholog	VOLTAGE-DEPENDENT ANION-SELECTIVE CHANNEL PROTEIN 1 (PTHR11743:SF13)	anion channel(PC00049);voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=8526|UniProtKB=Q15070	OXA1L	Mitochondrial inner membrane protein OXA1L;OXA1L;ortholog	MITOCHONDRIAL INNER MEMBRANE PROTEIN OXA1L (PTHR12428:SF17)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=813|UniProtKB=Q93084	ATP2A3	Sarcoplasmic/endoplasmic reticulum calcium ATPase 3;ATP2A3;ortholog	SARCOPLASMIC/ENDOPLASMIC RETICULUM CALCIUM ATPASE 3 (PTHR42861:SF6)	cation transporter(PC00068);hydrolase(PC00121);ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=1390|UniProtKB=Q13936	CACNA1C	Voltage-dependent L-type calcium channel subunit alpha-1C;CACNA1C;ortholog	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1C (PTHR45628:SF10)		Homo sapiens
+HUMAN|HGNC=6296|UniProtKB=O43526	KCNQ2	Potassium voltage-gated channel subfamily KQT member 2;KCNQ2;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY KQT MEMBER 2 (PTHR11537:SF6)		Homo sapiens
+HUMAN|HGNC=6270|UniProtKB=Q92806	KCNJ9	G protein-activated inward rectifier potassium channel 3;KCNJ9;ortholog	G PROTEIN-ACTIVATED INWARD RECTIFIER POTASSIUM CHANNEL 3 (PTHR11767:SF17)		Homo sapiens
+HUMAN|HGNC=16937|UniProtKB=O75915	ARL6IP5	PRA1 family protein 3;ARL6IP5;ortholog	PRA1 FAMILY PROTEIN 3 (PTHR12859:SF2)	amino acid transporter(PC00046)	Homo sapiens
+HUMAN|HGNC=95|UniProtKB=O00400	SLC33A1	Acetyl-coenzyme A transporter 1;SLC33A1;ortholog	ACETYL-COENZYME A TRANSPORTER 1 (PTHR12778:SF9)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=6246|UniProtKB=Q9H3M0	KCNF1	Potassium voltage-gated channel subfamily F member 1;KCNF1;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY F MEMBER 1 (PTHR11537:SF171)		Homo sapiens
+HUMAN|HGNC=10931|UniProtKB=O00476	SLC17A3	Sodium-dependent phosphate transport protein 4;SLC17A3;ortholog	SODIUM-DEPENDENT PHOSPHATE TRANSPORT PROTEIN 4 (PTHR11662:SF134)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=10982|UniProtKB=O75746	SLC25A12	Calcium-binding mitochondrial carrier protein Aralar1;SLC25A12;ortholog	CALCIUM-BINDING MITOCHONDRIAL CARRIER PROTEIN ARALAR1 (PTHR45678:SF7)		Homo sapiens
+HUMAN|HGNC=10934|UniProtKB=P54219	VAT1,SLC18A1	Chromaffin granule amine transporter;SLC18A1;ortholog	CHROMAFFIN GRANULE AMINE TRANSPORTER (PTHR23506:SF31)		Homo sapiens
+HUMAN|HGNC=1966|UniProtKB=Q04844	ACHE,CHRNE	Acetylcholine receptor subunit epsilon;CHRNE;ortholog	ACETYLCHOLINE RECEPTOR SUBUNIT EPSILON (PTHR18945:SF59)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=10446|UniProtKB=P55042	RAD1	GTP-binding protein RAD;RRAD;ortholog	GTP-BINDING PROTEIN RAD (PTHR45775:SF3)		Homo sapiens
+HUMAN|HGNC=66|UniProtKB=Q9UBJ2	ABCD2	ATP-binding cassette sub-family D member 2;ABCD2;ortholog	ATP-BINDING CASSETTE SUB-FAMILY D MEMBER 2 (PTHR11384:SF24)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=16087|UniProtKB=Q9BWM7	SFXN3	Sideroflexin-3;SFXN3;ortholog	SIDEROFLEXIN-3 (PTHR11153:SF20)	cation transporter(PC00068);transfer/carrier protein(PC00219)	Homo sapiens
+HUMAN|HGNC=18021|UniProtKB=Q7Z403	TMC6	Transmembrane channel-like protein 6;TMC6;ortholog	TRANSMEMBRANE CHANNEL-LIKE PROTEIN 6 (PTHR23302:SF4)		Homo sapiens
+HUMAN|HGNC=2025|UniProtKB=P51798	CLCN7	H(+)/Cl(-) exchange transporter 7;CLCN7;ortholog	H(+)/CL(-) EXCHANGE TRANSPORTER 7 (PTHR11689:SF92)		Homo sapiens
+HUMAN|HGNC=10991|UniProtKB=P05141	SLC25A5	ADP/ATP translocase 2;SLC25A5;ortholog	ADP/ATP TRANSLOCASE 2 (PTHR45635:SF3)		Homo sapiens
+HUMAN|HGNC=855|UniProtKB=P27449	ATP6V0C	V-type proton ATPase 16 kDa proteolipid subunit;ATP6V0C;ortholog	V-TYPE PROTON ATPASE 16 KDA PROTEOLIPID SUBUNIT (PTHR10263:SF5)	ATP synthase(PC00002);hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=11021|UniProtKB=P78382	SLC35A1	CMP-sialic acid transporter;SLC35A1;ortholog	CMP-SIALIC ACID TRANSPORTER (PTHR10231:SF66)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=4082|UniProtKB=P47870	GABRB2	Gamma-aminobutyric acid receptor subunit beta-2;GABRB2;ortholog	GAMMA-AMINOBUTYRIC ACID RECEPTOR SUBUNIT BETA-2 (PTHR18945:SF221)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=10597|UniProtKB=Q15858	SCN9A	Sodium channel protein type 9 subunit alpha;SCN9A;ortholog	SODIUM CHANNEL PROTEIN TYPE 9 SUBUNIT ALPHA (PTHR10037:SF221)	voltage-gated calcium channel(PC00240);voltage-gated sodium channel(PC00243)	Homo sapiens
+HUMAN|HGNC=100|UniProtKB=P78348	ASIC1	Acid-sensing ion channel 1;ASIC1;ortholog	ACID-SENSING ION CHANNEL 1 (PTHR11690:SF170)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=10947|UniProtKB=Q08357	SLC20A2	Sodium-dependent phosphate transporter 2;SLC20A2;ortholog	SODIUM-DEPENDENT PHOSPHATE TRANSPORTER 2 (PTHR11101:SF83)		Homo sapiens
+HUMAN|HGNC=1388|UniProtKB=O00555	CACNA1A	Voltage-dependent P/Q-type calcium channel subunit alpha-1A;CACNA1A;ortholog	VOLTAGE-DEPENDENT P/Q-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1A (PTHR45628:SF3)		Homo sapiens
+HUMAN|HGNC=18607|UniProtKB=Q13433	SLC39A6	Zinc transporter ZIP6;SLC39A6;ortholog	ZINC TRANSPORTER ZIP6 (PTHR12191:SF22)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=13552|UniProtKB=P98196	ATP11A	Probable phospholipid-transporting ATPase IH;ATP11A;ortholog	PHOSPHOLIPID-TRANSPORTING ATPASE IH-RELATED (PTHR24092:SF33)	cation transporter(PC00068);hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=6272|UniProtKB=O00180	KCNK1	Potassium channel subfamily K member 1;KCNK1;ortholog	POTASSIUM CHANNEL SUBFAMILY K MEMBER 1 (PTHR11003:SF59)		Homo sapiens
+HUMAN|HGNC=6259|UniProtKB=O60928	KCNJ13	Inward rectifier potassium channel 13;KCNJ13;ortholog	INWARD RECTIFIER POTASSIUM CHANNEL 13 (PTHR11767:SF3)		Homo sapiens
+HUMAN|HGNC=869|UniProtKB=Q04656	ATP7A	Copper-transporting ATPase 1;ATP7A;ortholog	COPPER-TRANSPORTING ATPASE 1 (PTHR43520:SF23)	cation transporter(PC00068);hydrolase(PC00121);ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=10981|UniProtKB=Q02978	SLC25A11	Mitochondrial 2-oxoglutarate/malate carrier protein;SLC25A11;ortholog	MITOCHONDRIAL 2-OXOGLUTARATE/MALATE CARRIER PROTEIN (PTHR45618:SF9)		Homo sapiens
+HUMAN|HGNC=814|UniProtKB=P20020	ATP2B1	Plasma membrane calcium-transporting ATPase 1;ATP2B1;ortholog	PLASMA MEMBRANE CALCIUM-TRANSPORTING ATPASE 1 (PTHR24093:SF245)	cation transporter(PC00068);hydrolase(PC00121);ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=6181|UniProtKB=Q14571	ITPR2	Inositol 1,4,5-trisphosphate receptor type 2;ITPR2;ortholog	INOSITOL 1,4,5-TRISPHOSPHATE RECEPTOR TYPE 2 (PTHR13715:SF53)	ligand-gated ion channel(PC00141)	Homo sapiens
+HUMAN|HGNC=20126|UniProtKB=Q96F83	C14orf79	Uncharacterized protein CLBA1;CLBA1;ortholog	CLATHRIN BINDING BOX OF AFTIPHILIN CONTAINING 1 (PTHR16156:SF7)		Homo sapiens
+HUMAN|HGNC=11016|UniProtKB=O15431	SLC31A1	High affinity copper uptake protein 1;SLC31A1;ortholog	HIGH AFFINITY COPPER UPTAKE PROTEIN 1 (PTHR12483:SF22)		Homo sapiens
+HUMAN|HGNC=13542|UniProtKB=O60312	ATP10A	Probable phospholipid-transporting ATPase VA;ATP10A;ortholog	PHOSPHOLIPID-TRANSPORTING ATPASE VA-RELATED (PTHR24092:SF81)	cation transporter(PC00068);hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=29118|UniProtKB=O94886	TMEM63A	CSC1-like protein 1;TMEM63A;ortholog	CSC1-LIKE PROTEIN 1 (PTHR13018:SF24)		Homo sapiens
+HUMAN|HGNC=19863|UniProtKB=Q8IZM9	SLC38A6	Probable sodium-coupled neutral amino acid transporter 6;SLC38A6;ortholog	SODIUM-COUPLED NEUTRAL AMINO ACID TRANSPORTER 6-RELATED (PTHR22950:SF366)	amino acid transporter(PC00046)	Homo sapiens
+HUMAN|HGNC=10940|UniProtKB=P43004	SLC1A2	Excitatory amino acid transporter 2;SLC1A2;ortholog	EXCITATORY AMINO ACID TRANSPORTER 2 (PTHR11958:SF93)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=10594|UniProtKB=Q01118	SCN7A	Sodium channel protein type 7 subunit alpha;SCN7A;ortholog	SODIUM CHANNEL PROTEIN TYPE 7 SUBUNIT ALPHA (PTHR10037:SF14)	voltage-gated calcium channel(PC00240);voltage-gated sodium channel(PC00243)	Homo sapiens
+HUMAN|HGNC=16704|UniProtKB=Q9P2U7	SLC17A7	Vesicular glutamate transporter 1;SLC17A7;ortholog	VESICULAR GLUTAMATE TRANSPORTER 1 (PTHR11662:SF29)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=10983|UniProtKB=Q9UJS0	SLC25A13	Calcium-binding mitochondrial carrier protein Aralar2;SLC25A13;ortholog	CALCIUM-BINDING MITOCHONDRIAL CARRIER PROTEIN ARALAR2 (PTHR45678:SF12)		Homo sapiens
+HUMAN|HGNC=4089|UniProtKB=O00591	GABRP	Gamma-aminobutyric acid receptor subunit pi;GABRP;ortholog	GAMMA-AMINOBUTYRIC ACID RECEPTOR SUBUNIT PI (PTHR18945:SF33)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens
+HUMAN|HGNC=9002|UniProtKB=P48739	PITPNB	Phosphatidylinositol transfer protein beta isoform;PITPNB;ortholog	PHOSPHATIDYLINOSITOL TRANSFER PROTEIN BETA ISOFORM (PTHR10658:SF27)	transfer/carrier protein(PC00219);transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=1391|UniProtKB=Q01668	CACNA1D	Voltage-dependent L-type calcium channel subunit alpha-1D;CACNA1D;ortholog	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1D (PTHR45628:SF11)		Homo sapiens
+HUMAN|HGNC=11050|UniProtKB=P31645	HTT	Sodium-dependent serotonin transporter;SLC6A4;ortholog	SODIUM-DEPENDENT SEROTONIN TRANSPORTER (PTHR11616:SF105)	cation transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=959|UniProtKB=Q07812	BAX	Apoptosis regulator BAX;BAX;ortholog	APOPTOSIS REGULATOR BAX (PTHR11256:SF42)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=38|UniProtKB=O94911	ABCA8	ATP-binding cassette sub-family A member 8;ABCA8;ortholog	ATP-BINDING CASSETTE SUB-FAMILY A MEMBER 8 (PTHR19229:SF148)	ATP-binding cassette (ABC) transporter(PC00003)	Homo sapiens
+HUMAN|HGNC=8538|UniProtKB=O15547	P2RX6	P2X purinoceptor 6;P2RX6;ortholog	P2X PURINOCEPTOR 6 (PTHR10125:SF21)		Homo sapiens
+HUMAN|HGNC=856|UniProtKB=P21283	ATP6V1C1	V-type proton ATPase subunit C 1;ATP6V1C1;ortholog	V-TYPE PROTON ATPASE SUBUNIT C 1 (PTHR10137:SF5)	ATP synthase(PC00002);hydrolase(PC00121)	Homo sapiens
+HUMAN|HGNC=6256|UniProtKB=P78508	KCNJ10	ATP-sensitive inward rectifier potassium channel 10;KCNJ10;ortholog	ATP-SENSITIVE INWARD RECTIFIER POTASSIUM CHANNEL 10 (PTHR11767:SF21)		Homo sapiens
+HUMAN|HGNC=11060|UniProtKB=P52569	SLC7A2	Cationic amino acid transporter 2;SLC7A2;ortholog	CATIONIC AMINO ACID TRANSPORTER 2 (PTHR43243:SF49)	amino acid transporter(PC00046)	Homo sapiens
+HUMAN|HGNC=16496|UniProtKB=Q9UKU0	ACSL6	Long-chain-fatty-acid--CoA ligase 6;ACSL6;ortholog	LONG-CHAIN-FATTY-ACID--COA LIGASE 6 (PTHR43272:SF54)	ligase(PC00142)	Homo sapiens
+HUMAN|HGNC=18001|UniProtKB=O96008	TOMM40	Mitochondrial import receptor subunit TOM40 homolog;TOMM40;ortholog	MITOCHONDRIAL IMPORT RECEPTOR SUBUNIT TOM40 HOMOLOG (PTHR10802:SF1)	membrane traffic protein(PC00150)	Homo sapiens
+HUMAN|HGNC=10926|UniProtKB=O15375	SLC16A5	Monocarboxylate transporter 6;SLC16A5;ortholog	MONOCARBOXYLATE TRANSPORTER 6 (PTHR11360:SF21)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=7727|UniProtKB=P46934	NEDD4	E3 ubiquitin-protein ligase NEDD4;NEDD4;ortholog	E3 UBIQUITIN-PROTEIN LIGASE NEDD4 (PTHR11254:SF282)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=2148|UniProtKB=P29973	CNGA1	cGMP-gated cation channel alpha-1;CNGA1;ortholog	CYCLIC NUCLEOTIDE-GATED CHANNEL ROD PHOTORECEPTOR SUBUNIT ALPHA (PTHR45638:SF9)		Homo sapiens
+HUMAN|HGNC=28911|UniProtKB=O60831	PRAF2	PRA1 family protein 2;PRAF2;ortholog	PRA1 FAMILY PROTEIN 2 (PTHR12859:SF1)	amino acid transporter(PC00046)	Homo sapiens
+HUMAN|HGNC=2062|UniProtKB=O00299	CLIC1	Chloride intracellular channel protein 1;CLIC1;ortholog	CHLORIDE INTRACELLULAR CHANNEL PROTEIN 1 (PTHR43920:SF2)		Homo sapiens
+HUMAN|HGNC=2022|UniProtKB=P51793	CLCN4	H(+)/Cl(-) exchange transporter 4;CLCN4;ortholog	H(+)/CL(-) EXCHANGE TRANSPORTER 4 (PTHR45711:SF2)	anion channel(PC00049)	Homo sapiens
+HUMAN|HGNC=6269|UniProtKB=Q15842	KCNJ8	ATP-sensitive inward rectifier potassium channel 8;KCNJ8;ortholog	ATP-SENSITIVE INWARD RECTIFIER POTASSIUM CHANNEL 8 (PTHR11767:SF11)		Homo sapiens
+HUMAN|HGNC=4084|UniProtKB=O14764	GABRD	Gamma-aminobutyric acid receptor subunit delta;GABRD;ortholog	GAMMA-AMINOBUTYRIC ACID RECEPTOR SUBUNIT DELTA (PTHR18945:SF34)	GABA receptor(PC00023);acetylcholine receptor(PC00037)	Homo sapiens

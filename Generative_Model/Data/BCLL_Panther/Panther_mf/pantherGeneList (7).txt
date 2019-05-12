@@ -1,0 +1,9 @@
+HUMAN|HGNC=2685|UniProtKB=Q92904	DAZL	Deleted in azoospermia-like;DAZL;ortholog	DELETED IN AZOOSPERMIA-LIKE (PTHR11176:SF4)	RNA binding protein(PC00031)	Homo sapiens
+HUMAN|HGNC=24921|UniProtKB=Q9BQI3	EIF2AK1	Eukaryotic translation initiation factor 2-alpha kinase 1;EIF2AK1;ortholog	EUKARYOTIC TRANSLATION INITIATION FACTOR 2-ALPHA KINASE 1 (PTHR11042:SF151)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=3266|UniProtKB=P20042	EIF2S2	Eukaryotic translation initiation factor 2 subunit 2;EIF2S2;ortholog	EUKARYOTIC TRANSLATION INITIATION FACTOR 2 SUBUNIT 2 (PTHR23001:SF24)	translation initiation factor(PC00224)	Homo sapiens
+HUMAN|HGNC=3299|UniProtKB=P55010	EIF5	Eukaryotic translation initiation factor 5;EIF5;ortholog	EUKARYOTIC TRANSLATION INITIATION FACTOR 5 (PTHR23001:SF22)	G-protein modulator(PC00022);translation initiation factor(PC00224)	Homo sapiens
+HUMAN|HGNC=3775|UniProtKB=Q06787	FMR1	Synaptic functional regulator FMR1;FMR1;ortholog	SYNAPTIC FUNCTIONAL REGULATOR FMR1 (PTHR10603:SF4)	RNA binding protein(PC00031)	Homo sapiens
+HUMAN|HGNC=3211|UniProtKB=P29692	EEF1D	Elongation factor 1-delta;EEF1D;ortholog	ELONGATION FACTOR 1-DELTA (PTHR11595:SF54)	translation elongation factor(PC00222)	Homo sapiens
+HUMAN|HGNC=3252|UniProtKB=O14602	EIF1AY	Eukaryotic translation initiation factor 1A, Y-chromosomal;EIF1AY;ortholog	EUKARYOTIC TRANSLATION INITIATION FACTOR 1A, Y-CHROMOSOMAL (PTHR21668:SF6)	translation initiation factor(PC00224)	Homo sapiens
+HUMAN|HGNC=15966|UniProtKB=Q86SG3	DAZ4	Deleted in azoospermia protein 4;DAZ4;ortholog	DELETED IN AZOOSPERMIA PROTEIN 1-RELATED (PTHR11176:SF8)	RNA binding protein(PC00031)	Homo sapiens
+HUMAN|HGNC=3272|UniProtKB=Q13347	EIF3I	Eukaryotic translation initiation factor 3 subunit I;EIF3I;ortholog	EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT I (PTHR19877:SF1)	translation initiation factor(PC00224)	Homo sapiens

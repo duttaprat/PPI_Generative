@@ -1,0 +1,103 @@
+HUMAN|HGNC=4610|UniProtKB=Q12849	GRSF1	G-rich sequence factor 1;GRSF1;ortholog	G-RICH SEQUENCE FACTOR 1 (PTHR13976:SF42)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=15855|UniProtKB=Q9NPY3	CD93	Complement component C1q receptor;CD93;ortholog	COMPLEMENT COMPONENT C1Q RECEPTOR (PTHR24034:SF83)	annexin(PC00050);calmodulin(PC00061);cell adhesion molecule(PC00069);extracellular matrix glycoprotein(PC00100);extracellular matrix structural protein(PC00103);signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=12417|UniProtKB=P23258	TUBG1	Tubulin gamma-1 chain;TUBG1;ortholog	TUBULIN GAMMA-1 CHAIN (PTHR11588:SF62)	tubulin(PC00228)	Homo sapiens
+HUMAN|HGNC=30829|UniProtKB=Q9BVA1	TUBB2B	Tubulin beta-2B chain;TUBB2B;ortholog	TUBULIN BETA-2B CHAIN (PTHR11588:SF330)	tubulin(PC00228)	Homo sapiens
+HUMAN|HGNC=17859|UniProtKB=Q5SRE5	NUP188	Nucleoporin NUP188 homolog;NUP188;ortholog	NUCLEOPORIN NUP188 HOMOLOG (PTHR31431:SF1)		Homo sapiens
+HUMAN|HGNC=14049|UniProtKB=O60783	MRPS14	28S ribosomal protein S14, mitochondrial;MRPS14;ortholog	28S RIBOSOMAL PROTEIN S14, MITOCHONDRIAL (PTHR19836:SF19)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=10876|UniProtKB=Q9Y286	SIGLEC7	Sialic acid-binding Ig-like lectin 7;SIGLEC7;ortholog	SIALIC ACID-BINDING IG-LIKE LECTIN 7 (PTHR12035:SF111)	immunoglobulin receptor superfamily(PC00124);immunoglobulin superfamily cell adhesion molecule(PC00125);membrane-bound signaling molecule(PC00152);myelin protein(PC00161)	Homo sapiens
+HUMAN|HGNC=2509|UniProtKB=P35221	CTNNA1	Catenin alpha-1;CTNNA1;ortholog	CATENIN ALPHA-1 (PTHR18914:SF24)	cell adhesion molecule(PC00069);non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=7614|UniProtKB=P54296	MYOM2	Myomesin-2;MYOM2;ortholog	MYOMESIN-2 (PTHR13817:SF22)		Homo sapiens
+HUMAN|HGNC=10371|UniProtKB=P05388	RPLP0	60S acidic ribosomal protein P0;RPLP0;ortholog	60S ACIDIC RIBOSOMAL PROTEIN P0-RELATED (PTHR45699:SF1)		Homo sapiens
+HUMAN|HGNC=13973|UniProtKB=Q96KW2	POM121L2	POM121-like protein 2;POM121L2;ortholog	POM121-LIKE PROTEIN 12-RELATED (PTHR23193:SF20)	RNA binding protein(PC00031);structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=7373|UniProtKB=P26038	MSN	Moesin;MSN;ortholog	MOESIN (PTHR23281:SF26)	actin family cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=20774|UniProtKB=P04350	TUBB4A	Tubulin beta-4A chain;TUBB4A;ortholog	TUBULIN BETA-4A CHAIN (PTHR11588:SF253)	tubulin(PC00228)	Homo sapiens
+HUMAN|HGNC=132|UniProtKB=P60709	ACTB	Actin, cytoplasmic 1;ACTB;ortholog	ACTIN, CYTOPLASMIC 1 (PTHR11937:SF192)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=10322|UniProtKB=Q16540	MRPL23	39S ribosomal protein L23, mitochondrial;MRPL23;ortholog	39S RIBOSOMAL PROTEIN L23, MITOCHONDRIAL (PTHR12059:SF5)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=10298|UniProtKB=P27635	RPL10	60S ribosomal protein L10;RPL10;ortholog	60S RIBOSOMAL PROTEIN L10 (PTHR11726:SF36)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=10328|UniProtKB=P61353	RPL27	60S ribosomal protein L27;RPL27;ortholog	60S RIBOSOMAL PROTEIN L27 (PTHR10497:SF11)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=10410|UniProtKB=P62266	RPS23	40S ribosomal protein S23;RPS23;ortholog	40S RIBOSOMAL PROTEIN S23 (PTHR11652:SF44)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=10402|UniProtKB=P39019	RPS19	40S ribosomal protein S19;RPS19;ortholog	40S RIBOSOMAL PROTEIN S19 (PTHR11710:SF17)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=10405|UniProtKB=P60866	RPS20	40S ribosomal protein S20;RPS20;ortholog	40S RIBOSOMAL PROTEIN S20 (PTHR11700:SF8)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=20771|UniProtKB=P68371	TUBB4B	Tubulin beta-4B chain;TUBB4B;ortholog	TUBULIN BETA-4B CHAIN (PTHR11588:SF247)	tubulin(PC00228)	Homo sapiens
+HUMAN|HGNC=8066|UniProtKB=P37198	NUP62	Nuclear pore glycoprotein p62;NUP62;ortholog	NUCLEAR PORE GLYCOPROTEIN P62 (PTHR12084:SF12)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=2196|UniProtKB=Q14993	COL19A1	Collagen alpha-1(XIX) chain;COL19A1;ortholog	COLLAGEN ALPHA-1(XIX) CHAIN (PTHR24023:SF938)		Homo sapiens
+HUMAN|HGNC=29823|UniProtKB=P14649	MYL6B	Myosin light chain 6B;MYL6B;ortholog	MYOSIN LIGHT CHAIN 6B (PTHR23048:SF5)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=10384|UniProtKB=P62280	RPS11	40S ribosomal protein S11;RPS11;ortholog	40S RIBOSOMAL PROTEIN S11 (PTHR10744:SF9)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=10353|UniProtKB=P36578	RPL4	60S ribosomal protein L4;RPL4;ortholog	60S RIBOSOMAL PROTEIN L4 (PTHR19431:SF5)		Homo sapiens
+HUMAN|HGNC=15710|UniProtKB=O75112	LDB3	LIM domain-binding protein 3;LDB3;ortholog	LIM DOMAIN-BINDING PROTEIN 3 (PTHR24214:SF9)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=10349|UniProtKB=P63173	RPL38	60S ribosomal protein L38;RPL38;ortholog	60S RIBOSOMAL PROTEIN L38 (PTHR10965:SF7)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=16701|UniProtKB=P19105	MYL12A	Myosin regulatory light chain 12A;MYL12A;ortholog	MYOSIN REGULATORY LIGHT CHAIN 12A (PTHR23049:SF57)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=9069|UniProtKB=Q15149	PLEC	Plectin;PLEC;ortholog	PLECTIN (PTHR23169:SF20)	intermediate filament binding protein(PC00130)	Homo sapiens
+HUMAN|HGNC=7602|UniProtKB=Q9Y4I1	MYO5A	Unconventional myosin-Va;MYO5A;ortholog	UNCONVENTIONAL MYOSIN-VA (PTHR13140:SF273)	G-protein modulator(PC00022);actin binding motor protein(PC00040);cell junction protein(PC00070)	Homo sapiens
+HUMAN|HGNC=12412|UniProtKB=Q13885	TUBB2A	Tubulin beta-2A chain;TUBB2A;ortholog	TUBULIN BETA-2A CHAIN (PTHR11588:SF100)	tubulin(PC00228)	Homo sapiens
+HUMAN|HGNC=6715|UniProtKB=Q14767	LTBP2	Latent-transforming growth factor beta-binding protein 2;LTBP2;ortholog	LATENT-TRANSFORMING GROWTH FACTOR BETA-BINDING PROTEIN 2 (PTHR24034:SF49)	annexin(PC00050);calmodulin(PC00061);cell adhesion molecule(PC00069);extracellular matrix glycoprotein(PC00100);extracellular matrix structural protein(PC00103);signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=10383|UniProtKB=P46783	RPS10	40S ribosomal protein S10;RPS10;ortholog	40S RIBOSOMAL PROTEIN S10-RELATED (PTHR12146:SF10)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=144|UniProtKB=P63261	ACTG1	Actin, cytoplasmic 2;ACTG1;ortholog	ACTIN, CYTOPLASMIC 2 (PTHR11937:SF414)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=7585|UniProtKB=P12829	MYL4	Myosin light chain 4;MYL4;ortholog	MYOSIN LIGHT CHAIN 4 (PTHR23048:SF1)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=7595|UniProtKB=Q9UBC5	MYO1A	Unconventional myosin-Ia;MYO1A;ortholog	UNCONVENTIONAL MYOSIN-IA (PTHR13140:SF291)	G-protein modulator(PC00022);actin binding motor protein(PC00040);cell junction protein(PC00070)	Homo sapiens
+HUMAN|HGNC=3383|UniProtKB=P27105	STOM	Erythrocyte band 7 integral membrane protein;STOM;ortholog	ERYTHROCYTE BAND 7 INTEGRAL MEMBRANE PROTEIN (PTHR10264:SF115)	cytoskeletal protein(PC00085);protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=2157|UniProtKB=Q15417	CNN3	Calponin-3;CNN3;ortholog	CALPONIN-3 (PTHR18959:SF46)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=10461|UniProtKB=P30622	CLIP1	CAP-Gly domain-containing linker protein 1;CLIP1;ortholog	CAP-GLY DOMAIN-CONTAINING LINKER PROTEIN 1 (PTHR18916:SF44)	chaperone(PC00072);non-motor microtubule binding protein(PC00166)	Homo sapiens
+HUMAN|HGNC=18017|UniProtKB=Q12769	NUP160	Nuclear pore complex protein Nup160;NUP160;ortholog	NUCLEAR PORE COMPLEX PROTEIN NUP160 (PTHR21286:SF0)	transporter(PC00227)	Homo sapiens
+HUMAN|HGNC=2195|UniProtKB=P39060	COL18A1	Collagen alpha-1(XVIII) chain;COL18A1;ortholog	COLLAGEN ALPHA-1(XVIII) CHAIN (PTHR24023:SF959)		Homo sapiens
+HUMAN|HGNC=19702|UniProtKB=Q96HA1	POM121	Nuclear envelope pore membrane protein POM 121;POM121;ortholog	NUCLEAR ENVELOPE PORE MEMBRANE PROTEIN POM 121 (PTHR23193:SF5)	RNA binding protein(PC00031);structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=2469|UniProtKB=P21291	CSRP1	Cysteine and glycine-rich protein 1;CSRP1;ortholog	CYSTEINE AND GLYCINE-RICH PROTEIN 1 (PTHR24215:SF23)	actin family cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=2187|UniProtKB=P13942	COL11A2	Collagen alpha-2(XI) chain;COL11A2;ortholog	COLLAGEN ALPHA-2(XI) CHAIN (PTHR24023:SF509)		Homo sapiens
+HUMAN|HGNC=11694|UniProtKB=P51808	DYNLT3	Dynein light chain Tctex-type 3;DYNLT3;ortholog	DYNEIN LIGHT CHAIN TCTEX-TYPE 3 (PTHR21255:SF20)	microtubule family cytoskeletal protein(PC00157)	Homo sapiens
+HUMAN|HGNC=145|UniProtKB=P63267	ACTG2	Actin, gamma-enteric smooth muscle;ACTG2;ortholog	ACTIN, GAMMA-ENTERIC SMOOTH MUSCLE (PTHR11937:SF227)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=10388|UniProtKB=P62841	RPS15	40S ribosomal protein S15;RPS15;ortholog	40S RIBOSOMAL PROTEIN S15 (PTHR11880:SF28)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=10363|UniProtKB=P18124	RPL7	60S ribosomal protein L7;RPL7;ortholog	60S RIBOSOMAL PROTEIN L7 (PTHR11524:SF12)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=14061|UniProtKB=O60711	LPXN	Leupaxin;LPXN;ortholog	LEUPAXIN (PTHR24216:SF23)	actin family cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=7584|UniProtKB=P08590	MYL3	Myosin light chain 3;MYL3;ortholog	MYOSIN LIGHT CHAIN 3 (PTHR23048:SF2)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=10310|UniProtKB=Q07020	RPL18	60S ribosomal protein L18;RPL18;ortholog	60S RIBOSOMAL PROTEIN L18 (PTHR10934:SF6)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=21719|UniProtKB=Q01449	MYL7	Myosin regulatory light chain 2, atrial isoform;MYL7;ortholog	MYOSIN REGULATORY LIGHT CHAIN 2, ATRIAL ISOFORM (PTHR23049:SF39)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=10369|UniProtKB=P32969	RPL9	60S ribosomal protein L9;RPL9;ortholog	60S RIBOSOMAL PROTEIN L9 (PTHR11655:SF26)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=7586|UniProtKB=Q02045	MYL5	Myosin light chain 5;MYL5;ortholog	MYOSIN LIGHT CHAIN 5 (PTHR23049:SF8)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=1528|UniProtKB=P51636	CAV2	Caveolin-2;CAV2;ortholog	CAVEOLIN-2 (PTHR10844:SF3)	G-protein modulator(PC00022);membrane traffic protein(PC00150);structural protein(PC00211);transmembrane receptor regulatory/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=2695|UniProtKB=Q16643	DBN1	Drebrin;DBN1;ortholog	DREBRIN (PTHR10829:SF1)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=29868|UniProtKB=Q9UI15	TAGLN3	Transgelin-3;TAGLN3;ortholog	TRANSGELIN-3 (PTHR18959:SF57)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=17060|UniProtKB=Q92845	KIFAP3	Kinesin-associated protein 3;KIFAP3;ortholog	KINESIN-ASSOCIATED PROTEIN 3 (PTHR15605:SF2)	microtubule binding motor protein(PC00156)	Homo sapiens
+HUMAN|HGNC=12733|UniProtKB=Q9Y6W5	WASF2	Wiskott-Aldrich syndrome protein family member 2;WASF2;ortholog	WISKOTT-ALDRICH SYNDROME PROTEIN FAMILY MEMBER 2 (PTHR12902:SF6)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=375|UniProtKB=P24588	AKAP5	A-kinase anchor protein 5;AKAP5;ortholog	A-KINASE ANCHOR PROTEIN 5 (PTHR15182:SF0)		Homo sapiens
+HUMAN|HGNC=10380|UniProtKB=O15235	MRPS12	28S ribosomal protein S12, mitochondrial;MRPS12;ortholog	28S RIBOSOMAL PROTEIN S12, MITOCHONDRIAL (PTHR11652:SF1)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=2207|UniProtKB=P29400	COL4A5	Collagen alpha-5(IV) chain;COL4A5;ortholog	COLLAGEN ALPHA-5(IV) CHAIN (PTHR24023:SF877)		Homo sapiens
+HUMAN|HGNC=10306|UniProtKB=P61313	RPL15	60S ribosomal protein L15;RPL15;ortholog	60S RIBOSOMAL PROTEIN L15 (PTHR11847:SF4)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=29827|UniProtKB=O14950	MYL12B	Myosin regulatory light chain 12B;MYL12B;ortholog	MYOSIN REGULATORY LIGHT CHAIN 12B (PTHR23049:SF58)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=8062|UniProtKB=P49790	NUP153	Nuclear pore complex protein Nup153;NUP153;ortholog	NUCLEAR PORE COMPLEX PROTEIN NUP153 (PTHR23193:SF23)	RNA binding protein(PC00031)	Homo sapiens
+HUMAN|HGNC=10333|UniProtKB=P62888	RPL30	60S ribosomal protein L30;RPL30;ortholog	60S RIBOSOMAL PROTEIN L30 (PTHR11449:SF12)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=24473|UniProtKB=Q6UWY5	OLFML1	Olfactomedin-like protein 1;OLFML1;ortholog	OLFACTOMEDIN-LIKE PROTEIN 1 (PTHR23192:SF13)	receptor(PC00197);structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=2470|UniProtKB=Q16527	CSRP2	Cysteine and glycine-rich protein 2;CSRP2;ortholog	CYSTEINE AND GLYCINE-RICH PROTEIN 2 (PTHR24215:SF3)	actin family cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=12690|UniProtKB=P09327	VIL1	Villin-1;VIL1;ortholog	VILLIN-1 (PTHR11977:SF35)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=2201|UniProtKB=P02461	COL3A1	Collagen alpha-1(III) chain;COL3A1;ortholog	COLLAGEN ALPHA-1(III) CHAIN (PTHR24023:SF604)		Homo sapiens
+HUMAN|HGNC=2193|UniProtKB=Q07092	COL16A1	Collagen alpha-1(XVI) chain;COL16A1;ortholog	COLLAGEN ALPHA-1(XVI) CHAIN (PTHR24023:SF372)		Homo sapiens
+HUMAN|HGNC=2673|UniProtKB=P51398	DAP3	28S ribosomal protein S29, mitochondrial;DAP3;ortholog	28S RIBOSOMAL PROTEIN S29, MITOCHONDRIAL (PTHR12810:SF0)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=14630|UniProtKB=Q96HD1	CRELD1	Cysteine-rich with EGF-like domain protein 1;CRELD1;ortholog	CYSTEINE-RICH WITH EGF-LIKE DOMAIN PROTEIN 1 (PTHR24034:SF114)	annexin(PC00050);calmodulin(PC00061);cell adhesion molecule(PC00069);extracellular matrix glycoprotein(PC00100);extracellular matrix structural protein(PC00103);signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=10417|UniProtKB=P62979	RPS27A	Ubiquitin-40S ribosomal protein S27a;RPS27A;ortholog	UBIQUITIN-40S RIBOSOMAL PROTEIN S27A (PTHR10666:SF258)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=15754|UniProtKB=P24844	MYL9	Myosin regulatory light polypeptide 9;MYL9;ortholog	MYOSIN REGULATORY LIGHT POLYPEPTIDE 9 (PTHR23049:SF66)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=12407|UniProtKB=P68366	TUBA4A	Tubulin alpha-4A chain;TUBA4A;ortholog	TUBULIN ALPHA-4A CHAIN (PTHR11588:SF53)	tubulin(PC00228)	Homo sapiens
+HUMAN|HGNC=14188|UniProtKB=O75366	AVIL	Advillin;AVIL;ortholog	ADVILLIN (PTHR11977:SF33)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=11215|UniProtKB=O75602	SPAG6	Sperm-associated antigen 6;SPAG6;ortholog	SPERM-ASSOCIATED ANTIGEN 6 (PTHR23314:SF0)	microtubule family cytoskeletal protein(PC00157)	Homo sapiens
+HUMAN|HGNC=7582|UniProtKB=P05976	MYL1	Myosin light chain 1/3, skeletal muscle isoform;MYL1;ortholog	MYOSIN LIGHT CHAIN 1/3, SKELETAL MUSCLE ISOFORM (PTHR23048:SF3)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=18016|UniProtKB=Q8WUM0	NUP133	Nuclear pore complex protein Nup133;NUP133;ortholog	NUCLEAR PORE COMPLEX PROTEIN NUP133 (PTHR13405:SF11)		Homo sapiens
+HUMAN|HGNC=20772|UniProtKB=Q13509	TUBB3	Tubulin beta-3 chain;TUBB3;ortholog	TUBULIN BETA-3 CHAIN (PTHR11588:SF43)	tubulin(PC00228)	Homo sapiens
+HUMAN|HGNC=1659|UniProtKB=P20138	CD33	Myeloid cell surface antigen CD33;CD33;ortholog	MYELOID CELL SURFACE ANTIGEN CD33-RELATED (PTHR12035:SF104)	immunoglobulin receptor superfamily(PC00124);immunoglobulin superfamily cell adhesion molecule(PC00125);membrane-bound signaling molecule(PC00152);myelin protein(PC00161)	Homo sapiens
+HUMAN|HGNC=7599|UniProtKB=Q12965	MYO1E	Unconventional myosin-Ie;MYO1E;ortholog	UNCONVENTIONAL MYOSIN-IE (PTHR13140:SF341)	G-protein modulator(PC00022);actin binding motor protein(PC00040);cell junction protein(PC00070)	Homo sapiens
+HUMAN|HGNC=167|UniProtKB=P61163	ACTR1A	Alpha-centractin;ACTR1A;ortholog	ALPHA-CENTRACTIN (PTHR11937:SF370)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=8064|UniProtKB=P35658	NUP214	Nuclear pore complex protein Nup214;NUP214;ortholog	NUCLEAR PORE COMPLEX PROTEIN NUP214 (PTHR23193:SF21)	RNA binding protein(PC00031);structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=33760|UniProtKB=Q6PEX3	KRTAP26-1	Keratin-associated protein 26-1;KRTAP26-1;ortholog	KERATIN-ASSOCIATED PROTEIN 26-1 (PTHR19051:SF6)	structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=10389|UniProtKB=P62244	RPS15A	40S ribosomal protein S15a;RPS15A;ortholog	40S RIBOSOMAL PROTEIN S15A (PTHR11758:SF13)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=10387|UniProtKB=P62263	RPS14	40S ribosomal protein S14;RPS14;ortholog	40S RIBOSOMAL PROTEIN S14 (PTHR11759:SF29)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=14050|UniProtKB=P82912	MRPS11	28S ribosomal protein S11, mitochondrial;MRPS11;ortholog	28S RIBOSOMAL PROTEIN S11, MITOCHONDRIAL (PTHR11759:SF3)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=16016|UniProtKB=Q5KU26	CLP1	Collectin-12;COLEC12;ortholog	COLLECTIN-12 (PTHR24023:SF910)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=17187|UniProtKB=Q99784	OLFM1	Noelin;OLFM1;ortholog	NOELIN (PTHR23192:SF34)	receptor(PC00197);structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=1474|UniProtKB=P40121	CAPG	Macrophage-capping protein;CAPG;ortholog	MACROPHAGE-CAPPING PROTEIN (PTHR11977:SF13)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=10875|UniProtKB=O43699	SIGLEC6	Sialic acid-binding Ig-like lectin 6;SIGLEC6;ortholog	SIALIC ACID-BINDING IG-LIKE LECTIN 6 (PTHR12035:SF94)	immunoglobulin receptor superfamily(PC00124);immunoglobulin superfamily cell adhesion molecule(PC00125);membrane-bound signaling molecule(PC00152);myelin protein(PC00161)	Homo sapiens
+HUMAN|HGNC=25094|UniProtKB=Q765P7	MTSS1L	MTSS1-like protein;MTSS1L;ortholog	MTSS1-LIKE PROTEIN (PTHR15708:SF8)	actin family cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=676|UniProtKB=O43182	ARHGAP6	Rho GTPase-activating protein 6;ARHGAP6;ortholog	RHO GTPASE-ACTIVATING PROTEIN 6 (PTHR12635:SF6)	cytoskeletal protein(PC00085)	Homo sapiens
+HUMAN|HGNC=2197|UniProtKB=P02452	COL1A1	Collagen alpha-1(I) chain;COL1A1;ortholog	COLLAGEN ALPHA-1(I) CHAIN (PTHR24023:SF569)		Homo sapiens
+HUMAN|HGNC=10305|UniProtKB=P50914	RPL14	60S ribosomal protein L14;RPL14;ortholog	60S RIBOSOMAL PROTEIN L14 (PTHR11127:SF4)	ribosomal protein(PC00202)	Homo sapiens
+HUMAN|HGNC=17468|UniProtKB=Q96HC4	PDLIM5	PDZ and LIM domain protein 5;PDLIM5;ortholog	PDZ AND LIM DOMAIN PROTEIN 5 (PTHR24214:SF32)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=7587|UniProtKB=P60660	MYL6	Myosin light polypeptide 6;MYL6;ortholog	MYOSIN LIGHT POLYPEPTIDE 6 (PTHR23048:SF7)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=2186|UniProtKB=P12107	COL11A1	Collagen alpha-1(XI) chain;COL11A1;ortholog	COLLAGEN ALPHA-1(XI) CHAIN (PTHR24023:SF42)		Homo sapiens
+HUMAN|HGNC=11697|UniProtKB=P63172	DYNLT1	Dynein light chain Tctex-type 1;DYNLT1;ortholog	DYNEIN LIGHT CHAIN TCTEX-TYPE 1 (PTHR21255:SF19)	microtubule family cytoskeletal protein(PC00157)	Homo sapiens
+HUMAN|HGNC=7606|UniProtKB=Q13402	MYO7A	Unconventional myosin-VIIa;MYO7A;ortholog	UNCONVENTIONAL MYOSIN-VIIA (PTHR13140:SF369)	G-protein modulator(PC00022);actin binding motor protein(PC00040);cell junction protein(PC00070)	Homo sapiens

@@ -1,0 +1,1 @@
+HUMAN|HGNC=18415|UniProtKB=O75146	HIP1R	Huntingtin-interacting protein 1-related protein;HIP1R;ortholog	HUNTINGTIN-INTERACTING PROTEIN 1-RELATED PROTEIN (PTHR10407:SF10)	non-motor actin binding protein(PC00165)	Homo sapiens
