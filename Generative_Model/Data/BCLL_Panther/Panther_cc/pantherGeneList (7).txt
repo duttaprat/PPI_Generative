@@ -1,0 +1,4 @@
+HUMAN|HGNC=6324|UniProtKB=P33176	KIF5B	Kinesin-1 heavy chain;KIF5B;ortholog	KINESIN-1 HEAVY CHAIN (PTHR24115:SF513)	microtubule binding motor protein(PC00156)	Homo sapiens
+HUMAN|HGNC=13735|UniProtKB=P49795	RGS19	Regulator of G-protein signaling 19;RGS19;ortholog	REGULATOR OF G-PROTEIN SIGNALING 19 (PTHR10845:SF145)	G-protein modulator(PC00022)	Homo sapiens
+HUMAN|HGNC=29114|UniProtKB=O94868	FCHSD2	F-BAR and double SH3 domains protein 2;FCHSD2;ortholog	F-BAR AND DOUBLE SH3 DOMAINS PROTEIN 2 (PTHR15735:SF11)		Homo sapiens
+HUMAN|HGNC=2901|UniProtKB=Q15700	DLG2	Disks large homolog 2;DLG2;ortholog	DISKS LARGE HOMOLOG 2-RELATED (PTHR23119:SF6)	transmembrane receptor regulatory/adaptor protein(PC00226)	Homo sapiens

@@ -1,0 +1,37 @@
+HUMAN|HGNC=1753|UniProtKB=P55290	CDH13	Cadherin-13;CDH13;ortholog	CADHERIN-13 (PTHR24027:SF80)		Homo sapiens
+HUMAN|HGNC=17787|UniProtKB=O14910	LIN7A	Protein lin-7 homolog A;LIN7A;ortholog	PROTEIN LIN-7 HOMOLOG A (PTHR14063:SF4)	cell adhesion molecule(PC00069);cell junction protein(PC00070)	Homo sapiens
+HUMAN|HGNC=630|UniProtKB=Q13796	SHROOM2	Protein Shroom2;SHROOM2;ortholog	PROTEIN SHROOM2 (PTHR15012:SF8)	ligand-gated ion channel(PC00141)	Homo sapiens
+HUMAN|HGNC=1762|UniProtKB=P22223	CDH3	Cadherin-3;CDH3;ortholog	CADHERIN-3 (PTHR24027:SF267)		Homo sapiens
+HUMAN|HGNC=1764|UniProtKB=P33151	CDH5	Cadherin-5;CDH5;ortholog	CADHERIN-5 (PTHR24027:SF89)		Homo sapiens
+HUMAN|HGNC=2196|UniProtKB=Q14993	COL19A1	Collagen alpha-1(XIX) chain;COL19A1;ortholog	COLLAGEN ALPHA-1(XIX) CHAIN (PTHR24023:SF938)		Homo sapiens
+HUMAN|HGNC=7220|UniProtKB=Q14168	MPP2	MAGUK p55 subfamily member 2;MPP2;ortholog	MAGUK P55 SUBFAMILY MEMBER 2 (PTHR23122:SF35)	cell junction protein(PC00070);nucleotide kinase(PC00172)	Homo sapiens
+HUMAN|HGNC=6158|UniProtKB=P16144	ITGB4	Integrin beta-4;ITGB4;ortholog	INTEGRIN BETA-4 (PTHR10082:SF42)	cell adhesion molecule(PC00069);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=544|UniProtKB=P08133	ANXA6	Annexin A6;ANXA6;ortholog	ANNEXIN A6 (PTHR10502:SF19)		Homo sapiens
+HUMAN|HGNC=17664|UniProtKB=Q9NQS3	PRR3,PVRL3	Nectin-3;NECTIN3;ortholog	NECTIN-3 (PTHR23277:SF12)		Homo sapiens
+HUMAN|HGNC=9069|UniProtKB=Q15149	PLEC	Plectin;PLEC;ortholog	PLECTIN (PTHR23169:SF20)	intermediate filament binding protein(PC00130)	Homo sapiens
+HUMAN|HGNC=7602|UniProtKB=Q9Y4I1	MYO5A	Unconventional myosin-Va;MYO5A;ortholog	UNCONVENTIONAL MYOSIN-VA (PTHR13140:SF273)	G-protein modulator(PC00022);actin binding motor protein(PC00040);cell junction protein(PC00070)	Homo sapiens
+HUMAN|HGNC=1750|UniProtKB=P55287	CDH11	Cadherin-11;CDH11;ortholog	CADHERIN-11 (PTHR24027:SF85)		Homo sapiens
+HUMAN|HGNC=7595|UniProtKB=Q9UBC5	MYO1A	Unconventional myosin-Ia;MYO1A;ortholog	UNCONVENTIONAL MYOSIN-IA (PTHR13140:SF291)	G-protein modulator(PC00022);actin binding motor protein(PC00040);cell junction protein(PC00070)	Homo sapiens
+HUMAN|HGNC=9612|UniProtKB=Q14289	PTK2B	Protein-tyrosine kinase 2-beta;PTK2B;ortholog	PROTEIN-TYROSINE KINASE 2-BETA (PTHR24418:SF94)		Homo sapiens
+HUMAN|HGNC=3052|UniProtKB=P15924	DSP	Desmoplakin;DSP;ortholog	DESMOPLAKIN (PTHR23169:SF26)	intermediate filament binding protein(PC00130)	Homo sapiens
+HUMAN|HGNC=6155|UniProtKB=P05107	ITGB2	Integrin beta-2;ITGB2;ortholog	INTEGRIN BETA-2 (PTHR10082:SF15)	cell adhesion molecule(PC00069);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=31073|UniProtKB=Q9Y2K3	MYH15	Myosin-15;MYH15;ortholog	MYOSIN-15 (PTHR45615:SF26)		Homo sapiens
+HUMAN|HGNC=30801|UniProtKB=Q9UKB5	AJAP1	Adherens junction-associated protein 1;AJAP1;ortholog	ADHERENS JUNCTION-ASSOCIATED PROTEIN 1 (PTHR32422:SF0)		Homo sapiens
+HUMAN|HGNC=1528|UniProtKB=P51636	CAV2	Caveolin-2;CAV2;ortholog	CAVEOLIN-2 (PTHR10844:SF3)	G-protein modulator(PC00022);membrane traffic protein(PC00150);structural protein(PC00211);transmembrane receptor regulatory/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=1497|UniProtKB=O14936	CASK	Peripheral plasma membrane protein CASK;CASK;ortholog	PERIPHERAL PLASMA MEMBRANE PROTEIN CASK (PTHR23122:SF40)	cell junction protein(PC00070);nucleotide kinase(PC00172);protein kinase(PC00193)	Homo sapiens
+HUMAN|HGNC=1759|UniProtKB=P19022	CDH2	Cadherin-2;CDH2;ortholog	CADHERIN-2 (PTHR24027:SF79)		Homo sapiens
+HUMAN|HGNC=6040|UniProtKB=Q13418	ILK	Integrin-linked protein kinase;ILK;ortholog	INTEGRIN-LINKED PROTEIN KINASE (PTHR44329:SF57)		Homo sapiens
+HUMAN|HGNC=243|UniProtKB=P35611	ADD1	Alpha-adducin;ADD1;ortholog	ALPHA-ADDUCIN (PTHR10672:SF4)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=1751|UniProtKB=P55289	CDH12	Cadherin-12;CDH12;ortholog	CADHERIN-12 (PTHR24027:SF96)		Homo sapiens
+HUMAN|HGNC=2515|UniProtKB=O60716	CTNND1	Catenin delta-1;CTNND1;ortholog	CATENIN DELTA-1 (PTHR10372:SF6)	intermediate filament binding protein(PC00130)	Homo sapiens
+HUMAN|HGNC=1754|UniProtKB=P55291	CDH3	Cadherin-15;CDH15;ortholog	CADHERIN-15 (PTHR24027:SF300)		Homo sapiens
+HUMAN|HGNC=2193|UniProtKB=Q07092	COL16A1	Collagen alpha-1(XVI) chain;COL16A1;ortholog	COLLAGEN ALPHA-1(XVI) CHAIN (PTHR24023:SF372)		Homo sapiens
+HUMAN|HGNC=7577|UniProtKB=P12883	MYH7	Myosin-7;MYH7;ortholog	MYOSIN-7 (PTHR45615:SF1)		Homo sapiens
+HUMAN|HGNC=1763|UniProtKB=P55283	CDH4	Cadherin-4;CDH4;ortholog	CADHERIN-4 (PTHR24027:SF81)		Homo sapiens
+HUMAN|HGNC=1090|UniProtKB=Q03001	DST	Dystonin;DST;ortholog	DYSTONIN (PTHR23169:SF24)	intermediate filament binding protein(PC00130)	Homo sapiens
+HUMAN|HGNC=1748|UniProtKB=P12830	CDH1	Cadherin-1;CDH1;ortholog	CADHERIN-1 (PTHR24027:SF319)		Homo sapiens
+HUMAN|HGNC=6156|UniProtKB=P05106	ITGB3	Integrin beta-3;ITGB3;ortholog	INTEGRIN BETA-3 (PTHR10082:SF25)	cell adhesion molecule(PC00069);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=16051|UniProtKB=Q8TEW0	PARD3	Partitioning defective 3 homolog;PARD3;ortholog	PARTITIONING DEFECTIVE 3 HOMOLOG (PTHR16484:SF10)		Homo sapiens
+HUMAN|HGNC=946|UniProtKB=Q96QZ7	MAGI1,BAP1	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1;MAGI1;ortholog	MEMBRANE-ASSOCIATED GUANYLATE KINASE, WW AND PDZ DOMAIN-CONTAINING PROTEIN 1 (PTHR10316:SF12)		Homo sapiens
+HUMAN|HGNC=1756|UniProtKB=Q12864	CDH17	Cadherin-17;CDH17;ortholog	CADHERIN-17 (PTHR24027:SF419)		Homo sapiens
+HUMAN|HGNC=2516|UniProtKB=Q9UQB3	CTNND2	Catenin delta-2;CTNND2;ortholog	CATENIN DELTA-2 (PTHR10372:SF9)	intermediate filament binding protein(PC00130)	Homo sapiens

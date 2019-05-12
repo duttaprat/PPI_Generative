@@ -1,0 +1,14 @@
+HUMAN|HGNC=10483|UniProtKB=P21817	RYR1	Ryanodine receptor 1;RYR1;ortholog	RYANODINE RECEPTOR 1 (PTHR13715:SF15)	ligand-gated ion channel(PC00141)	Homo sapiens
+HUMAN|HGNC=7614|UniProtKB=P54296	MYOM2	Myomesin-2;MYOM2;ortholog	MYOMESIN-2 (PTHR13817:SF22)		Homo sapiens
+HUMAN|HGNC=26424|UniProtKB=H8Y6P7	GCOM1	GRINL1A combined protein 15;GCOM1;ortholog	GRINL1A COMBINED PROTEIN 15 (PTHR23171:SF12)		Homo sapiens
+HUMAN|HGNC=18565|UniProtKB=Q8TDC0	MYOZ3	Myozenin-3;MYOZ3;ortholog	MYOZENIN-3 (PTHR15941:SF15)	structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=11944|UniProtKB=P02585	TNNC2	Troponin C, skeletal muscle;TNNC2;ortholog	TROPONIN C, SKELETAL MUSCLE (PTHR23064:SF21)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=6647|UniProtKB=P29536	LMOD1	Leiomodin-1;LMOD1;ortholog	LEIOMODIN-1 (PTHR10901:SF5)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=7720|UniProtKB=P20929	NEB	Nebulin;NEB;ortholog	NEBULIN (PTHR11039:SF37)		Homo sapiens
+HUMAN|HGNC=3703|UniProtKB=Q14192	FHL2	Four and a half LIM domains protein 2;FHL2;ortholog	FOUR AND A HALF LIM DOMAINS PROTEIN 2 (PTHR24205:SF3)	zinc finger transcription factor(PC00244)	Homo sapiens
+HUMAN|HGNC=11948|UniProtKB=P13805	TNNT1	Troponin T, slow skeletal muscle;TNNT1;ortholog	TROPONIN T, SLOW SKELETAL MUSCLE (PTHR11521:SF6)	actin binding motor protein(PC00040)	Homo sapiens
+HUMAN|HGNC=9508|UniProtKB=P49768	PSEN1	Presenilin-1;PSEN1;ortholog	PRESENILIN-1 (PTHR10202:SF18)	aspartic protease(PC00053);calcium-binding protein(PC00060);membrane-bound signaling molecule(PC00152)	Homo sapiens
+HUMAN|HGNC=16932|UniProtKB=O76041	NEBL	Nebulette;NEBL;ortholog	NEBULETTE (PTHR11039:SF48)		Homo sapiens
+HUMAN|HGNC=2197|UniProtKB=P02452	COL1A1	Collagen alpha-1(I) chain;COL1A1;ortholog	COLLAGEN ALPHA-1(I) CHAIN (PTHR24023:SF569)		Homo sapiens
+HUMAN|HGNC=11950|UniProtKB=P45378	TNNT3	Troponin T, fast skeletal muscle;TNNT3;ortholog	TROPONIN T, FAST SKELETAL MUSCLE (PTHR11521:SF4)	actin binding motor protein(PC00040)	Homo sapiens
+HUMAN|HGNC=2186|UniProtKB=P12107	COL11A1	Collagen alpha-1(XI) chain;COL11A1;ortholog	COLLAGEN ALPHA-1(XI) CHAIN (PTHR24023:SF42)		Homo sapiens

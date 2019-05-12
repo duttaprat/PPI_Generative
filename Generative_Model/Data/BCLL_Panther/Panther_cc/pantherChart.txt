@@ -1,0 +1,8 @@
+1	synapse (GO:0045202)	4	0.1%	0.1%
+2	supramolecular complex (GO:0099080)	14	0.4%	0.4%
+3	cell junction (GO:0030054)	37	0.9%	1.1%
+4	membrane (GO:0016020)	308	7.7%	9.5%
+5	protein-containing complex (GO:0032991)	396	9.9%	12.2%
+6	organelle (GO:0043226)	941	23.6%	28.9%
+7	extracellular region (GO:0005576)	216	5.4%	6.6%
+8	cell (GO:0005623)	1335	33.5%	41.1%
