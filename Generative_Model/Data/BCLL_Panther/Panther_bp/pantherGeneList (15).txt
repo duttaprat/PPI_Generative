@@ -1,0 +1,6 @@
+HUMAN|HGNC=7787|UniProtKB=Q16649	NFIL3	Nuclear factor interleukin-3-regulated protein;NFIL3;ortholog	NUCLEAR FACTOR INTERLEUKIN-3-REGULATED PROTEIN (PTHR15284:SF1)	transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=5362|UniProtKB=Q02535	ID3	DNA-binding protein inhibitor ID-3;ID3;ortholog	DNA-BINDING PROTEIN INHIBITOR ID-3 (PTHR11723:SF16)	transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=8845|UniProtKB=O15534	PER1	Period circadian protein homolog 1;PER1;ortholog	PERIOD CIRCADIAN PROTEIN HOMOLOG 1 (PTHR11269:SF8)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=5361|UniProtKB=Q02363	ID2	DNA-binding protein inhibitor ID-2;ID2;ortholog	DNA-BINDING PROTEIN INHIBITOR ID-2 (PTHR11723:SF5)	transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=8846|UniProtKB=O15055	PER2	Period circadian protein homolog 2;PER2;ortholog	PERIOD CIRCADIAN PROTEIN HOMOLOG 2 (PTHR11269:SF9)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=33910|UniProtKB=Q9UH36	SRRD	SRR1-like protein;SRRD;ortholog	SRR1-LIKE PROTEIN (PTHR28626:SF3)		Homo sapiens

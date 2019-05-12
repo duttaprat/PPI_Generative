@@ -1,0 +1,54 @@
+HUMAN|HGNC=12417|UniProtKB=P23258	TUBG1	Tubulin gamma-1 chain;TUBG1;ortholog	TUBULIN GAMMA-1 CHAIN (PTHR11588:SF62)	tubulin(PC00228)	Homo sapiens
+HUMAN|HGNC=24307|UniProtKB=A4FU01	MTMR11	Myotubularin-related protein 11;MTMR11;ortholog	MYOTUBULARIN-RELATED PROTEIN 11 (PTHR10807:SF51)	phosphatase(PC00181)	Homo sapiens
+HUMAN|HGNC=11990|UniProtKB=Q02880	TOP2B	DNA topoisomerase 2-beta;TOP2B;ortholog	DNA TOPOISOMERASE 2-BETA (PTHR10169:SF36)		Homo sapiens
+HUMAN|HGNC=201|UniProtKB=Q9P0K1	ADAM22	Disintegrin and metalloproteinase domain-containing protein 22;ADAM22;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 22 (PTHR11905:SF14)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=25071|UniProtKB=Q6IBW4	NCAPH2	Condensin-2 complex subunit H2;NCAPH2;ortholog	CONDENSIN-2 COMPLEX SUBUNIT H2 (PTHR14324:SF3)		Homo sapiens
+HUMAN|HGNC=6641|UniProtKB=P25800	LMO1	Rhombotin-1;LMO1;ortholog	RHOMBOTIN-1 (PTHR45787:SF2)		Homo sapiens
+HUMAN|HGNC=1727|UniProtKB=P30307	CDC25C	M-phase inducer phosphatase 3;CDC25C;ortholog	M-PHASE INDUCER PHOSPHATASE 3 (PTHR10828:SF64)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=6797|UniProtKB=P43363	MAGEA10	Melanoma-associated antigen 10;MAGEA10;ortholog	MELANOMA-ASSOCIATED ANTIGEN 10 (PTHR11736:SF81)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=7329|UniProtKB=P52701	MSH6	DNA mismatch repair protein Msh6;MSH6;ortholog	DNA MISMATCH REPAIR PROTEIN MSH6 (PTHR11361:SF34)	DNA binding protein(PC00009)	Homo sapiens
+HUMAN|HGNC=17579|UniProtKB=Q14849	STARD3	StAR-related lipid transfer protein 3;STARD3;ortholog	STAR-RELATED LIPID TRANSFER PROTEIN 3 (PTHR46121:SF2)		Homo sapiens
+HUMAN|HGNC=24305|UniProtKB=Q15021	NCAPD2	Condensin complex subunit 1;NCAPD2;ortholog	CONDENSIN COMPLEX SUBUNIT 1 (PTHR14222:SF2)	nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=6623|UniProtKB=Q9Y5X9	LIPE	Endothelial lipase;LIPG;ortholog	ENDOTHELIAL LIPASE (PTHR11610:SF13)	esterase(PC00097);lipase(PC00143);storage protein(PC00210)	Homo sapiens
+HUMAN|HGNC=9816|UniProtKB=Q92878	RAD50	DNA repair protein RAD50;RAD50;ortholog	DNA REPAIR PROTEIN RAD50 (PTHR18867:SF12)		Homo sapiens
+HUMAN|HGNC=6642|UniProtKB=P25791	LMO2	Rhombotin-2;LMO2;ortholog	RHOMBOTIN-2 (PTHR45787:SF3)		Homo sapiens
+HUMAN|HGNC=206|UniProtKB=Q9UKQ2	ADAM23	Disintegrin and metalloproteinase domain-containing protein 28;ADAM28;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 28 (PTHR11905:SF32)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=9007|UniProtKB=Q96J94	PIWIL1	Piwi-like protein 1;PIWIL1;ortholog	PIWI-LIKE PROTEIN 1 (PTHR22891:SF46)		Homo sapiens
+HUMAN|HGNC=202|UniProtKB=O75077	ADAM23	Disintegrin and metalloproteinase domain-containing protein 23;ADAM23;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 23 (PTHR11905:SF13)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=6806|UniProtKB=P43361	MAGEA8	Melanoma-associated antigen 8;MAGEA8;ortholog	MELANOMA-ASSOCIATED ANTIGEN 8 (PTHR11736:SF65)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=21100|UniProtKB=Q96PU8	QKI	Protein quaking;QKI;ortholog	PROTEIN QUAKING (PTHR11208:SF91)	mRNA splicing factor(PC00148);transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=7451|UniProtKB=Q13615	MTMR3	Myotubularin-related protein 3;MTMR3;ortholog	MYOTUBULARIN-RELATED PROTEIN 3 (PTHR10807:SF66)	phosphatase(PC00181)	Homo sapiens
+HUMAN|HGNC=7675|UniProtKB=Q99608	NDN	Necdin;NDN;ortholog	NECDIN (PTHR11736:SF10)	DNA binding protein(PC00009);cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=7516|UniProtKB=Q9HC84	MUC5B	Mucin-5B;MUC5B;ortholog	MUCIN-5B (PTHR11339:SF269)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=1725|UniProtKB=P30304	CDC25A	M-phase inducer phosphatase 1;CDC25A;ortholog	M-PHASE INDUCER PHOSPHATASE 1 (PTHR10828:SF46)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=9820|UniProtKB=O43502	RAD51C	DNA repair protein RAD51 homolog 3;RAD51C;ortholog	DNA REPAIR PROTEIN RAD51 HOMOLOG 3 (PTHR46239:SF1)		Homo sapiens
+HUMAN|HGNC=10289|UniProtKB=P27694	RPA1	Replication protein A 70 kDa DNA-binding subunit;RPA1;ortholog	REPLICATION PROTEIN A 70 KDA DNA-BINDING SUBUNIT (PTHR23273:SF4)	DNA binding protein(PC00009)	Homo sapiens
+HUMAN|HGNC=9691|UniProtKB=Q9NZH5	PTTG2	Securin-2;PTTG2;ortholog	SECURIN-2 (PTHR10418:SF8)		Homo sapiens
+HUMAN|HGNC=9156|UniProtKB=P54315	PNLIPRP1	Inactive pancreatic lipase-related protein 1;PNLIPRP1;ortholog	INACTIVE PANCREATIC LIPASE-RELATED PROTEIN 1 (PTHR11610:SF108)	esterase(PC00097);lipase(PC00143);storage protein(PC00210)	Homo sapiens
+HUMAN|HGNC=7448|UniProtKB=Q13496	MTM1	Myotubularin;MTM1;ortholog	MYOTUBULARIN (PTHR10807:SF69)	phosphatase(PC00181)	Homo sapiens
+HUMAN|HGNC=23163|UniProtKB=Q8N2Z9	APITD1	Centromere protein S;CENPS;ortholog	CENTROMERE PROTEIN S (PTHR22980:SF4)	neuropeptide(PC00162)	Homo sapiens
+HUMAN|HGNC=3791|UniProtKB=P15328	FOLR1	Folate receptor alpha;FOLR1;ortholog	FOLATE RECEPTOR ALPHA (PTHR10517:SF15)		Homo sapiens
+HUMAN|HGNC=23293|UniProtKB=Q7Z5K2	WAPAL	Wings apart-like protein homolog;WAPL;ortholog	WINGS APART-LIKE PROTEIN HOMOLOG (PTHR22100:SF13)		Homo sapiens
+HUMAN|HGNC=6808|UniProtKB=P43366	MAGEB1	Melanoma-associated antigen B1;MAGEB1;ortholog	MELANOMA-ASSOCIATED ANTIGEN B1 (PTHR11736:SF140)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=18114|UniProtKB=Q5VWX1	KHDRBS2	KH domain-containing, RNA-binding, signal transduction-associated protein 2;KHDRBS2;ortholog	KH DOMAIN-CONTAINING, RNA-BINDING, SIGNAL TRANSDUCTION-ASSOCIATED PROTEIN 2 (PTHR11208:SF34)	mRNA splicing factor(PC00148);transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=7515|UniProtKB=P98088	MUC5AC	Mucin-5AC;MUC5AC;ortholog	MUCIN-5AC (PTHR11339:SF371)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=196|UniProtKB=Q9Y3Q7	ADAM18	Disintegrin and metalloproteinase domain-containing protein 18;ADAM18;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 18 (PTHR11905:SF158)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=6644|UniProtKB=P61968	LMO4	LIM domain transcription factor LMO4;LMO4;ortholog	LIM DOMAIN TRANSCRIPTION FACTOR LMO4 (PTHR45787:SF5)		Homo sapiens
+HUMAN|HGNC=7449|UniProtKB=Q13613	MTMR1	Myotubularin-related protein 1;MTMR1;ortholog	MYOTUBULARIN-RELATED PROTEIN 1 (PTHR10807:SF40)	phosphatase(PC00181)	Homo sapiens
+HUMAN|HGNC=9690|UniProtKB=O95997	PTTG1	Securin;PTTG1;ortholog	SECURIN (PTHR10418:SF7)		Homo sapiens
+HUMAN|HGNC=188|UniProtKB=O14672	ADAM10	Disintegrin and metalloproteinase domain-containing protein 10;ADAM10;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 10 (PTHR45702:SF4)		Homo sapiens
+HUMAN|HGNC=4251|UniProtKB=P36268	GGT2	Inactive glutathione hydrolase 2;GGT2;ortholog	GLUTATHIONE HYDROLASE 1 PROENZYME-RELATED (PTHR11686:SF56)	acyltransferase(PC00042);protease(PC00190)	Homo sapiens
+HUMAN|HGNC=1590|UniProtKB=O96020	CCNE2	G1/S-specific cyclin-E2;CCNE2;ortholog	G1/S-SPECIFIC CYCLIN-E2 (PTHR10177:SF70)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=7326|UniProtKB=P20585	MSH3	DNA mismatch repair protein Msh3;MSH3;ortholog	DNA MISMATCH REPAIR PROTEIN MSH3 (PTHR11361:SF122)	DNA binding protein(PC00009)	Homo sapiens
+HUMAN|HGNC=7452|UniProtKB=Q9NYA4	MTMR4	Myotubularin-related protein 4;MTMR4;ortholog	MYOTUBULARIN-RELATED PROTEIN 4 (PTHR10807:SF64)	phosphatase(PC00181)	Homo sapiens
+HUMAN|HGNC=6810|UniProtKB=O15480	MAGEB3	Melanoma-associated antigen B3;MAGEB3;ortholog	MELANOMA-ASSOCIATED ANTIGEN B3 (PTHR11736:SF53)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=16691|UniProtKB=Q9UGJ1	TUBGCP4	Gamma-tubulin complex component 4;TUBGCP4;ortholog	GAMMA-TUBULIN COMPLEX COMPONENT 4 (PTHR19302:SF27)	non-motor microtubule binding protein(PC00166)	Homo sapiens
+HUMAN|HGNC=21764|UniProtKB=Q6ZN68	DPY19L2P2	Putative C-mannosyltransferase DPY19L2P2;DPY19L2P2;ortholog	C-MANNOSYLTRANSFERASE DPY19L2-RELATED (PTHR31488:SF6)		Homo sapiens
+HUMAN|HGNC=3795|UniProtKB=P41439	FOLR3	Folate receptor gamma;FOLR3;ortholog	FOLATE RECEPTOR GAMMA (PTHR10517:SF17)		Homo sapiens
+HUMAN|HGNC=1148|UniProtKB=O43683	BUB1	Mitotic checkpoint serine/threonine-protein kinase BUB1;BUB1;ortholog	MITOTIC CHECKPOINT SERINE/THREONINE-PROTEIN KINASE BUB1 (PTHR14030:SF8)		Homo sapiens
+HUMAN|HGNC=1726|UniProtKB=P30305	CDC25B	M-phase inducer phosphatase 2;CDC25B;ortholog	M-PHASE INDUCER PHOSPHATASE 2 (PTHR10828:SF48)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=215|UniProtKB=P78325	ADAM8	Disintegrin and metalloproteinase domain-containing protein 8;ADAM8;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 8 (PTHR11905:SF20)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=4839|UniProtKB=P51610	HCFC1	Host cell factor 1;HCFC1;ortholog	HOST CELL FACTOR 1 (PTHR46003:SF3)		Homo sapiens
+HUMAN|HGNC=3433|UniProtKB=P07992	ERCC1	DNA excision repair protein ERCC-1;ERCC1;ortholog	DNA EXCISION REPAIR PROTEIN ERCC-1 (PTHR12749:SF0)	endodeoxyribonuclease(PC00093)	Homo sapiens
+HUMAN|HGNC=216|UniProtKB=Q13443	ADAM9	Disintegrin and metalloproteinase domain-containing protein 9;ADAM9;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 9 (PTHR11905:SF136)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=7199|UniProtKB=P00540	MOS	Proto-oncogene serine/threonine-protein kinase mos;MOS;ortholog	PROTO-ONCOGENE SERINE/THREONINE-PROTEIN KINASE MOS (PTHR23257:SF706)		Homo sapiens

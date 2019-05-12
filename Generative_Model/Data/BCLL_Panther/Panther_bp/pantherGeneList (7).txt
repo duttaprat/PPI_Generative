@@ -1,0 +1,1 @@
+HUMAN|HGNC=2442|UniProtKB=Q14406	CSHL1	Chorionic somatomammotropin hormone-like 1;CSHL1;ortholog	CHORIONIC SOMATOMAMMOTROPIN HORMONE 1-RELATED (PTHR11417:SF67)	growth factor(PC00112);peptide hormone(PC00179)	Homo sapiens

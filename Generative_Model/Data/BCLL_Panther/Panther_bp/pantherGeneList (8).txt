@@ -1,0 +1,134 @@
+HUMAN|HGNC=3657|UniProtKB=P07332	FES	Tyrosine-protein kinase Fes/Fps;FES;ortholog	TYROSINE-PROTEIN KINASE FES/FPS (PTHR24418:SF197)		Homo sapiens
+HUMAN|HGNC=5429|UniProtKB=P32881	IFNA8	Interferon alpha-8;IFNA8;ortholog	INTERFERON ALPHA-8 (PTHR11691:SF28)		Homo sapiens
+HUMAN|HGNC=5877|UniProtKB=P01703	IGLV1-40	Immunoglobulin lambda variable 1-40;IGLV1-40;ortholog	IMMUNOGLOBULIN LAMBDA VARIABLE 1-40 (PTHR23267:SF341)	immunoglobulin(PC00123)	Homo sapiens
+HUMAN|HGNC=5427|UniProtKB=P05013	IFNA6	Interferon alpha-6;IFNA6;ortholog	INTERFERON ALPHA-6 (PTHR11691:SF27)		Homo sapiens
+HUMAN|HGNC=16711|UniProtKB=Q9Y2C9	TLR6	Toll-like receptor 6;TLR6;ortholog	TOLL-LIKE RECEPTOR 6 (PTHR24365:SF422)		Homo sapiens
+HUMAN|HGNC=905|UniProtKB=P30530	AXL	Tyrosine-protein kinase receptor UFO;AXL;ortholog	TYROSINE-PROTEIN KINASE RECEPTOR UFO (PTHR24416:SF323)		Homo sapiens
+HUMAN|HGNC=6641|UniProtKB=P25800	LMO1	Rhombotin-1;LMO1;ortholog	RHOMBOTIN-1 (PTHR45787:SF2)		Homo sapiens
+HUMAN|HGNC=12434|UniProtKB=P42681	TXK	Tyrosine-protein kinase TXK;TXK;ortholog	TYROSINE-PROTEIN KINASE TXK (PTHR24418:SF247)		Homo sapiens
+HUMAN|HGNC=1603|UniProtKB=P41597	CCR2	C-C chemokine receptor type 2;CCR2;ortholog	C-C CHEMOKINE RECEPTOR TYPE 2 (PTHR10489:SF913)		Homo sapiens
+HUMAN|HGNC=1678|UniProtKB=P01730	CD4	T-cell surface glycoprotein CD4;CD4;ortholog	T-CELL SURFACE GLYCOPROTEIN CD4 (PTHR11422:SF0)		Homo sapiens
+HUMAN|HGNC=2558|UniProtKB=P49238	CX3CR1	CX3C chemokine receptor 1;CX3CR1;ortholog	CX3C CHEMOKINE RECEPTOR 1 (PTHR10489:SF637)		Homo sapiens
+HUMAN|HGNC=5261|UniProtKB=P10809	HSPD1	60 kDa heat shock protein, mitochondrial;HSPD1;ortholog	60 KDA HEAT SHOCK PROTEIN, MITOCHONDRIAL (PTHR45633:SF17)		Homo sapiens
+HUMAN|HGNC=10720|UniProtKB=P14151	SELL	L-selectin;SELL;ortholog	L-SELECTIN (PTHR19325:SF496)		Homo sapiens
+HUMAN|HGNC=14576|UniProtKB=O15068	MCF2L	Guanine nucleotide exchange factor DBS;MCF2L;ortholog	GUANINE NUCLEOTIDE EXCHANGE FACTOR DBS (PTHR22826:SF115)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=5649|UniProtKB=P0DP07	IGHV4-31	Immunoglobulin heavy variable 4-31;IGHV4-31;ortholog	IMMUNOGLOBULIN HEAVY VARIABLE 4-30-2-RELATED (PTHR23266:SF224)		Homo sapiens
+HUMAN|HGNC=1634|UniProtKB=P06126	CD1A	T-cell surface glycoprotein CD1a;CD1A;ortholog	T-CELL SURFACE GLYCOPROTEIN CD1A (PTHR16675:SF160)		Homo sapiens
+HUMAN|HGNC=5527|UniProtKB=P01860	HDC	Immunoglobulin heavy constant gamma 3;IGHG3;ortholog	IMMUNOGLOBULIN HEAVY CONSTANT GAMMA 1-RELATED (PTHR23266:SF83)		Homo sapiens
+HUMAN|HGNC=11925|UniProtKB=P50591	TNFSF10	Tumor necrosis factor ligand superfamily member 10;TNFSF10;ortholog	TUMOR NECROSIS FACTOR LIGAND SUPERFAMILY MEMBER 10 (PTHR11471:SF27)	tumor necrosis factor family member(PC00229)	Homo sapiens
+HUMAN|HGNC=12156|UniProtKB=P01850	TRBC1	T-cell receptor beta-1 chain C region;TRBC1;ortholog	T-CELL RECEPTOR BETA-1 CHAIN C REGION-RELATED (PTHR23266:SF141)		Homo sapiens
+HUMAN|HGNC=3224|UniProtKB=P52798	EFNA4	Ephrin-A4;EFNA4;ortholog	EPHRIN-A4 (PTHR11304:SF42)	membrane-bound signaling molecule(PC00152)	Homo sapiens
+HUMAN|HGNC=1683|UniProtKB=P09326	CD48	CD48 antigen;CD48;ortholog	CD48 ANTIGEN (PTHR12080:SF47)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124);protein kinase(PC00193);signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=6642|UniProtKB=P25791	LMO2	Rhombotin-2;LMO2;ortholog	RHOMBOTIN-2 (PTHR45787:SF3)		Homo sapiens
+HUMAN|HGNC=7091|UniProtKB=Q29980	MICB	MHC class I polypeptide-related sequence B;MICB;ortholog	MHC CLASS I POLYPEPTIDE-RELATED SEQUENCE A-RELATED (PTHR16675:SF154)		Homo sapiens
+HUMAN|HGNC=4963|UniProtKB=P30511	HLA-F	HLA class I histocompatibility antigen, alpha chain F;HLA-F;ortholog	HLA CLASS I HISTOCOMPATIBILITY ANTIGEN, ALPHA CHAIN F (PTHR16675:SF187)		Homo sapiens
+HUMAN|HGNC=11366|UniProtKB=P42229	STAT5A	Signal transducer and activator of transcription 5A;STAT5A;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 5A (PTHR11801:SF47)	nucleic acid binding(PC00171);transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=5479|UniProtKB=P01877	IGHA2	Immunoglobulin heavy constant alpha 2;IGHA2;ortholog	IMMUNOGLOBULIN HEAVY CONSTANT ALPHA 2 (PTHR23266:SF308)		Homo sapiens
+HUMAN|HGNC=14458|UniProtKB=Q9UQC2	GAB2	GRB2-associated-binding protein 2;GAB2;ortholog	GRB2-ASSOCIATED-BINDING PROTEIN 2 (PTHR45960:SF1)	transmembrane receptor regulatory/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=1638|UniProtKB=P15812	CD1E	T-cell surface glycoprotein CD1e, membrane-associated;CD1E;ortholog	T-CELL SURFACE GLYCOPROTEIN CD1E, MEMBRANE-ASSOCIATED (PTHR16675:SF146)		Homo sapiens
+HUMAN|HGNC=1565|UniProtKB=O00590	ACKR2	Atypical chemokine receptor 2;ACKR2;ortholog	ATYPICAL CHEMOKINE RECEPTOR 2 (PTHR10489:SF735)		Homo sapiens
+HUMAN|HGNC=1605|UniProtKB=P51679	CCR4	C-C chemokine receptor type 4;CCR4;ortholog	C-C CHEMOKINE RECEPTOR TYPE 4 (PTHR10489:SF608)		Homo sapiens
+HUMAN|HGNC=4933|UniProtKB=Q95604	HLA-C	HLA class I histocompatibility antigen, Cw-17 alpha chain;HLA-C;ortholog	HLA CLASS I HISTOCOMPATIBILITY ANTIGEN, CW-17 ALPHA CHAIN (PTHR16675:SF252)		Homo sapiens
+HUMAN|HGNC=23692|UniProtKB=P25106	ACKR3	Atypical chemokine receptor 3;ACKR3;ortholog	ATYPICAL CHEMOKINE RECEPTOR 3 (PTHR10489:SF931)		Homo sapiens
+HUMAN|HGNC=8804|UniProtKB=P09619	PDGFRB	Platelet-derived growth factor receptor beta;PDGFRB;ortholog	PLATELET-DERIVED GROWTH FACTOR RECEPTOR BETA (PTHR24416:SF53)		Homo sapiens
+HUMAN|HGNC=3828|UniProtKB=P25089	FPR3	N-formyl peptide receptor 3;FPR3;ortholog	N-FORMYL PEPTIDE RECEPTOR 3 (PTHR24225:SF16)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=2121|UniProtKB=Q99788	CMKLR1	Chemokine-like receptor 1;CMKLR1;ortholog	CHEMOKINE-LIKE RECEPTOR 1 (PTHR24225:SF49)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=11939|UniProtKB=P41273	TNFSF9	Tumor necrosis factor ligand superfamily member 9;TNFSF9;ortholog	TUMOR NECROSIS FACTOR LIGAND SUPERFAMILY MEMBER 9 (PTHR15153:SF0)		Homo sapiens
+HUMAN|HGNC=2389|UniProtKB=P02511	CRYAB	Alpha-crystallin B chain;CRYAB;ortholog	ALPHA-CRYSTALLIN B CHAIN (PTHR45640:SF5)		Homo sapiens
+HUMAN|HGNC=1140|UniProtKB=O00478	BTF3	Butyrophilin subfamily 3 member A3;BTN3A3;ortholog	BUTYROPHILIN SUBFAMILY 3 MEMBER A3 (PTHR24100:SF56)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=11847|UniProtKB=Q15399	TLR1	Toll-like receptor 1;TLR1;ortholog	TOLL-LIKE RECEPTOR 1 (PTHR24365:SF261)		Homo sapiens
+HUMAN|HGNC=14219|UniProtKB=Q96PK6	RBM14	RNA-binding protein 14;RBM14;ortholog	RNA-BINDING PROTEIN 14 (PTHR23147:SF53)	mRNA splicing factor(PC00148)	Homo sapiens
+HUMAN|HGNC=12303|UniProtKB=O75962	TRIO	Triple functional domain protein;TRIO;ortholog	TRIPLE FUNCTIONAL DOMAIN PROTEIN (PTHR22826:SF104)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=3827|UniProtKB=P25090	FPR2	N-formyl peptide receptor 2;FPR2;ortholog	N-FORMYL PEPTIDE RECEPTOR 2 (PTHR24225:SF0)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=4183|UniProtKB=P32456	GBP2	Guanylate-binding protein 2;GBP2;ortholog	GUANYLATE-BINDING PROTEIN 2 (PTHR10751:SF86)	heterotrimeric G-protein(PC00117)	Homo sapiens
+HUMAN|HGNC=1612|UniProtKB=O00421	CCR6	C-C chemokine receptor-like 2;CCRL2;ortholog	C-C CHEMOKINE RECEPTOR-LIKE 2 (PTHR10489:SF655)		Homo sapiens
+HUMAN|HGNC=11364|UniProtKB=P40763	STAT3	Signal transducer and activator of transcription 3;STAT3;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 3 (PTHR11801:SF2)	nucleic acid binding(PC00171);transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=6709|UniProtKB=P01374	LTA	Lymphotoxin-alpha;LTA;ortholog	LYMPHOTOXIN-ALPHA (PTHR11471:SF31)	tumor necrosis factor family member(PC00229)	Homo sapiens
+HUMAN|HGNC=2469|UniProtKB=P21291	CSRP1	Cysteine and glycine-rich protein 1;CSRP1;ortholog	CYSTEINE AND GLYCINE-RICH PROTEIN 1 (PTHR24215:SF23)	actin family cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=9153|UniProtKB=Q8N490	MR1	Probable hydrolase PNKD;PNKD;ortholog	HYDROLASE PNKD-RELATED (PTHR11935:SF116)		Homo sapiens
+HUMAN|HGNC=17381|UniProtKB=O14492	SH2B2	SH2B adapter protein 2;SH2B2;ortholog	SH2B ADAPTER PROTEIN 2 (PTHR10872:SF4)		Homo sapiens
+HUMAN|HGNC=18795|UniProtKB=O15205	UBD	Ubiquitin D;UBD;ortholog	UBIQUITIN D (PTHR47731:SF1)		Homo sapiens
+HUMAN|HGNC=17357|UniProtKB=Q9HC16	APOBEC3G	DNA dC-dU-editing enzyme APOBEC-3G;APOBEC3G;ortholog	DNA DC-DU-EDITING ENZYME APOBEC-3G (PTHR13857:SF20)	deaminase(PC00088);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=5927|UniProtKB=P01721	IGLV6-57	Immunoglobulin lambda variable 6-57;IGLV6-57;ortholog	IMMUNOGLOBULIN LAMBDA VARIABLE 6-57 (PTHR23267:SF108)	immunoglobulin(PC00123)	Homo sapiens
+HUMAN|HGNC=4931|UniProtKB=P01891	HLA-A	HLA class I histocompatibility antigen, A-68 alpha chain;HLA-A;ortholog	HLA CLASS I HISTOCOMPATIBILITY ANTIGEN, A-68 ALPHA CHAIN (PTHR16675:SF229)		Homo sapiens
+HUMAN|HGNC=533|UniProtKB=P04083	ANXA1	Annexin A1;ANXA1;ortholog	ANNEXIN A1 (PTHR10502:SF17)		Homo sapiens
+HUMAN|HGNC=13469|UniProtKB=O75509	TNFRSF21	Tumor necrosis factor receptor superfamily member 21;TNFRSF21;ortholog	TUMOR NECROSIS FACTOR RECEPTOR SUPERFAMILY MEMBER 21 (PTHR46921:SF1)		Homo sapiens
+HUMAN|HGNC=8086|UniProtKB=P00973	OAS1	2'-5'-oligoadenylate synthase 1;OAS1;ortholog	2'-5'-OLIGOADENYLATE SYNTHASE 1 (PTHR11258:SF13)	defense/immunity protein(PC00090);nucleic acid binding(PC00171);nucleotidyltransferase(PC00174)	Homo sapiens
+HUMAN|HGNC=8090|UniProtKB=Q15646	OASL	2'-5'-oligoadenylate synthase-like protein;OASL;ortholog	2'-5'-OLIGOADENYLATE SYNTHASE-LIKE PROTEIN (PTHR11258:SF16)	defense/immunity protein(PC00090);nucleic acid binding(PC00171);nucleotidyltransferase(PC00174)	Homo sapiens
+HUMAN|HGNC=12388|UniProtKB=Q16762	TST	Thiosulfate sulfurtransferase;TST;ortholog	THIOSULFATE SULFURTRANSFERASE (PTHR11364:SF6)	transfer/carrier protein(PC00219);transferase(PC00220)	Homo sapiens
+HUMAN|HGNC=5958|UniProtKB=Q13123	IK	Protein Red;IK;ortholog	PROTEIN RED (PTHR12765:SF7)	cytokine(PC00083)	Homo sapiens
+HUMAN|HGNC=9662|UniProtKB=P78324	SIRPA	Tyrosine-protein phosphatase non-receptor type substrate 1;SIRPA;ortholog	TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE SUBSTRATE 1 (PTHR19971:SF13)	chemokine(PC00074)	Homo sapiens
+HUMAN|HGNC=11892|UniProtKB=P01375	TNF	Tumor necrosis factor;TNF;ortholog	TUMOR NECROSIS FACTOR (PTHR11471:SF23)	tumor necrosis factor family member(PC00229)	Homo sapiens
+HUMAN|HGNC=6940|UniProtKB=P10911	MCF2	Proto-oncogene DBL;MCF2;ortholog	PROTO-ONCOGENE DBL (PTHR22826:SF146)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=1835|UniProtKB=P49716	CEBPD	CCAAT/enhancer-binding protein delta;CEBPD;ortholog	CCAAT/ENHANCER-BINDING PROTEIN DELTA (PTHR23334:SF3)	basic leucine zipper transcription factor(PC00056);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=12657|UniProtKB=P15498	VAV1	Proto-oncogene vav;VAV1;ortholog	PROTO-ONCOGENE VAV (PTHR45818:SF2)		Homo sapiens
+HUMAN|HGNC=5541|UniProtKB=P01871	IGHM	Immunoglobulin heavy constant mu;IGHM;ortholog	IMMUNOGLOBULIN HEAVY CONSTANT MU (PTHR23266:SF120)		Homo sapiens
+HUMAN|HGNC=1138|UniProtKB=O00481	BTN3A1	Butyrophilin subfamily 3 member A1;BTN3A1;ortholog	BUTYROPHILIN SUBFAMILY 3 MEMBER A1 (PTHR24100:SF70)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=11362|UniProtKB=P42224	STAT1	Signal transducer and activator of transcription 1-alpha/beta;STAT1;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 1-ALPHA/BETA (PTHR11801:SF18)	nucleic acid binding(PC00171);transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=5716|UniProtKB=P01834	IGKC	Immunoglobulin kappa constant;IGKC;ortholog	IMMUNOGLOBULIN KAPPA CONSTANT (PTHR23266:SF79)		Homo sapiens
+HUMAN|HGNC=4814|UniProtKB=O60229	KALRN	Kalirin;KALRN;ortholog	KALIRIN (PTHR22826:SF49)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2561|UniProtKB=P61073	CXCR4	C-X-C chemokine receptor type 4;CXCR4;ortholog	C-X-C CHEMOKINE RECEPTOR TYPE 4 (PTHR10489:SF594)		Homo sapiens
+HUMAN|HGNC=1135|UniProtKB=Q13410	BTN1A1	Butyrophilin subfamily 1 member A1;BTN1A1;ortholog	BUTYROPHILIN SUBFAMILY 1 MEMBER A1 (PTHR24100:SF103)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=6883|UniProtKB=Q13387	MAPK8IP2	C-Jun-amino-terminal kinase-interacting protein 2;MAPK8IP2;ortholog	C-JUN-AMINO-TERMINAL KINASE-INTERACTING PROTEIN 2 (PTHR11232:SF41)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=1699|UniProtKB=P40259	CD79B	B-cell antigen receptor complex-associated protein beta chain;CD79B;ortholog	B-CELL ANTIGEN RECEPTOR COMPLEX-ASSOCIATED PROTEIN BETA CHAIN (PTHR14334:SF2)	immunoglobulin receptor superfamily(PC00124)	Homo sapiens
+HUMAN|HGNC=17087|UniProtKB=O75144	ICOSLG	ICOS ligand;ICOSLG;ortholog	ICOS LIGAND (PTHR24100:SF55)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=5417|UniProtKB=P01562	IFNA1	Interferon alpha-1/13;IFNA1;ortholog	INTERFERON ALPHA-1/13 (PTHR11691:SF64)		Homo sapiens
+HUMAN|HGNC=17353|UniProtKB=Q9NRW3	APOBEC3C	DNA dC-dU-editing enzyme APOBEC-3C;APOBEC3C;ortholog	DNA DC-DU-EDITING ENZYME APOBEC-3C (PTHR13857:SF41)	deaminase(PC00088);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=9093|UniProtKB=P55058	PLTP	Phospholipid transfer protein;PLTP;ortholog	PHOSPHOLIPID TRANSFER PROTEIN (PTHR10504:SF16)		Homo sapiens
+HUMAN|HGNC=584|UniProtKB=P02743	APCS	Serum amyloid P-component;APCS;ortholog	SERUM AMYLOID P-COMPONENT (PTHR45869:SF5)		Homo sapiens
+HUMAN|HGNC=6644|UniProtKB=P61968	LMO4	LIM domain transcription factor LMO4;LMO4;ortholog	LIM DOMAIN TRANSCRIPTION FACTOR LMO4 (PTHR45787:SF5)		Homo sapiens
+HUMAN|HGNC=5409|UniProtKB=P09913	IFIT2	Interferon-induced protein with tetratricopeptide repeats 2;IFIT2;ortholog	INTERFERON-INDUCED PROTEIN WITH TETRATRICOPEPTIDE REPEATS 2 (PTHR10271:SF4)		Homo sapiens
+HUMAN|HGNC=3569|UniProtKB=P33121	ACSL1	Long-chain-fatty-acid--CoA ligase 1;ACSL1;ortholog	LONG-CHAIN-FATTY-ACID--COA LIGASE 1 (PTHR43272:SF28)	ligase(PC00142)	Homo sapiens
+HUMAN|HGNC=6882|UniProtKB=Q9UQF2	MAPK8IP1	C-Jun-amino-terminal kinase-interacting protein 1;MAPK8IP1;ortholog	C-JUN-AMINO-TERMINAL KINASE-INTERACTING PROTEIN 1 (PTHR11232:SF44)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=1628|UniProtKB=P08571	CD14	Monocyte differentiation antigen CD14;CD14;ortholog	MONOCYTE DIFFERENTIATION ANTIGEN CD14 (PTHR10630:SF3)		Homo sapiens
+HUMAN|HGNC=6171|UniProtKB=Q08881	ITK	Tyrosine-protein kinase ITK/TSK;ITK;ortholog	TYROSINE-PROTEIN KINASE ITK/TSK (PTHR24418:SF61)		Homo sapiens
+HUMAN|HGNC=1705|UniProtKB=P42081	CD86	T-lymphocyte activation antigen CD86;CD86;ortholog	T-LYMPHOCYTE ACTIVATION ANTIGEN CD86 (PTHR25466:SF2)		Homo sapiens
+HUMAN|HGNC=10471|UniProtKB=Q01196	RUNX1	Runt-related transcription factor 1;RUNX1;ortholog	RUNT-RELATED TRANSCRIPTION FACTOR 1 (PTHR11950:SF40)	Runt transcription factor(PC00254);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=1639|UniProtKB=P06729	CD2	T-cell surface antigen CD2;CD2;ortholog	T-CELL SURFACE ANTIGEN CD2 (PTHR12080:SF54)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124);membrane-bound signaling molecule(PC00152);protein kinase(PC00193)	Homo sapiens
+HUMAN|HGNC=4251|UniProtKB=P36268	GGT2	Inactive glutathione hydrolase 2;GGT2;ortholog	GLUTATHIONE HYDROLASE 1 PROENZYME-RELATED (PTHR11686:SF56)	acyltransferase(PC00042);protease(PC00190)	Homo sapiens
+HUMAN|HGNC=30685|UniProtKB=P40222	TXLNA	Alpha-taxilin;TXLNA;ortholog	ALPHA-TAXILIN (PTHR16127:SF12)	antibacterial response protein(PC00051)	Homo sapiens
+HUMAN|HGNC=11938|UniProtKB=P32971	TNFSF8	Tumor necrosis factor ligand superfamily member 8;TNFSF8;ortholog	TUMOR NECROSIS FACTOR LIGAND SUPERFAMILY MEMBER 8 (PTHR32163:SF1)		Homo sapiens
+HUMAN|HGNC=8087|UniProtKB=P29728	OAS2	2'-5'-oligoadenylate synthase 2;OAS2;ortholog	2'-5'-OLIGOADENYLATE SYNTHASE 2 (PTHR11258:SF3)	defense/immunity protein(PC00090);nucleic acid binding(PC00171);nucleotidyltransferase(PC00174)	Homo sapiens
+HUMAN|HGNC=30319|UniProtKB=Q86YR7	MCF2L2	Probable guanine nucleotide exchange factor MCF2L2;MCF2L2;ortholog	GUANINE NUCLEOTIDE EXCHANGE FACTOR MCF2L2-RELATED (PTHR22826:SF201)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=5247|UniProtKB=Q16082	HSPB2	Heat shock protein beta-2;HSPB2;ortholog	HEAT SHOCK 27KDA PROTEIN 2, ISOFORM CRA_A-RELATED (PTHR45640:SF22)		Homo sapiens
+HUMAN|HGNC=9240|UniProtKB=P02775	PPBP	Platelet basic protein;PPBP;ortholog	PLATELET BASIC PROTEIN (PTHR10179:SF52)	chemokine(PC00074)	Homo sapiens
+HUMAN|HGNC=6025|UniProtKB=P10145	CXCL8	Interleukin-8;CXCL8;ortholog	INTERLEUKIN-8 (PTHR10179:SF42)	chemokine(PC00074)	Homo sapiens
+HUMAN|HGNC=4604|UniProtKB=P19876	CXCL3	C-X-C motif chemokine 3;CXCL3;ortholog	C-X-C MOTIF CHEMOKINE 3 (PTHR10179:SF82)	chemokine(PC00074)	Homo sapiens
+HUMAN|HGNC=1836|UniProtKB=Q15744	CEBPE	CCAAT/enhancer-binding protein epsilon;CEBPE;ortholog	CCAAT/ENHANCER-BINDING PROTEIN EPSILON (PTHR23334:SF27)	basic leucine zipper transcription factor(PC00056);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=1606|UniProtKB=P51681	CCR5	C-C chemokine receptor type 5;CCR5;ortholog	C-C CHEMOKINE RECEPTOR TYPE 5 (PTHR10489:SF686)		Homo sapiens
+HUMAN|HGNC=1673|UniProtKB=P04234	CD3D	T-cell surface glycoprotein CD3 delta chain;CD3D;ortholog	T-CELL SURFACE GLYCOPROTEIN CD3 DELTA CHAIN (PTHR10570:SF5)		Homo sapiens
+HUMAN|HGNC=1189|UniProtKB=O95433	AHSA1	Activator of 90 kDa heat shock protein ATPase homolog 1;AHSA1;ortholog	ACTIVATOR OF 90 KDA HEAT SHOCK PROTEIN ATPASE HOMOLOG 1 (PTHR13009:SF7)		Homo sapiens
+HUMAN|HGNC=1636|UniProtKB=P29017	CD1C	T-cell surface glycoprotein CD1c;CD1C;ortholog	T-CELL SURFACE GLYCOPROTEIN CD1C (PTHR16675:SF155)		Homo sapiens
+HUMAN|HGNC=11367|UniProtKB=P51692	STAT5B	Signal transducer and activator of transcription 5B;STAT5B;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 5B (PTHR11801:SF39)	nucleic acid binding(PC00171);transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=4182|UniProtKB=P32455	GBP1	Guanylate-binding protein 1;GBP1;ortholog	GUANYLATE-BINDING PROTEIN 1 (PTHR10751:SF96)	heterotrimeric G-protein(PC00117)	Homo sapiens
+HUMAN|HGNC=1139|UniProtKB=P78410	BTN3A2	Butyrophilin subfamily 3 member A2;BTN3A2;ortholog	BUTYROPHILIN SUBFAMILY 3 MEMBER A2 (PTHR24100:SF115)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=5525|UniProtKB=P01857	IGHG1	Immunoglobulin heavy constant gamma 1;IGHG1;ortholog	IMMUNOGLOBULIN HEAVY CONSTANT GAMMA 1-RELATED (PTHR23266:SF83)		Homo sapiens
+HUMAN|HGNC=10472|UniProtKB=Q13950	RUNX2	Runt-related transcription factor 2;RUNX2;ortholog	RUNT-RELATED TRANSCRIPTION FACTOR 2 (PTHR11950:SF7)	Runt transcription factor(PC00254);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=5413|UniProtKB=Q01629	IFITM2	Interferon-induced transmembrane protein 2;IFITM2;ortholog	INTERFERON-INDUCED TRANSMEMBRANE PROTEIN 2 (PTHR13999:SF8)		Homo sapiens
+HUMAN|HGNC=26511|UniProtKB=O14558	HSPB6	Heat shock protein beta-6;HSPB6;ortholog	HEAT SHOCK PROTEIN BETA-6 (PTHR45640:SF2)		Homo sapiens
+HUMAN|HGNC=4172|UniProtKB=P23771	GATA3	Trans-acting T-cell-specific transcription factor GATA-3;GATA3;ortholog	TRANS-ACTING T-CELL-SPECIFIC TRANSCRIPTION FACTOR GATA-3 (PTHR10071:SF106)		Homo sapiens
+HUMAN|HGNC=9605|UniProtKB=P35354	PTGS2	Prostaglandin G/H synthase 2;PTGS2;ortholog	PROSTAGLANDIN G/H SYNTHASE 2 (PTHR11903:SF8)	oxygenase(PC00177)	Homo sapiens
+HUMAN|HGNC=16961|UniProtKB=Q15762	CD226	CD226 antigen;CD226;ortholog	CD226 ANTIGEN (PTHR47011:SF1)		Homo sapiens
+HUMAN|HGNC=6517|UniProtKB=P18428	LBP	Lipopolysaccharide-binding protein;LBP;ortholog	LIPOPOLYSACCHARIDE-BINDING PROTEIN (PTHR10504:SF66)		Homo sapiens
+HUMAN|HGNC=16016|UniProtKB=Q5KU26	CLP1	Collectin-12;COLEC12;ortholog	COLLECTIN-12 (PTHR24023:SF910)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=4066|UniProtKB=Q13480	GAB1	GRB2-associated-binding protein 1;GAB1;ortholog	GRB2-ASSOCIATED-BINDING PROTEIN 1 (PTHR45960:SF5)	transmembrane receptor regulatory/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=4975|UniProtKB=Q95460	MR1	Major histocompatibility complex class I-related gene protein;MR1;ortholog	MAJOR HISTOCOMPATIBILITY COMPLEX CLASS I-RELATED GENE PROTEIN (PTHR16675:SF241)		Homo sapiens
+HUMAN|HGNC=3826|UniProtKB=P21462	FPR1	fMet-Leu-Phe receptor;FPR1;ortholog	FMET-LEU-PHE RECEPTOR (PTHR24225:SF15)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=11912|UniProtKB=Q92956	TNFRSF14	Tumor necrosis factor receptor superfamily member 14;TNFRSF14;ortholog	TUMOR NECROSIS FACTOR RECEPTOR SUPERFAMILY MEMBER 14 (PTHR46838:SF1)		Homo sapiens
+HUMAN|HGNC=8803|UniProtKB=P16234	PDGFRA	Platelet-derived growth factor receptor alpha;PDGFRA;ortholog	PLATELET-DERIVED GROWTH FACTOR RECEPTOR ALPHA (PTHR24416:SF52)		Homo sapiens
+HUMAN|HGNC=1607|UniProtKB=P51684	CCR6	C-C chemokine receptor type 6;CCR6;ortholog	C-C CHEMOKINE RECEPTOR TYPE 6 (PTHR10489:SF611)		Homo sapiens
+HUMAN|HGNC=3612|UniProtKB=P06734	FCER2	Low affinity immunoglobulin epsilon Fc receptor;FCER2;ortholog	LOW AFFINITY IMMUNOGLOBULIN EPSILON FC RECEPTOR (PTHR22802:SF311)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124)	Homo sapiens
+HUMAN|HGNC=1602|UniProtKB=P32246	CCR1	C-C chemokine receptor type 1;CCR1;ortholog	C-C CHEMOKINE RECEPTOR TYPE 1 (PTHR10489:SF711)		Homo sapiens
+HUMAN|HGNC=1637|UniProtKB=P15813	CD1D	Antigen-presenting glycoprotein CD1d;CD1D;ortholog	ANTIGEN-PRESENTING GLYCOPROTEIN CD1D (PTHR16675:SF175)		Homo sapiens
+HUMAN|HGNC=6730|UniProtKB=Q9HBG7	LY9	T-lymphocyte surface antigen Ly-9;LY9;ortholog	T-LYMPHOCYTE SURFACE ANTIGEN LY-9 (PTHR12080:SF44)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124);membrane-bound signaling molecule(PC00152);protein kinase(PC00193)	Homo sapiens
+HUMAN|HGNC=13328|UniProtKB=Q13325	IFIT5	Interferon-induced protein with tetratricopeptide repeats 5;IFIT5;ortholog	INTERFERON-INDUCED PROTEIN WITH TETRATRICOPEPTIDE REPEATS 5 (PTHR10271:SF28)		Homo sapiens
+HUMAN|HGNC=16496|UniProtKB=Q9UKU0	ACSL6	Long-chain-fatty-acid--CoA ligase 6;ACSL6;ortholog	LONG-CHAIN-FATTY-ACID--COA LIGASE 6 (PTHR43272:SF54)	ligase(PC00142)	Homo sapiens
+HUMAN|HGNC=1095|UniProtKB=P17213	BPI	Bactericidal permeability-increasing protein;BPI;ortholog	BACTERICIDAL PERMEABILITY-INCREASING PROTEIN (PTHR10504:SF84)		Homo sapiens
+HUMAN|HGNC=6193|UniProtKB=P52333	JAK3	Tyrosine-protein kinase JAK3;JAK3;ortholog	TYROSINE-PROTEIN KINASE JAK3 (PTHR45807:SF3)		Homo sapiens
+HUMAN|HGNC=8904|UniProtKB=O75594	PGLYRP1	Peptidoglycan recognition protein 1;PGLYRP1;ortholog	PEPTIDOGLYCAN RECOGNITION PROTEIN 1 (PTHR11022:SF58)		Homo sapiens
+HUMAN|HGNC=11719|UniProtKB=P42680	TEC	Tyrosine-protein kinase Tec;TEC;ortholog	TYROSINE-PROTEIN KINASE TEC (PTHR24418:SF219)		Homo sapiens
+HUMAN|HGNC=6027|UniProtKB=P25025	CXCR2	C-X-C chemokine receptor type 2;CXCR2;ortholog	C-X-C CHEMOKINE RECEPTOR TYPE 2 (PTHR10489:SF689)		Homo sapiens
+HUMAN|HGNC=15607|UniProtKB=Q14155	ARHGEF7	Rho guanine nucleotide exchange factor 7;ARHGEF7;ortholog	RHO GUANINE NUCLEOTIDE EXCHANGE FACTOR 7 (PTHR46026:SF3)		Homo sapiens
+HUMAN|HGNC=5426|UniProtKB=P01569	IFNA5	Interferon alpha-5;IFNA5;ortholog	INTERFERON ALPHA-5 (PTHR11691:SF33)		Homo sapiens
+HUMAN|HGNC=4805|UniProtKB=Q16775	HAGH	Hydroxyacylglutathione hydrolase, mitochondrial;HAGH;ortholog	HYDROXYACYLGLUTATHIONE HYDROLASE, MITOCHONDRIAL (PTHR11935:SF80)		Homo sapiens
+HUMAN|HGNC=1819|UniProtKB=Q14002	CEACAM7	Carcinoembryonic antigen-related cell adhesion molecule 7;CEACAM7;ortholog	CARCINOEMBRYONIC ANTIGEN-RELATED CELL ADHESION MOLECULE 7 (PTHR12080:SF58)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124);protein kinase(PC00193);signaling molecule(PC00207)	Homo sapiens

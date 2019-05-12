@@ -1,0 +1,111 @@
+HUMAN|HGNC=15750|UniProtKB=P60981	DSTN	Destrin;DSTN;ortholog	DESTRIN (PTHR11913:SF18)		Homo sapiens
+HUMAN|HGNC=11590|UniProtKB=Q16650	TBR1	T-box brain protein 1;TBR1;ortholog	T-BOX BRAIN PROTEIN 1 (PTHR11267:SF88)	Rel homology transcription factor(PC00252);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=16005|UniProtKB=Q9Y543	HES2	Transcription factor HES-2;HES2;ortholog	TRANSCRIPTION FACTOR HES-2 (PTHR10985:SF15)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=2709|UniProtKB=P40126	DCT	L-dopachrome tautomerase;DCT;ortholog	L-DOPACHROME TAUTOMERASE (PTHR11474:SF4)	oxidase(PC00175);oxygenase(PC00177)	Homo sapiens
+HUMAN|HGNC=6482|UniProtKB=P24043	LAMA2	Laminin subunit alpha-2;LAMA2;ortholog	LAMININ SUBUNIT ALPHA-2 (PTHR10574:SF291)	extracellular matrix linker protein(PC00101);protease inhibitor(PC00191);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=3802|UniProtKB=Q16676	FOXD1	Forkhead box protein D1;FOXD1;ortholog	FORKHEAD BOX PROTEIN D1 (PTHR11829:SF348)	DNA binding protein(PC00009);winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=10548|UniProtKB=P54253	ATXN1	Ataxin-1;ATXN1;ortholog	ATAXIN-1 (PTHR13392:SF5)		Homo sapiens
+HUMAN|HGNC=201|UniProtKB=Q9P0K1	ADAM22	Disintegrin and metalloproteinase domain-containing protein 22;ADAM22;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 22 (PTHR11905:SF14)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=7614|UniProtKB=P54296	MYOM2	Myomesin-2;MYOM2;ortholog	MYOMESIN-2 (PTHR13817:SF22)		Homo sapiens
+HUMAN|HGNC=11592|UniProtKB=O43435	TBX1	T-box transcription factor TBX1;TBX1;ortholog	T-BOX TRANSCRIPTION FACTOR TBX1 (PTHR11267:SF104)	Rel homology transcription factor(PC00252);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=7373|UniProtKB=P26038	MSN	Moesin;MSN;ortholog	MOESIN (PTHR23281:SF26)	actin family cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=2191|UniProtKB=Q05707	COL14A1	Collagen alpha-1(XIV) chain;COL14A1;ortholog	COLLAGEN ALPHA-1(XIV) CHAIN (PTHR24020:SF15)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=10728|UniProtKB=Q13275	SEMA3F	Semaphorin-3F;SEMA3F;ortholog	SEMAPHORIN-3F (PTHR11036:SF27)	membrane-bound signaling molecule(PC00152)	Homo sapiens
+HUMAN|HGNC=3522|UniProtKB=O95677	EYA4	Eyes absent homolog 4;EYA4;ortholog	EYES ABSENT HOMOLOG 4 (PTHR10190:SF17)		Homo sapiens
+HUMAN|HGNC=31104|UniProtKB=Q92614	MYO18A	Unconventional myosin-XVIIIa;MYO18A;ortholog	UNCONVENTIONAL MYOSIN-XVIIIA (PTHR45615:SF13)		Homo sapiens
+HUMAN|HGNC=5022|UniProtKB=Q9Y261	FOXA2	Hepatocyte nuclear factor 3-beta;FOXA2;ortholog	HEPATOCYTE NUCLEAR FACTOR 3-BETA (PTHR11829:SF167)	DNA binding protein(PC00009);winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=206|UniProtKB=Q9UKQ2	ADAM23	Disintegrin and metalloproteinase domain-containing protein 28;ADAM28;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 28 (PTHR11905:SF32)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=2196|UniProtKB=Q14993	COL19A1	Collagen alpha-1(XIX) chain;COL19A1;ortholog	COLLAGEN ALPHA-1(XIX) CHAIN (PTHR24023:SF938)		Homo sapiens
+HUMAN|HGNC=11366|UniProtKB=P42229	STAT5A	Signal transducer and activator of transcription 5A;STAT5A;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 5A (PTHR11801:SF47)	nucleic acid binding(PC00171);transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=10727|UniProtKB=O15041	SEMA3E	Semaphorin-3E;SEMA3E;ortholog	SEMAPHORIN-3E (PTHR11036:SF22)	membrane-bound signaling molecule(PC00152)	Homo sapiens
+HUMAN|HGNC=14458|UniProtKB=Q9UQC2	GAB2	GRB2-associated-binding protein 2;GAB2;ortholog	GRB2-ASSOCIATED-BINDING PROTEIN 2 (PTHR45960:SF1)	transmembrane receptor regulatory/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=14581|UniProtKB=Q9BXM7	PINK1	Serine/threonine-protein kinase PINK1, mitochondrial;PINK1;ortholog	SERINE/THREONINE-PROTEIN KINASE PINK1, MITOCHONDRIAL (PTHR22972:SF7)	serine/threonine protein kinase receptor(PC00205)	Homo sapiens
+HUMAN|HGNC=1046|UniProtKB=O14503	STRA13	Class E basic helix-loop-helix protein 40;BHLHE40;ortholog	CLASS E BASIC HELIX-LOOP-HELIX PROTEIN 40 (PTHR10985:SF3)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=9005|UniProtKB=Q99697	PITX2	Pituitary homeobox 2;PITX2;ortholog	PITUITARY HOMEOBOX 2 (PTHR45882:SF4)		Homo sapiens
+HUMAN|HGNC=202|UniProtKB=O75077	ADAM23	Disintegrin and metalloproteinase domain-containing protein 23;ADAM23;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 23 (PTHR11905:SF13)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=7611|UniProtKB=P15172	MYOD1	Myoblast determination protein 1;MYOD1;ortholog	MYOBLAST DETERMINATION PROTEIN 1 (PTHR11534:SF2)	basic helix-loop-helix transcription factor(PC00055);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=10807|UniProtKB=Q92629	SGCD	Delta-sarcoglycan;SGCD;ortholog	DELTA-SARCOGLYCAN (PTHR12939:SF6)	cytoskeletal protein(PC00085)	Homo sapiens
+HUMAN|HGNC=544|UniProtKB=P08133	ANXA6	Annexin A6;ANXA6;ortholog	ANNEXIN A6 (PTHR10502:SF19)		Homo sapiens
+HUMAN|HGNC=6647|UniProtKB=P29536	LMOD1	Leiomodin-1;LMOD1;ortholog	LEIOMODIN-1 (PTHR10901:SF5)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=16701|UniProtKB=P19105	MYL12A	Myosin regulatory light chain 12A;MYL12A;ortholog	MYOSIN REGULATORY LIGHT CHAIN 12A (PTHR23049:SF57)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=437|UniProtKB=P09923	ALPI	Intestinal-type alkaline phosphatase;ALPI;ortholog	INTESTINAL-TYPE ALKALINE PHOSPHATASE (PTHR11596:SF30)	phosphatase(PC00181)	Homo sapiens
+HUMAN|HGNC=6922|UniProtKB=P11226	MBL2	Mannose-binding protein C;MBL2;ortholog	MANNOSE-BINDING PROTEIN C-RELATED (PTHR24020:SF21)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=7720|UniProtKB=P20929	NEB	Nebulin;NEB;ortholog	NEBULIN (PTHR11039:SF37)		Homo sapiens
+HUMAN|HGNC=11204|UniProtKB=P48436	SOX9	Transcription factor SOX-9;SOX9;ortholog	TRANSCRIPTION FACTOR SOX-9 (PTHR45803:SF1)		Homo sapiens
+HUMAN|HGNC=6780|UniProtKB=Q9ULX9	MAFF	Transcription factor MafF;MAFF;ortholog	TRANSCRIPTION FACTOR MAFF (PTHR10129:SF25)	basic leucine zipper transcription factor(PC00056);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=11948|UniProtKB=P13805	TNNT1	Troponin T, slow skeletal muscle;TNNT1;ortholog	TROPONIN T, SLOW SKELETAL MUSCLE (PTHR11521:SF6)	actin binding motor protein(PC00040)	Homo sapiens
+HUMAN|HGNC=10461|UniProtKB=P30622	CLIP1	CAP-Gly domain-containing linker protein 1;CLIP1;ortholog	CAP-GLY DOMAIN-CONTAINING LINKER PROTEIN 1 (PTHR18916:SF44)	chaperone(PC00072);non-motor microtubule binding protein(PC00166)	Homo sapiens
+HUMAN|HGNC=6091|UniProtKB=P06213	INSR	Insulin receptor;INSR;ortholog	INSULIN RECEPTOR (PTHR24416:SF535)		Homo sapiens
+HUMAN|HGNC=11796|UniProtKB=P10827	THRA	Thyroid hormone receptor alpha;THRA;ortholog	THYROID HORMONE RECEPTOR ALPHA (PTHR24082:SF42)	C4 zinc finger nuclear receptor(PC00169);nucleic acid binding(PC00171);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11364|UniProtKB=P40763	STAT3	Signal transducer and activator of transcription 3;STAT3;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 3 (PTHR11801:SF2)	nucleic acid binding(PC00171);transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=3234|UniProtKB=Q9H1U4	MEGF9	Multiple epidermal growth factor-like domains protein 9;MEGF9;ortholog	MULTIPLE EPIDERMAL GROWTH FACTOR-LIKE DOMAINS PROTEIN 9 (PTHR10574:SF298)	extracellular matrix linker protein(PC00101);protease inhibitor(PC00191);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=145|UniProtKB=P63267	ACTG2	Actin, gamma-enteric smooth muscle;ACTG2;ortholog	ACTIN, GAMMA-ENTERIC SMOOTH MUSCLE (PTHR11937:SF227)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=10725|UniProtKB=Q99985	SEMA3C	Semaphorin-3C;SEMA3C;ortholog	SEMAPHORIN-3C (PTHR11036:SF25)	membrane-bound signaling molecule(PC00152)	Homo sapiens
+HUMAN|HGNC=7392|UniProtKB=P35548	MSX2	Homeobox protein MSX-2;MSX2;ortholog	HOMEOBOX PROTEIN MSX-2 (PTHR24338:SF10)	DNA binding protein(PC00009);homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=3682|UniProtKB=P08620	FGF4	Fibroblast growth factor 4;FGF4;ortholog	FIBROBLAST GROWTH FACTOR 4 (PTHR11486:SF31)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=4265|UniProtKB=P01286	GHRH	Somatoliberin;GHRH;ortholog	SOMATOLIBERIN (PTHR11213:SF6)	neuropeptide(PC00162)	Homo sapiens
+HUMAN|HGNC=21719|UniProtKB=Q01449	MYL7	Myosin regulatory light chain 2, atrial isoform;MYL7;ortholog	MYOSIN REGULATORY LIGHT CHAIN 2, ATRIAL ISOFORM (PTHR23049:SF39)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=533|UniProtKB=P04083	ANXA1	Annexin A1;ANXA1;ortholog	ANNEXIN A1 (PTHR10502:SF17)		Homo sapiens
+HUMAN|HGNC=13735|UniProtKB=P49795	RGS19	Regulator of G-protein signaling 19;RGS19;ortholog	REGULATOR OF G-PROTEIN SIGNALING 19 (PTHR10845:SF145)	G-protein modulator(PC00022)	Homo sapiens
+HUMAN|HGNC=29151|UniProtKB=Q9Y2E6	DTX4	E3 ubiquitin-protein ligase DTX4;DTX4;ortholog	E3 UBIQUITIN-PROTEIN LIGASE DTX4 (PTHR12622:SF5)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=7586|UniProtKB=Q02045	MYL5	Myosin light chain 5;MYL5;ortholog	MYOSIN LIGHT CHAIN 5 (PTHR23049:SF8)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=16932|UniProtKB=O76041	NEBL	Nebulette;NEBL;ortholog	NEBULETTE (PTHR11039:SF48)		Homo sapiens
+HUMAN|HGNC=10887|UniProtKB=Q15475	SIX1	Homeobox protein SIX1;SIX1;ortholog	HOMEOBOX PROTEIN SIX1 (PTHR10390:SF13)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=9866|UniProtKB=P13631	RARG	Retinoic acid receptor gamma;RARG;ortholog	RETINOIC ACID RECEPTOR GAMMA (PTHR24082:SF116)	C4 zinc finger nuclear receptor(PC00169);nucleic acid binding(PC00171);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=15973|UniProtKB=Q86UW9	DTX2	Probable E3 ubiquitin-protein ligase DTX2;DTX2;ortholog	E3 UBIQUITIN-PROTEIN LIGASE DTX2-RELATED (PTHR12622:SF21)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=8724|UniProtKB=P35558	PCK1	Phosphoenolpyruvate carboxykinase, cytosolic [GTP];PCK1;ortholog	PHOSPHOENOLPYRUVATE CARBOXYKINASE, CYTOSOLIC [GTP] (PTHR11561:SF1)	decarboxylase(PC00089)	Homo sapiens
+HUMAN|HGNC=20956|UniProtKB=O75167	PHACTR2	Phosphatase and actin regulator 2;PHACTR2;ortholog	PHOSPHATASE AND ACTIN REGULATOR 2 (PTHR12751:SF5)	phosphatase modulator(PC00184)	Homo sapiens
+HUMAN|HGNC=400|UniProtKB=Q13740	ALCAM	CD166 antigen;ALCAM;ortholog	CD166 ANTIGEN (PTHR11973:SF2)	immunoglobulin superfamily cell adhesion molecule(PC00125);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=1835|UniProtKB=P49716	CEBPD	CCAAT/enhancer-binding protein delta;CEBPD;ortholog	CCAAT/ENHANCER-BINDING PROTEIN DELTA (PTHR23334:SF3)	basic leucine zipper transcription factor(PC00056);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=10741|UniProtKB=O75326	SEMA7A	Semaphorin-7A;SEMA7A;ortholog	SEMAPHORIN-7A (PTHR11036:SF80)	membrane-bound signaling molecule(PC00152)	Homo sapiens
+HUMAN|HGNC=11362|UniProtKB=P42224	STAT1	Signal transducer and activator of transcription 1-alpha/beta;STAT1;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 1-ALPHA/BETA (PTHR11801:SF18)	nucleic acid binding(PC00171);transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=3676|UniProtKB=P09038	FGF2	Fibroblast growth factor 2;FGF2;ortholog	FIBROBLAST GROWTH FACTOR 2 (PTHR11486:SF83)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=2212|UniProtKB=P12110	COL6A2	Collagen alpha-2(VI) chain;COL6A2;ortholog	COLLAGEN ALPHA-2(VI) CHAIN (PTHR24020:SF29)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=956|UniProtKB=Q9UMQ3	BARX2	Homeobox protein BarH-like 2;BARX2;ortholog	HOMEOBOX PROTEIN BARH-LIKE 2 (PTHR24330:SF7)	DNA binding protein(PC00009);homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=7014|UniProtKB=P50222	MEOX2	Homeobox protein MOX-2;MEOX2;ortholog	HOMEOBOX PROTEIN MOX-2 (PTHR24328:SF1)	DNA binding protein(PC00009);homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=243|UniProtKB=P35611	ADD1	Alpha-adducin;ADD1;ortholog	ALPHA-ADDUCIN (PTHR10672:SF4)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=3686|UniProtKB=P55075	FGF8	Fibroblast growth factor 8;FGF8;ortholog	FIBROBLAST GROWTH FACTOR 8 (PTHR11486:SF3)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=6910|UniProtKB=O95460	MATN4	Matrilin-4;MATN4;ortholog	MATRILIN-4 (PTHR24020:SF14)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=29827|UniProtKB=O14950	MYL12B	Myosin regulatory light chain 12B;MYL12B;ortholog	MYOSIN REGULATORY LIGHT CHAIN 12B (PTHR23049:SF58)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=196|UniProtKB=Q9Y3Q7	ADAM18	Disintegrin and metalloproteinase domain-containing protein 18;ADAM18;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 18 (PTHR11905:SF158)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=7391|UniProtKB=P28360	MSX1	Homeobox protein MSX-1;MSX1;ortholog	HOMEOBOX PROTEIN MSX-1 (PTHR24338:SF8)	DNA binding protein(PC00009);homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=24473|UniProtKB=Q6UWY5	OLFML1	Olfactomedin-like protein 1;OLFML1;ortholog	OLFACTOMEDIN-LIKE PROTEIN 1 (PTHR23192:SF13)	receptor(PC00197);structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=19222|UniProtKB=Q9NYS7	WSB2	WD repeat and SOCS box-containing protein 2;WSB2;ortholog	WD REPEAT AND SOCS BOX-CONTAINING PROTEIN 2 (PTHR15622:SF1)		Homo sapiens
+HUMAN|HGNC=3687|UniProtKB=P31371	FGF9	Fibroblast growth factor 9;FGF9;ortholog	FIBROBLAST GROWTH FACTOR 9 (PTHR11486:SF28)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=14334|UniProtKB=Q969V6	MKL1	MKL/myocardin-like protein 1;MKL1;ortholog	MKL/MYOCARDIN-LIKE PROTEIN 1 (PTHR22793:SF6)		Homo sapiens
+HUMAN|HGNC=11503|UniProtKB=O43426	SYNJ1	Synaptojanin-1;SYNJ1;ortholog	SYNAPTOJANIN-1 (PTHR11200:SF158)	phosphatase(PC00181)	Homo sapiens
+HUMAN|HGNC=7566|UniProtKB=P23409	MYF6	Myogenic factor 6;MYF6;ortholog	MYOGENIC FACTOR 6 (PTHR11534:SF4)	basic helix-loop-helix transcription factor(PC00055);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=8725|UniProtKB=Q16822	PCK2	Phosphoenolpyruvate carboxykinase [GTP], mitochondrial;PCK2;ortholog	PHOSPHOENOLPYRUVATE CARBOXYKINASE [GTP], MITOCHONDRIAL (PTHR11561:SF11)	decarboxylase(PC00089)	Homo sapiens
+HUMAN|HGNC=2193|UniProtKB=Q07092	COL16A1	Collagen alpha-1(XVI) chain;COL16A1;ortholog	COLLAGEN ALPHA-1(XVI) CHAIN (PTHR24023:SF372)		Homo sapiens
+HUMAN|HGNC=188|UniProtKB=O14672	ADAM10	Disintegrin and metalloproteinase domain-containing protein 10;ADAM10;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 10 (PTHR45702:SF4)		Homo sapiens
+HUMAN|HGNC=2904|UniProtKB=Q8TDM6	DLG5	Disks large homolog 5;DLG5;ortholog	DISKS LARGE HOMOLOG 5 (PTHR46360:SF1)		Homo sapiens
+HUMAN|HGNC=5217|UniProtKB=P14060	HSD3B1	3 beta-hydroxysteroid dehydrogenase/Delta 5--4-isomerase type 1;HSD3B1;ortholog	3 BETA-HYDROXYSTEROID DEHYDROGENASE/DELTA 5--4-ISOMERASE TYPE 1 (PTHR10366:SF378)	dehydratase(PC00091);epimerase/racemase(PC00096);oxidoreductase(PC00176)	Homo sapiens
+HUMAN|HGNC=14630|UniProtKB=Q96HD1	CRELD1	Cysteine-rich with EGF-like domain protein 1;CRELD1;ortholog	CYSTEINE-RICH WITH EGF-LIKE DOMAIN PROTEIN 1 (PTHR24034:SF114)	annexin(PC00050);calmodulin(PC00061);cell adhesion molecule(PC00069);extracellular matrix glycoprotein(PC00100);extracellular matrix structural protein(PC00103);signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=15754|UniProtKB=P24844	MYL9	Myosin regulatory light polypeptide 9;MYL9;ortholog	MYOSIN REGULATORY LIGHT POLYPEPTIDE 9 (PTHR23049:SF66)	actin family cytoskeletal protein(PC00041);calmodulin(PC00061)	Homo sapiens
+HUMAN|HGNC=5021|UniProtKB=P55317	FOXA1	Hepatocyte nuclear factor 3-alpha;FOXA1;ortholog	HEPATOCYTE NUCLEAR FACTOR 3-ALPHA (PTHR11829:SF195)	DNA binding protein(PC00009);winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=1836|UniProtKB=Q15744	CEBPE	CCAAT/enhancer-binding protein epsilon;CEBPE;ortholog	CCAAT/ENHANCER-BINDING PROTEIN EPSILON (PTHR23334:SF27)	basic leucine zipper transcription factor(PC00056);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=9865|UniProtKB=P10826	RARB	Retinoic acid receptor beta;RARB;ortholog	RETINOIC ACID RECEPTOR BETA (PTHR24082:SF286)	C4 zinc finger nuclear receptor(PC00169);nucleic acid binding(PC00171);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=24073|UniProtKB=Q86SJ2	AMIGO2	Amphoterin-induced protein 2;AMIGO2;ortholog	AMPHOTERIN-INDUCED PROTEIN 2 (PTHR24368:SF209)		Homo sapiens
+HUMAN|HGNC=11367|UniProtKB=P51692	STAT5B	Signal transducer and activator of transcription 5B;STAT5B;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 5B (PTHR11801:SF39)	nucleic acid binding(PC00171);transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=4173|UniProtKB=P43694	GATA4	Transcription factor GATA-4;GATA4;ortholog	TRANSCRIPTION FACTOR GATA-4 (PTHR10071:SF154)		Homo sapiens
+HUMAN|HGNC=11829|UniProtKB=O95049	TJP3	Tight junction protein ZO-3;TJP3;ortholog	TIGHT JUNCTION PROTEIN ZO-3 (PTHR13865:SF11)	tight junction(PC00214)	Homo sapiens
+HUMAN|HGNC=3591|UniProtKB=Q9Y4F1	FARP1	FERM, ARHGEF and pleckstrin domain-containing protein 1;FARP1;ortholog	FERM, ARHGEF AND PLECKSTRIN DOMAIN-CONTAINING PROTEIN 1 (PTHR45858:SF2)		Homo sapiens
+HUMAN|HGNC=11641|UniProtKB=Q9NQB0	TCF7L2	Transcription factor 7-like 2;TCF7L2;ortholog	TRANSCRIPTION FACTOR 7-LIKE 2 (PTHR10373:SF32)		Homo sapiens
+HUMAN|HGNC=2180|UniProtKB=O43405	COCH	Cochlin;COCH;ortholog	COCHLIN (PTHR24020:SF36)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=10809|UniProtKB=Q13326	SGCG	Gamma-sarcoglycan;SGCG;ortholog	GAMMA-SARCOGLYCAN (PTHR12939:SF4)	cytoskeletal protein(PC00085)	Homo sapiens
+HUMAN|HGNC=4172|UniProtKB=P23771	GATA3	Trans-acting T-cell-specific transcription factor GATA-3;GATA3;ortholog	TRANS-ACTING T-CELL-SPECIFIC TRANSCRIPTION FACTOR GATA-3 (PTHR10071:SF106)		Homo sapiens
+HUMAN|HGNC=8574|UniProtKB=P43034	PAFAH1B1	Platelet-activating factor acetylhydrolase IB subunit alpha;PAFAH1B1;ortholog	PLATELET-ACTIVATING FACTOR ACETYLHYDROLASE IB SUBUNIT ALPHA (PTHR44129:SF6)		Homo sapiens
+HUMAN|HGNC=6908|UniProtKB=O00339	MATN2	Matrilin-2;MATN2;ortholog	MATRILIN-2 (PTHR24020:SF35)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=2211|UniProtKB=P12109	COL6A1	Collagen alpha-1(VI) chain;COL6A1;ortholog	COLLAGEN ALPHA-1(VI) CHAIN (PTHR24020:SF18)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=7565|UniProtKB=P13349	MYF5	Myogenic factor 5;MYF5;ortholog	MYOGENIC FACTOR 5 (PTHR11534:SF3)	basic helix-loop-helix transcription factor(PC00055);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=17187|UniProtKB=Q99784	OLFM1	Noelin;OLFM1;ortholog	NOELIN (PTHR23192:SF34)	receptor(PC00197);structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=4066|UniProtKB=Q13480	GAB1	GRB2-associated-binding protein 1;GAB1;ortholog	GRB2-ASSOCIATED-BINDING PROTEIN 1 (PTHR45960:SF5)	transmembrane receptor regulatory/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=215|UniProtKB=P78325	ADAM8	Disintegrin and metalloproteinase domain-containing protein 8;ADAM8;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 8 (PTHR11905:SF20)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=10251|UniProtKB=Q13464	ROCK1	Rho-associated protein kinase 1;ROCK1;ortholog	RHO-ASSOCIATED PROTEIN KINASE 1 (PTHR22988:SF33)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=11515|UniProtKB=O15178	T	Brachyury protein;T;ortholog	BRACHYURY PROTEIN (PTHR11267:SF83)	Rel homology transcription factor(PC00252);nucleic acid binding(PC00171)	Homo sapiens
+HUMAN|HGNC=10723|UniProtKB=Q14563	SEMA3A	Semaphorin-3A;SEMA3A;ortholog	SEMAPHORIN-3A (PTHR11036:SF23)	membrane-bound signaling molecule(PC00152)	Homo sapiens
+HUMAN|HGNC=6722|UniProtKB=P50895	BCAM	Basal cell adhesion molecule;BCAM;ortholog	BASAL CELL ADHESION MOLECULE (PTHR11973:SF15)	immunoglobulin superfamily cell adhesion molecule(PC00125);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6909|UniProtKB=O15232	MATN3	Matrilin-3;MATN3;ortholog	MATRILIN-3 (PTHR24020:SF12)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=216|UniProtKB=Q13443	ADAM9	Disintegrin and metalloproteinase domain-containing protein 9;ADAM9;ortholog	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 9 (PTHR11905:SF136)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=11950|UniProtKB=P45378	TNNT3	Troponin T, fast skeletal muscle;TNNT3;ortholog	TROPONIN T, FAST SKELETAL MUSCLE (PTHR11521:SF4)	actin binding motor protein(PC00040)	Homo sapiens
+HUMAN|HGNC=7606|UniProtKB=Q13402	MYO7A	Unconventional myosin-VIIa;MYO7A;ortholog	UNCONVENTIONAL MYOSIN-VIIA (PTHR13140:SF369)	G-protein modulator(PC00022);actin binding motor protein(PC00040);cell junction protein(PC00070)	Homo sapiens

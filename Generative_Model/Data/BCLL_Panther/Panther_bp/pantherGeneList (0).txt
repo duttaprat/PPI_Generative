@@ -1,0 +1,91 @@
+HUMAN|HGNC=5344|UniProtKB=P05362	ICAM1	Intercellular adhesion molecule 1;ICAM1;ortholog	INTERCELLULAR ADHESION MOLECULE 1 (PTHR13771:SF16)		Homo sapiens
+HUMAN|HGNC=3657|UniProtKB=P07332	FES	Tyrosine-protein kinase Fes/Fps;FES;ortholog	TYROSINE-PROTEIN KINASE FES/FPS (PTHR24418:SF197)		Homo sapiens
+HUMAN|HGNC=1753|UniProtKB=P55290	CDH13	Cadherin-13;CDH13;ortholog	CADHERIN-13 (PTHR24027:SF80)		Homo sapiens
+HUMAN|HGNC=6482|UniProtKB=P24043	LAMA2	Laminin subunit alpha-2;LAMA2;ortholog	LAMININ SUBUNIT ALPHA-2 (PTHR10574:SF291)	extracellular matrix linker protein(PC00101);protease inhibitor(PC00191);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=2509|UniProtKB=P35221	CTNNA1	Catenin alpha-1;CTNNA1;ortholog	CATENIN ALPHA-1 (PTHR18914:SF24)	cell adhesion molecule(PC00069);non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=7885|UniProtKB=P48745	NOV	Protein NOV homolog;NOV;ortholog	PROTEIN NOV HOMOLOG (PTHR11348:SF8)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=10720|UniProtKB=P14151	SELL	L-selectin;SELL;ortholog	L-SELECTIN (PTHR19325:SF496)		Homo sapiens
+HUMAN|HGNC=9862|UniProtKB=P61225	RAP2B	Ras-related protein Rap-2b;RAP2B;ortholog	RAS-RELATED PROTEIN RAP-2B (PTHR24070:SF194)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=371|UniProtKB=Q12802	AKAP13	A-kinase anchor protein 13;AKAP13;ortholog	A-KINASE ANCHOR PROTEIN 13 (PTHR13944:SF18)		Homo sapiens
+HUMAN|HGNC=1762|UniProtKB=P22223	CDH3	Cadherin-3;CDH3;ortholog	CADHERIN-3 (PTHR24027:SF267)		Homo sapiens
+HUMAN|HGNC=1764|UniProtKB=P33151	CDH5	Cadherin-5;CDH5;ortholog	CADHERIN-5 (PTHR24027:SF89)		Homo sapiens
+HUMAN|HGNC=485|UniProtKB=O15123	ANGPT2	Angiopoietin-2;ANGPT2;ortholog	ANGIOPOIETIN-2 (PTHR19143:SF199)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=1683|UniProtKB=P09326	CD48	CD48 antigen;CD48;ortholog	CD48 ANTIGEN (PTHR12080:SF47)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124);protein kinase(PC00193);signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2196|UniProtKB=Q14993	COL19A1	Collagen alpha-1(XIX) chain;COL19A1;ortholog	COLLAGEN ALPHA-1(XIX) CHAIN (PTHR24023:SF938)		Homo sapiens
+HUMAN|HGNC=9857|UniProtKB=P61224	RAP1B	Ras-related protein Rap-1b;RAP1B;ortholog	RAS-RELATED PROTEIN RAP-1B-RELATED (PTHR24070:SF393)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=1665|UniProtKB=Q14108	SCARB2	Lysosome membrane protein 2;SCARB2;ortholog	LYSOSOME MEMBRANE PROTEIN 2 (PTHR11923:SF92)	receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6158|UniProtKB=P16144	ITGB4	Integrin beta-4;ITGB4;ortholog	INTEGRIN BETA-4 (PTHR10082:SF42)	cell adhesion molecule(PC00069);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5345|UniProtKB=P13598	ICAM2	Intercellular adhesion molecule 2;ICAM2;ortholog	INTERCELLULAR ADHESION MOLECULE 2 (PTHR13771:SF3)		Homo sapiens
+HUMAN|HGNC=6407|UniProtKB=P01116	KRAS	GTPase KRas;KRAS;ortholog	GTPASE KRAS (PTHR24070:SF388)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=11939|UniProtKB=P41273	TNFSF9	Tumor necrosis factor ligand superfamily member 9;TNFSF9;ortholog	TUMOR NECROSIS FACTOR LIGAND SUPERFAMILY MEMBER 9 (PTHR15153:SF0)		Homo sapiens
+HUMAN|HGNC=6138|UniProtKB=P08514	ITGA2B	Integrin alpha-IIb;ITGA2B;ortholog	INTEGRIN ALPHA-IIB (PTHR23220:SF73)		Homo sapiens
+HUMAN|HGNC=17664|UniProtKB=Q9NQS3	PRR3,PVRL3	Nectin-3;NECTIN3;ortholog	NECTIN-3 (PTHR23277:SF12)		Homo sapiens
+HUMAN|HGNC=1750|UniProtKB=P55287	CDH11	Cadherin-11;CDH11;ortholog	CADHERIN-11 (PTHR24027:SF85)		Homo sapiens
+HUMAN|HGNC=15813|UniProtKB=Q9BZA8	PCDH11Y	Protocadherin-11 Y-linked;PCDH11Y;ortholog	PROTOCADHERIN-11 X-LINKED-RELATED (PTHR24028:SF254)		Homo sapiens
+HUMAN|HGNC=7516|UniProtKB=Q9HC84	MUC5B	Mucin-5B;MUC5B;ortholog	MUCIN-5B (PTHR11339:SF269)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=6152|UniProtKB=P20702	ITGAX	Integrin alpha-X;ITGAX;ortholog	INTEGRIN ALPHA-X (PTHR23220:SF124)		Homo sapiens
+HUMAN|HGNC=9099|UniProtKB=Q9UIW2	NOV	Plexin-A1;PLXNA1;ortholog	PLEXIN-A1 (PTHR22625:SF35)		Homo sapiens
+HUMAN|HGNC=9840|UniProtKB=P11234	RALB	Ras-related protein Ral-B;RALB;ortholog	RAS-RELATED PROTEIN RAL-B (PTHR24070:SF199)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=3154|UniProtKB=O94769	ECM2	Extracellular matrix protein 2;ECM2;ortholog	EXTRACELLULAR MATRIX PROTEIN 2 (PTHR46544:SF1)		Homo sapiens
+HUMAN|HGNC=12663|UniProtKB=P19320	VCAM1	Vascular cell adhesion protein 1;VCAM1;ortholog	VASCULAR CELL ADHESION PROTEIN 1 (PTHR13771:SF14)		Homo sapiens
+HUMAN|HGNC=9861|UniProtKB=P10114	RAP2A	Ras-related protein Rap-2a;RAP2A;ortholog	RAS-RELATED PROTEIN RAP-2A (PTHR24070:SF221)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=3234|UniProtKB=Q9H1U4	MEGF9	Multiple epidermal growth factor-like domains protein 9;MEGF9;ortholog	MULTIPLE EPIDERMAL GROWTH FACTOR-LIKE DOMAINS PROTEIN 9 (PTHR10574:SF298)	extracellular matrix linker protein(PC00101);protease inhibitor(PC00191);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=3039|UniProtKB=O60469	DSCAM	Down syndrome cell adhesion molecule;DSCAM;ortholog	DOWN SYNDROME CELL ADHESION MOLECULE (PTHR10075:SF51)		Homo sapiens
+HUMAN|HGNC=8667|UniProtKB=Q9Y5I0	PCDHA13	Protocadherin alpha-13;PCDHA13;ortholog	PROTOCADHERIN ALPHA-13 (PTHR24028:SF101)		Homo sapiens
+HUMAN|HGNC=9612|UniProtKB=Q14289	PTK2B	Protein-tyrosine kinase 2-beta;PTK2B;ortholog	PROTEIN-TYROSINE KINASE 2-BETA (PTHR24418:SF94)		Homo sapiens
+HUMAN|HGNC=6150|UniProtKB=P06756	ITGAV	Integrin alpha-V;ITGAV;ortholog	INTEGRIN ALPHA-V (PTHR23220:SF4)		Homo sapiens
+HUMAN|HGNC=7371|UniProtKB=Q13421	MSLN	Mesothelin;MSLN;ortholog	MESOTHELIN (PTHR23412:SF6)	extracellular matrix glycoprotein(PC00100)	Homo sapiens
+HUMAN|HGNC=6142|UniProtKB=P23229	ITGA6	Integrin alpha-6;ITGA6;ortholog	INTEGRIN ALPHA-6 (PTHR23220:SF9)		Homo sapiens
+HUMAN|HGNC=6470|UniProtKB=P32004	L1CAM	Neural cell adhesion molecule L1;L1CAM;ortholog	NEURAL CELL ADHESION MOLECULE L1 (PTHR45080:SF13)		Homo sapiens
+HUMAN|HGNC=3052|UniProtKB=P15924	DSP	Desmoplakin;DSP;ortholog	DESMOPLAKIN (PTHR23169:SF26)	intermediate filament binding protein(PC00130)	Homo sapiens
+HUMAN|HGNC=533|UniProtKB=P04083	ANXA1	Annexin A1;ANXA1;ortholog	ANNEXIN A1 (PTHR10502:SF17)		Homo sapiens
+HUMAN|HGNC=13469|UniProtKB=O75509	TNFRSF21	Tumor necrosis factor receptor superfamily member 21;TNFRSF21;ortholog	TUMOR NECROSIS FACTOR RECEPTOR SUPERFAMILY MEMBER 21 (PTHR46921:SF1)		Homo sapiens
+HUMAN|HGNC=6155|UniProtKB=P05107	ITGB2	Integrin beta-2;ITGB2;ortholog	INTEGRIN BETA-2 (PTHR10082:SF15)	cell adhesion molecule(PC00069);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=24880|UniProtKB=O95274	LYPD3	Ly6/PLAUR domain-containing protein 3;LYPD3;ortholog	LY6/PLAUR DOMAIN-CONTAINING PROTEIN 3 (PTHR10624:SF8)		Homo sapiens
+HUMAN|HGNC=1802|UniProtKB=Q15517	CDSN	Corneodesmosin;CDSN;ortholog	CORNEODESMOSIN (PTHR23207:SF2)		Homo sapiens
+HUMAN|HGNC=1759|UniProtKB=P19022	CDH2	Cadherin-2;CDH2;ortholog	CADHERIN-2 (PTHR24027:SF79)		Homo sapiens
+HUMAN|HGNC=6139|UniProtKB=P26006	ITGA3	Integrin alpha-3;ITGA3;ortholog	INTEGRIN ALPHA-3 (PTHR23220:SF89)		Homo sapiens
+HUMAN|HGNC=3791|UniProtKB=P15328	FOLR1	Folate receptor alpha;FOLR1;ortholog	FOLATE RECEPTOR ALPHA (PTHR10517:SF15)		Homo sapiens
+HUMAN|HGNC=9662|UniProtKB=P78324	SIRPA	Tyrosine-protein phosphatase non-receptor type substrate 1;SIRPA;ortholog	TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE SUBSTRATE 1 (PTHR19971:SF13)	chemokine(PC00074)	Homo sapiens
+HUMAN|HGNC=400|UniProtKB=Q13740	ALCAM	CD166 antigen;ALCAM;ortholog	CD166 ANTIGEN (PTHR11973:SF2)	immunoglobulin superfamily cell adhesion molecule(PC00125);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=16953|UniProtKB=Q15063	POSTN	Periostin;POSTN;ortholog	PERIOSTIN (PTHR10900:SF12)	cell adhesion molecule(PC00069);signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=6040|UniProtKB=Q13418	ILK	Integrin-linked protein kinase;ILK;ortholog	INTEGRIN-LINKED PROTEIN KINASE (PTHR44329:SF57)		Homo sapiens
+HUMAN|HGNC=9855|UniProtKB=P62834	RAP1A	Ras-related protein Rap-1A;RAP1A;ortholog	RAS-RELATED PROTEIN RAP-1A (PTHR24070:SF395)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=6144|UniProtKB=P53708	ITGA8	Integrin alpha-8;ITGA8;ortholog	INTEGRIN ALPHA-8 (PTHR23220:SF5)		Homo sapiens
+HUMAN|HGNC=3623|UniProtKB=O00602	FCN1	Ficolin-1;FCN1;ortholog	FICOLIN-1-RELATED (PTHR19143:SF346)	signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2500|UniProtKB=P29279	CTGF	Connective tissue growth factor;CTGF;ortholog	CONNECTIVE TISSUE GROWTH FACTOR (PTHR11348:SF7)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=7515|UniProtKB=P98088	MUC5AC	Mucin-5AC;MUC5AC;ortholog	MUCIN-5AC (PTHR11339:SF371)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=10023|UniProtKB=Q92963	RIT1	GTP-binding protein Rit1;RIT1;ortholog	GTP-BINDING PROTEIN RIT1 (PTHR24070:SF208)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=6137|UniProtKB=P17301	ITGA2	Integrin alpha-2;ITGA2;ortholog	INTEGRIN ALPHA-2 (PTHR23220:SF23)		Homo sapiens
+HUMAN|HGNC=1751|UniProtKB=P55289	CDH12	Cadherin-12;CDH12;ortholog	CADHERIN-12 (PTHR24027:SF96)		Homo sapiens
+HUMAN|HGNC=9101|UniProtKB=P51805	PLXNA3	Plexin-A3;PLXNA3;ortholog	PLEXIN-A3 (PTHR22625:SF32)		Homo sapiens
+HUMAN|HGNC=2515|UniProtKB=O60716	CTNND1	Catenin delta-1;CTNND1;ortholog	CATENIN DELTA-1 (PTHR10372:SF6)	intermediate filament binding protein(PC00130)	Homo sapiens
+HUMAN|HGNC=9839|UniProtKB=P11233	RALA	Ras-related protein Ral-A;RALA;ortholog	RAS-RELATED PROTEIN RAL-A (PTHR24070:SF174)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=1705|UniProtKB=P42081	CD86	T-lymphocyte activation antigen CD86;CD86;ortholog	T-LYMPHOCYTE ACTIVATION ANTIGEN CD86 (PTHR25466:SF2)		Homo sapiens
+HUMAN|HGNC=12770|UniProtKB=O76076	WISP2	WNT1-inducible-signaling pathway protein 2;WISP2;ortholog	WNT1-INDUCIBLE-SIGNALING PATHWAY PROTEIN 2 (PTHR11348:SF22)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=1754|UniProtKB=P55291	CDH3	Cadherin-15;CDH15;ortholog	CADHERIN-15 (PTHR24027:SF300)		Homo sapiens
+HUMAN|HGNC=2193|UniProtKB=Q07092	COL16A1	Collagen alpha-1(XVI) chain;COL16A1;ortholog	COLLAGEN ALPHA-1(XVI) CHAIN (PTHR24023:SF372)		Homo sapiens
+HUMAN|HGNC=8716|UniProtKB=Q9UN70	L11372	Protocadherin gamma-C3;PCDHGC3;ortholog	PROTOCADHERIN GAMMA-C3 (PTHR24028:SF70)		Homo sapiens
+HUMAN|HGNC=1639|UniProtKB=P06729	CD2	T-cell surface antigen CD2;CD2;ortholog	T-CELL SURFACE ANTIGEN CD2 (PTHR12080:SF54)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124);membrane-bound signaling molecule(PC00152);protein kinase(PC00193)	Homo sapiens
+HUMAN|HGNC=14592|UniProtKB=Q7Z628	NET1	Neuroepithelial cell-transforming gene 1 protein;NET1;ortholog	NEUROEPITHELIAL CELL-TRANSFORMING GENE 1 PROTEIN (PTHR46006:SF4)		Homo sapiens
+HUMAN|HGNC=6134|UniProtKB=P56199	ITGA1	Integrin alpha-1;ITGA1;ortholog	INTEGRIN ALPHA-1 (PTHR23220:SF22)		Homo sapiens
+HUMAN|HGNC=5173|UniProtKB=P01112	HRAS	GTPase HRas;HRAS;ortholog	GTPASE HRAS (PTHR24070:SF385)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=6145|UniProtKB=Q13797	ITGA9	Integrin alpha-9;ITGA9;ortholog	INTEGRIN ALPHA-9 (PTHR23220:SF69)		Homo sapiens
+HUMAN|HGNC=1763|UniProtKB=P55283	CDH4	Cadherin-4;CDH4;ortholog	CADHERIN-4 (PTHR24027:SF81)		Homo sapiens
+HUMAN|HGNC=6146|UniProtKB=Q13349	ITGAD	Integrin alpha-D;ITGAD;ortholog	INTEGRIN ALPHA-D (PTHR23220:SF19)		Homo sapiens
+HUMAN|HGNC=3795|UniProtKB=P41439	FOLR3	Folate receptor gamma;FOLR3;ortholog	FOLATE RECEPTOR GAMMA (PTHR10517:SF17)		Homo sapiens
+HUMAN|HGNC=1748|UniProtKB=P12830	CDH1	Cadherin-1;CDH1;ortholog	CADHERIN-1 (PTHR24027:SF319)		Homo sapiens
+HUMAN|HGNC=6765|UniProtKB=Q13477	MADCAM1	Mucosal addressin cell adhesion molecule 1;MADCAM1;ortholog	MUCOSAL ADDRESSIN CELL ADHESION MOLECULE 1 (PTHR14162:SF1)		Homo sapiens
+HUMAN|HGNC=6156|UniProtKB=P05106	ITGB3	Integrin beta-3;ITGB3;ortholog	INTEGRIN BETA-3 (PTHR10082:SF25)	cell adhesion molecule(PC00069);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11912|UniProtKB=Q92956	TNFRSF14	Tumor necrosis factor receptor superfamily member 14;TNFRSF14;ortholog	TUMOR NECROSIS FACTOR RECEPTOR SUPERFAMILY MEMBER 14 (PTHR46838:SF1)		Homo sapiens
+HUMAN|HGNC=8659|UniProtKB=O60245	PCDH7	Protocadherin-7;PCDH7;ortholog	PROTOCADHERIN-7 (PTHR24028:SF253)		Homo sapiens
+HUMAN|HGNC=3612|UniProtKB=P06734	FCER2	Low affinity immunoglobulin epsilon Fc receptor;FCER2;ortholog	LOW AFFINITY IMMUNOGLOBULIN EPSILON FC RECEPTOR (PTHR22802:SF311)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124)	Homo sapiens
+HUMAN|HGNC=2901|UniProtKB=Q15700	DLG2	Disks large homolog 2;DLG2;ortholog	DISKS LARGE HOMOLOG 2-RELATED (PTHR23119:SF6)	transmembrane receptor regulatory/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=6722|UniProtKB=P50895	BCAM	Basal cell adhesion molecule;BCAM;ortholog	BASAL CELL ADHESION MOLECULE (PTHR11973:SF15)	immunoglobulin superfamily cell adhesion molecule(PC00125);receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=682|UniProtKB=Q92974	ARHGEF2	Rho guanine nucleotide exchange factor 2;ARHGEF2;ortholog	RHO GUANINE NUCLEOTIDE EXCHANGE FACTOR 2 (PTHR13944:SF20)		Homo sapiens
+HUMAN|HGNC=16051|UniProtKB=Q8TEW0	PARD3	Partitioning defective 3 homolog;PARD3;ortholog	PARTITIONING DEFECTIVE 3 HOMOLOG (PTHR16484:SF10)		Homo sapiens
+HUMAN|HGNC=6730|UniProtKB=Q9HBG7	LY9	T-lymphocyte surface antigen Ly-9;LY9;ortholog	T-LYMPHOCYTE SURFACE ANTIGEN LY-9 (PTHR12080:SF44)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124);membrane-bound signaling molecule(PC00152);protein kinase(PC00193)	Homo sapiens
+HUMAN|HGNC=1756|UniProtKB=Q12864	CDH17	Cadherin-17;CDH17;ortholog	CADHERIN-17 (PTHR24027:SF419)		Homo sapiens
+HUMAN|HGNC=11771|UniProtKB=Q15582	TGFBI	Transforming growth factor-beta-induced protein ig-h3;TGFBI;ortholog	TRANSFORMING GROWTH FACTOR-BETA-INDUCED PROTEIN IG-H3 (PTHR10900:SF82)	cell adhesion molecule(PC00069);signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=1819|UniProtKB=Q14002	CEACAM7	Carcinoembryonic antigen-related cell adhesion molecule 7;CEACAM7;ortholog	CARCINOEMBRYONIC ANTIGEN-RELATED CELL ADHESION MOLECULE 7 (PTHR12080:SF58)	cell adhesion molecule(PC00069);immunoglobulin receptor superfamily(PC00124);protein kinase(PC00193);signaling molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2516|UniProtKB=Q9UQB3	CTNND2	Catenin delta-2;CTNND2;ortholog	CATENIN DELTA-2 (PTHR10372:SF9)	intermediate filament binding protein(PC00130)	Homo sapiens
