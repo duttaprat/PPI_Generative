@@ -14,7 +14,7 @@
  ## Getting Started 
  These instructions will allow you to emulate the results obtained from the code for development and testing purposes.
  ### Prerequisites
-* **[Python 2.7+](https://www.python.org/downloads/release/python-2713/)**{*For MOO-based clustering. *}
+* **[Python 2.7+](https://www.python.org/downloads/release/python-2713/)** {*For MOO-based clustering.*}
 * **[Python 3.6](https://www.python.org/downloads/)** {*For developing generative model*}
 * **[sklearn](https://scikit-learn.org/stable/install.html)**
 * **[matplotlib 2.0+](https://matplotlib.org/users/installing.html)**
