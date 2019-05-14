@@ -6,8 +6,8 @@
 
  
 
-- **Authors:** Pratik Dutta, Sanket Pai, Aviral Kumar and Sriparna Saha
-- **Affiliation:**
+- **Authors:** Pratik Dutta<sup>1</sup>, Sanket Pai<sup>2</sup>, Aviral Kumar<sup>2</sup> and Sriparna Saha<sup>1</sup>
+- **Affiliation:** <sup>1</sup>Department of Computer Science and Engineering, IIT Patna, India, <sup>2</sup>Depatment of Chemical Science and Technology, IIT Patna, India
 - **Submitted:**
 
  
