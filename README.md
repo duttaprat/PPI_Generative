@@ -36,23 +36,33 @@ If the above doesn't work try upgrading the setup tools as follows -
 **NOTE:** To install Snorkel follow the given steps or refer **[here](https://github.com/HazyResearch/snorkel)** .
 This section is meant to help setup Snorkel on your systems. For more detailed instructions see the **[Installation section](https://github.com/HazyResearch/snorkel#installation)**. These instructions assume that you already have conda installed.
 First, download and extract a copy of the Snorkel directory from a **[GitHub release](https://github.com/HazyResearch/snorkel/releases)** (version 0.7.0 or greater). Then navigate to the root of the snorkel directory in a terminal and run the following:
-> Install the environment                                                                                                               
+> install the environment                                                                                                               
 > conda env create --file=environment.yml                                                                                               
-> Activate the environment                                                                                                              
+> activate the environment                                                                                                              
 > source activate snorkel                                                                                                               
-> Install snorkel in the environment                                                                                                     
-> pip install .                                                                                                                         
+> install snorkel in the environment                                                                                                     
+> pip install
+
+
 ## Description
-### 1.
-### 2.
-### 3.
+### 1. MOO-based Clustering
+The details procedure for running the MOO-based clustering is described in the our [GitHub repository](https://github.com/sduttap16/DeepEnsm). 
+
+### 2. Generative Model
+The proposed generative model utilizes protein interaction information as the weighted factor for each solution. This folder contains additional files that helps to integrate the protein interaction information with the generative model. The `generative model` is obtained from the [Snorkel](https://github.com/HazyResearch/snorkel). To run the code, please activate [Snorkel](https://github.com/HazyResearch/snorkel) environment. Then download the following files and store in the main folder
+
+* `panther.py` This file is used to generate additional labels from GO-based solutions which is incorporated along with MOO-based solutions in order to increase the biological significance.
+
+* `ppi_in.py` TThis file is used to process the data obtained from the protein - protein Interaction database which is used to generate weights which represent the accuracy of the weak supervision sources.
+
+* `PPI_gen_model.ipynb`  Protein interaction based modified implementation of the generative model. This modified generative model takes both MOO-based clustering and GO-based solutions along with the protein interaction information to generate final labels.
+
+
 ## Authors
 - [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (Ph.D, Indian Institute Of Technology Patna)
-- Sanket Pai (B.tech, Indian Institute Of Technology Patna)
-- Aviral Kumar (B.tech Indian Institute Of Technology Patna)
+- Sanket Pai (B.Tech, Indian Institute Of Technology Patna)
+- Aviral Kumar (B.Tech Indian Institute Of Technology Patna)
 - Dr. Sriparna Saha
 
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
