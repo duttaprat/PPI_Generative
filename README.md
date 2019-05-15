@@ -65,4 +65,4 @@ The proposed generative model utilizes protein interaction information as the we
 - Dr. Sriparna Saha
 
 ## Contribution
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+This work currently is under revision in [Bioinformatics](https://academic.oup.com/bioinformatics). For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author Pratik Dutta (pratik.pcs16@iitp.ac.in )
