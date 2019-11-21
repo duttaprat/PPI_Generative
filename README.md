@@ -10,6 +10,9 @@
 - **Affiliation:** <sup>1</sup>Department of Computer Science and Engineering, IIT Patna, India, <sup>2</sup>Depatment of Chemical Science and Technology, IIT Patna, India
 - **Submitted:(Under Major Revision)** [Scientific Reports](https://www.nature.com/srep/)
 
+ This repository contains code a **protein-protein interaction-based generative model** that can efficiently perform a **gene clustering**. In this work, **protein-protein interaction(PPI)** information is used as a latent variable of the **generative model**. The proposed generative model is fusion of protein interaction with [Snorkel](https://github.com/HazyResearch/snorkel). 
+ ![flowchart_pic](https://user-images.githubusercontent.com/29531232/69358402-c9eecc80-0cac-11ea-923f-c003c0ae27b0.png)
+
  
  ## Getting Started 
  These instructions will allow you to emulate the results obtained from the code for development and testing purposes.
