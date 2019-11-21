@@ -62,10 +62,10 @@ The proposed generative model utilizes protein interaction information as the we
 
 
 ## Authors
-- [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (Ph.D, Indian Institute Of Technology Patna)
-- Sanket Pai (B.Tech, Indian Institute Of Technology Patna)
-- Aviral Kumar (B.Tech Indian Institute Of Technology Patna)
-- Dr. Sriparna Saha
+- [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (Ph.D, Indian Institute of Technology Patna)
+- Sanket Pai (B.Tech, Indian Institute of Technology Patna)
+- Aviral Kumar (B.Tech Indian Institute of Technology Patna)
+- [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/)(Associate professor, Indian Institute of Technology Patna)
 
 ## Contribution
 This work currently is under major revision in [Scientific Reports](https://www.nature.com/srep/). For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author Pratik Dutta (pratik.pcs16@iitp.ac.in )
