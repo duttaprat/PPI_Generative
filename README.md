@@ -2,7 +2,7 @@
 
 ## This is the readme file that contains the guidelines and information about the compilation of the code of the following paper
 
-**Paper Name:-** Protein-protein Interaction based Generative Model for Improving Gene Clustering
+**Paper Name:-** [Protein-protein Interaction based Generative Model for Improving Gene Clustering](https://www.nature.com/articles/s41598-020-57437-5)
 
 - **Authors:** Pratik Dutta<sup>1</sup>, Sanket Pai<sup>2</sup>, Aviral Kumar<sup>2</sup> and Sriparna Saha<sup>1</sup>
 - **Affiliation:** <sup>1</sup>Department of Computer Science and Engineering, IIT Patna, India, <sup>2</sup>Depatment of Chemical Science and Technology, IIT Patna, India
