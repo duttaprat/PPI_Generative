@@ -8,6 +8,20 @@
 - **Affiliation:** <sup>1</sup>Department of Computer Science and Engineering, IIT Patna, India, <sup>2</sup>Depatment of Chemical Science and Technology, IIT Patna, India
 - **Accepted:(20/12/2019)** [Scientific Reports-Nature](https://www.nature.com/srep/)
 
+If you consider this work as useful, please cite it as 
+```bash
+@article{pratik2020protein,
+  title={A Protein Interaction Information-based Generative Model for Enhancing Gene Clustering},
+  author={Pratik, Dutta and Sriparna, Saha and Sanket, Pai and Aviral, Kumar},
+  journal={Scientific Reports (Nature Publisher Group)},
+  volume={10},
+  number={1},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+```
+
+
  This repository contains code a **protein-protein interaction-based generative model** that can efficiently perform a **gene clustering**. In this work, **protein-protein interaction(PPI)** information is used as a latent variable of the **generative model**. The proposed generative model is fusion of protein interaction with [Snorkel](https://github.com/HazyResearch/snorkel). 
  ![flowchart_pic](https://user-images.githubusercontent.com/29531232/69358402-c9eecc80-0cac-11ea-923f-c003c0ae27b0.png)
 
